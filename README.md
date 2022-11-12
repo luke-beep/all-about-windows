@@ -9,7 +9,7 @@ Date last updated: 12 November 2022
 
 3. Download this program [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and follow the next few steps.
 
-4. [Optimizer](optimizer.jpg)
+4. <img src="optimizer.jpg" alt="Optimizer" title="Optimizer">
 
 
 
