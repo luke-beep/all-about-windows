@@ -20,6 +20,7 @@ For example, if you would like to keep print service on then you do not tick "Di
 <img src="tab1.jpg" alt="Optimizer" title="Optimizer">
 <img src="tab2.jpg" alt="Optimizer" title="Optimizer">
 <img src="tb3.jpg" alt="Optimizer" title="Optimizer">
+
 <img src="tab4.jpg" alt="Optimizer" title="Optimizer">
 
 When you recieve the popup to delete all the selected startup items click yes.
