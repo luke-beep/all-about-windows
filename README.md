@@ -45,6 +45,10 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 9. Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**.
 
+10. Run SystemPropertiesAdvanced in WIN + R. Then hit settings for performance. Then select **Adjust for best performance**.
+
+11. If you external drives open up SystemP+ropertiesAdvanced and open up settings for Performance. Then go to advanced and under virtual memory select **No paging file**. This will disable the paging file on your external drives. **Note: do not do this on your main drive.**
+
 ### **Service Tweaks**
 
 ---
