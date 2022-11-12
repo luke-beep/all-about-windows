@@ -47,7 +47,7 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 10. Run SystemPropertiesAdvanced in WIN + R. Then hit settings for performance. Then select **Adjust for best performance**.
 
-11. If you external drives open up SystemP+ropertiesAdvanced and open up settings for Performance. Then go to advanced and under virtual memory select **No paging file**. This will disable the paging file on your external drives. **Note: do not do this on your main drive.**
+11. If you have external drives open up SystemPropertiesAdvanced and go to settings for Performance. Then go to advanced and under virtual memory select **No paging file**. This will disable the paging file on your external drives. **Do not do this on your main drive.**
 
 ### **Service Tweaks**
 
