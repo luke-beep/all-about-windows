@@ -9,7 +9,24 @@ Date last updated: 12 November 2022
 
 3. Download this program [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and follow the next few steps.
 
-4. <img src="optimizer.jpg" alt="Optimizer" title="Optimizer">
+<img src="optimizer.jpg" alt="Optimizer" title="Optimizer">
+
+For example, if you would like to keep print service on then you do not tick "Disable Print Service".
+
+4. Disable all the unnecessary startup apps. To do this you want to go and open up Task Manager. Go to the Startup tab and disable all the apps that you do not use.
+
+5. To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and simply go to the Startup tab and select all the apps that you do not use and delete them.
+
+<img src="tab1.jpg" alt="Optimizer" title="Optimizer">
+<img src="tab2.jpg" alt="Optimizer" title="Optimizer">
+<img src="tab3.jpg" alt="Optimizer" title="Optimizer">
+
+
+
+
+
+
+
 
 
 
