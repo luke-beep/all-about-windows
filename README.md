@@ -7,7 +7,7 @@ Winver: **22H2** (to check winver version do WIN + R and type "winver" and press
 
 **Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide How to [Create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3b9).
 
-**Disclamer**: I am not responsible for any damage to your computer. This guide is for educational purposes only.
+**Disclaimer:** I am not responsible for any damage to your computer. This guide is for educational purposes only.
 ### **General Tweaks**
 
 ---
@@ -101,6 +101,12 @@ WPD is a privacy tool [https://wpd.app/](https://wpd.app/). It is a free and ope
 Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
 
 An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
+
+### **General Information**
+
+---
+
+
 
 ### Credits
 
