@@ -27,12 +27,17 @@ For example, if you would like to keep print service on then you do not tick "Di
 5. To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and simply go to the Startup tab and select all the apps that you do not use and delete them.
 
 
-**<img src="tab1.png" alt="Optimizer" title="Optimizer">
-<img src="tab2.png" alt="Optimizer" title="Optimizer">
-<img src="tab3.png" alt="Optimizer" title="Optimizer">
-<img src="tab4.png" alt="Optimizer" title="Optimizer">**
+<img src="tab1.png" alt="Optimizer" title="Optimizer">
+**Select Startup tab.**
 
-When you recieve the popup to delete all the selected startup items click yes.
+<img src="tab2.png" alt="Optimizer" title="Optimizer">
+**Select all the apps that you do not use.**
+
+<img src="tab3.png" alt="Optimizer" title="Optimizer">
+**Click delete.**
+
+<img src="tab4.png" alt="Optimizer" title="Optimizer">
+**When you recieve the popup to delete all the selected startup items click yes.**
 
 6. Run Windows Disk Cleanup. WIN + R and type "cleanmgr.exe", then press enter. Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
 
