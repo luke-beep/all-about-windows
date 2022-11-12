@@ -3,7 +3,7 @@ A guide to optimize windows version 10 and 11.
 
 Date last updated: **12 November 2022**
 
-#**Tweaks**
+# **Tweaks**
 
 1. Uninstall all unnecessary apps.
 
