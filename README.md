@@ -1,7 +1,8 @@
-# guide-to-optimizing-windows
-A guide to optimize windows version 10 and 11.
+# A guide for optimizing windows 10 and 11
+
 
 Date last updated: **12 November 2022**
+Winver: **22H2** (to check winver version do WIN + R and type "winver" and press enter.)
 
 # **General Tweaks**
 
@@ -27,9 +28,9 @@ For example, if you would like to keep print service on then you do not tick "Di
 
 When you recieve the popup to delete all the selected startup items click yes.
 
-6. Run Windows Disk Cleanup. CTRL + R and type "cleanmgr.exe". Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
+6. Run Windows Disk Cleanup. WIN + R and type "cleanmgr.exe", then press enter. Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
 
-8. Run Windows Defragment and trimmer. CTRL + R and type "dfrgui.exe". Select your drive and press Optimize or Analyze.
+8. Run Windows Defragment and trimmer. WIN + R and type "dfrgui.exe", then press enter. Select your drive and press Optimize or Analyze.
 
 9. Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**.
 
@@ -39,10 +40,10 @@ When you recieve the popup to delete all the selected startup items click yes.
 
 # **Gaming Tweaks**
 Download [TCP Optimizer](https://www.speedguide.net/downloads.php)
-
+[Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
 Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
 
-	
+Guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M)	
 
 
 # **Opitional Tweaks**
@@ -52,4 +53,5 @@ WPD is a privacy tool [https://wpd.app/](https://wpd.app/)
 [https://www.oo-software.com/en/shutup10/update](https://www.oo-software.com/en/shutup10/update) an antispy tool for windows 10 and 11.
 
 
-Guide to Process Lasso
+Guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M)
+
