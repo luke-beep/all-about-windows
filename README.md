@@ -1,13 +1,13 @@
 # A guide for optimizing windows 10 and 11
 
 
-Date last updated: **12 November 2022**
+**Date last updated:** 12 November 2022
 
-Winver: **22H2** (to check winver version do WIN + R and type "winver" and press enter.)
+**Winver:** 22H2 (to check winver version do WIN + R and type "winver" and press enter.)
 
 **Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide How to [Create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3b9).
 
-**Disclaimer:** I am not responsible for any damage to your computer. This guide is for educational purposes only.
+**Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 ### **General Tweaks**
 
 ---
@@ -26,11 +26,11 @@ For example, if you would like to keep print service on then you do not tick "Di
 
 5. To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and simply go to the Startup tab and select all the apps that you do not use and delete them.
 
-<img src="tab1.png" alt="Optimizer" title="Optimizer">
+
+**<img src="tab1.png" alt="Optimizer" title="Optimizer">
 <img src="tab2.png" alt="Optimizer" title="Optimizer">
 <img src="tab3.png" alt="Optimizer" title="Optimizer">
-
-<img src="tab4.png" alt="Optimizer" title="Optimizer">
+<img src="tab4.png" alt="Optimizer" title="Optimizer">**
 
 When you recieve the popup to delete all the selected startup items click yes.
 
