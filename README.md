@@ -108,14 +108,6 @@ A windows tool that allows you to achive maximum productivity [https://github.co
 
 [https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner) a malware scanner. **Recommended**
 
-### **Guides**
-
----
-
-Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
-
-An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
-
 ### **Visual Tweaks**
 
 ---
@@ -125,6 +117,14 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 [https://www.startallback.com/](https://www.startallback.com/) a tool that allows you to change the start menu background. **Only Available for Windows 11**
 
 [https://startisback.com/](https://startisback.com/) a tool that allows you to change the start menu background. **Only Available for Windows 10**
+
+### **Guides**
+
+---
+
+Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
+
+An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
 
 ### Credits
 
