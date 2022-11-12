@@ -16,7 +16,7 @@
 
 2. Make sure that you have the latest version of windows. As of current date it would be 22H2. 
 
-3. Download this program [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and follow the next few steps.
+3. Download this program [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and continue following the guide.
 
 <img src="optimizer.png" alt="Optimizer" title="Optimizer">
 
@@ -26,18 +26,18 @@ For example, if you would like to keep print service on then you do not tick "Di
 
 5. To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and simply go to the Startup tab and select all the apps that you do not use and delete them.
 
-
-<img src="tab1.png" alt="Optimizer" title="Optimizer">
 Select Startup tab.
 
-<img src="tab2.png" alt="Optimizer" title="Optimizer">
+<img src="tab1.png" alt="Optimizer" title="Optimizer">
+
 Select all the apps that you do not use.
+<img src="tab2.png" alt="Optimizer" title="Optimizer">
 
-<img src="tab3.png" alt="Optimizer" title="Optimizer">
 Click delete.
+<img src="tab3.png" alt="Optimizer" title="Optimizer">
 
+When you recieve the popup to delete all the selected startup items click yes. This deletes all the registry keys for the startup apps that you do not use.
 <img src="tab4.png" alt="Optimizer" title="Optimizer">
-When you recieve the popup to delete all the selected startup items click yes. This deletes all the regestry keys for the startup apps that you do not use.
 
 6. Run Windows Disk Cleanup. WIN + R and type "cleanmgr.exe", then press enter. Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
 
@@ -120,9 +120,9 @@ A windows tool that allows you to achive maximum productivity [https://github.co
 
 A tool that allows for customization of Win32 apps. [https://github.com/MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone). **Only Available for Windows 11**
 
-[https://www.startallback.com/](https://www.startallback.com/) a tool that allows you to change the start menu background. **Only Available for Windows 11**
+[https://www.startallback.com/](https://www.startallback.com/) a tool that allows you to change the start menu. **Only Available for Windows 11**
 
-[https://startisback.com/](https://startisback.com/) a tool that allows you to change the start menu background. **Only Available for Windows 10**
+[https://startisback.com/](https://startisback.com/) a tool that allows you to change the start menu. **Only Available for Windows 10**
 
 ### **Guides**
 
