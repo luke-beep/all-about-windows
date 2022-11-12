@@ -37,7 +37,7 @@ When you recieve the popup to delete all the selected startup items click yes.
 
 
 
-**Gaming Tweaks**
+# **Gaming Tweaks**
 Download [TCP Optimizer](https://www.speedguide.net/downloads.php)
 
 Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
@@ -45,7 +45,7 @@ Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what
 	
 
 
-**Opitional Tweaks**
+# **Opitional Tweaks**
 WPD is a privacy tool [https://wpd.app/](https://wpd.app/)
 [https://www.bleachbit.org/](https://www.bleachbit.org/) is a disk cleaner for windows.
 [Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
