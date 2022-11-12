@@ -37,7 +37,7 @@ Select all the apps that you do not use.
 Click delete.
 
 <img src="tab4.png" alt="Optimizer" title="Optimizer">
-When you recieve the popup to delete all the selected startup items click yes.
+When you recieve the popup to delete all the selected startup items click yes. This deletes all the regestry keys for the startup apps that you do not use.
 
 6. Run Windows Disk Cleanup. WIN + R and type "cleanmgr.exe", then press enter. Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
 
