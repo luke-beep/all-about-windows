@@ -3,6 +3,8 @@ A guide to optimize windows version 10 and 11.
 
 Date last updated: **12 November 2022**
 
+**Tweaks**
+
 1. Uninstall all unnecessary apps.
 
 2. Make sure that you have the latest version of windows. As of current date it would be 22H2. 
@@ -25,27 +27,29 @@ For example, if you would like to keep print service on then you do not tick "Di
 
 When you recieve the popup to delete all the selected startup items click yes.
 
+6. Run Windows Disk Cleanup. CTRL + R and type "cleanmgr.exe". Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK***
+
+8. Run Windows Defragment and trimmer. CTRL + R and type "dfrgui.exe". Select your drive and press Optimize or Analyze.
+
+9. Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**.
 
 
 
 
 
+**Gaming Tweaks**
+Download [TCP Optimizer](https://www.speedguide.net/downloads.php)
 
+Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
 
-
-3. Download the latest SpeedGuide TCP Optimizer ~> [https://www.speedguide.net/downloads.php](https://www.speedguide.net/downloads.php)
-4. Follow this guide for TCP Optimizer ~> [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474)
-5. For additional network settings follow this guide ~> [https://github.com/CHEF-KOCH/GamingTweaks/tree/master/Network](https://github.com/CHEF-KOCH/GamingTweaks/tree/master/Network)
-
-	**Do not disable *Checksum Offload* - ignore guide**
 	
 
-**Recommended Tweaks**
- 1. Disk Cleaner ~> [https://www.bleachbit.org/](https://www.bleachbit.org/)
- 2. Windows Disk Cleanup
- 3. Windows  Defragment and Optimize Drives
- 4. Sidebar Diagnostics for GPU, CPU, Network and Disk ~> [https://github.com/ArcadeRenegade/SidebarDiagnostics/releases](https://github.com/ArcadeRenegade/SidebarDiagnostics/releases)
- 5. Atomic Clock Sync (Sync every 20 minutes) ~> [https://www.worldtimeserver.com/atomic-clock/](https://www.worldtimeserver.com/atomic-clock/)
 
 **Opitional Tweaks**
+WPD is a privacy tool [https://wpd.app/](https://wpd.app/)
+[https://www.bleachbit.org/](https://www.bleachbit.org/) is a disk cleaner for windows.
+[Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
+[https://www.oo-software.com/en/shutup10/update](https://www.oo-software.com/en/shutup10/update) an antispy tool for windows 10 and 11.
 
+
+Guide to Process Lasso
