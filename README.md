@@ -49,6 +49,12 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 11. If you have external drives open up SystemPropertiesAdvanced and go to settings for Performance. Then go to advanced and under virtual memory select **No paging file**. This will disable the paging file on your external drives. **Do not do this on your main drive.**
 
+12. Enable everything in System > Monitor > Graphics Settings > Default Graphics Settings. This will make your computer run smoother.
+
+13. Disable Storage Sense.
+
+14. WIN + R and type "msconfig". Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Then select "Number of cores" and use all of your available cores. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
+
 ### **Service Tweaks**
 
 ---
