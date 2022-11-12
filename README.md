@@ -104,6 +104,10 @@ WPD is a privacy tool [https://wpd.app/](https://wpd.app/). It is a free and ope
 
 A windows tool that allows you to achive maximum productivity [https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys). **Recommended**
 
+[https://www.malwarebytes.com/solutions/rootkit-scanner](https://www.malwarebytes.com/solutions/rootkit-scanner) a rootkit scanner. **Recommended**
+
+[https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner) a malware scanner. **Recommended**
+
 ### **Guides**
 
 ---
