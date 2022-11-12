@@ -27,7 +27,7 @@ For example, if you would like to keep print service on then you do not tick "Di
 
 When you recieve the popup to delete all the selected startup items click yes.
 
-6. Run Windows Disk Cleanup. CTRL + R and type "cleanmgr.exe". Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK***
+6. Run Windows Disk Cleanup. CTRL + R and type "cleanmgr.exe". Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
 
 8. Run Windows Defragment and trimmer. CTRL + R and type "dfrgui.exe". Select your drive and press Optimize or Analyze.
 
