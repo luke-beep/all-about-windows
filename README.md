@@ -2,9 +2,12 @@
 
 
 Date last updated: **12 November 2022**
+
 Winver: **22H2** (to check winver version do WIN + R and type "winver" and press enter.)
 
-# **General Tweaks**
+### **General Tweaks**
+
+---
 
 1. Uninstall all unnecessary apps.
 
@@ -34,7 +37,9 @@ When you recieve the popup to delete all the selected startup items click yes.
 
 9. Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**.
 
-# **Service Tweaks**
+### **Service Tweaks**
+
+---
 
 1. Disable Windows Defender. WIN + R and type "services.msc", then press enter. Scroll down to Windows Defender and double click it. Change the startup type to **disabled** and press **stop**.
 
@@ -62,13 +67,19 @@ When you recieve the popup to delete all the selected startup items click yes.
 
 
 
-# **Gaming Tweaks**
+### **Gaming Tweaks**
+
+---
+
 [Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
 
 
 
 
-# **Opitional Tweaks**
+### **Opitional Tweaks**
+
+---
+
 WPD is a privacy tool [https://wpd.app/](https://wpd.app/). It is a free and open source tool that allows you to disable telemetry and other privacy invasive features in Windows 10 and 11. It is recommended to use this tool if you are concerned about your privacy.
 
 [https://www.bleachbit.org/](https://www.bleachbit.org/) is a disk cleaner for windows.
