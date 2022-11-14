@@ -204,6 +204,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 **Memory Tweaks:**
 
 Memory optimizations for ASUS motherboards [https://www.asus.com/us/support/FAQ/1042256](https://www.asus.com/us/support/FAQ/1042256).
+
 Memory optimizations for MSI motherboards [https://www.msi.com/blog/memory-force](https://www.msi.com/blog/memory-force).
 
 ### **Driver Tweaks**
