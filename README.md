@@ -2,7 +2,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="#"><img src="https://en.wikipedia.org/wiki/Microsoft_Windows#/media/File:Windows_logo_and_wordmark_-_2021.svg" width="546" alt="LukeHjo" /></a>
+		<a href="#"><img src="win.png" width="546" alt="LukeHjo" /></a>
 	</p>
 	<br />
 	<p>
