@@ -7,7 +7,7 @@
 	<br />
 	<p>
 		<a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="Discord server" /></a>
-		<a href="https://github.com/luke-beep"><img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=github" alt="My Github" /></a>
+		<a href="https://github.com/luke-beep"><img src="https://img.shields.io/badge/github-view-blue?style=flat-square&logo=github" alt="My Github" /></a>
 	</p>
 </div>
 
