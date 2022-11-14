@@ -6,7 +6,7 @@
 	</p>
 	<br />
 	<p>
-		<a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-green?style=for-the-badge&logo=discord" alt="Discord server" /></a>
+		<a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-green?style=plastic&logo=discord" alt="Discord server" /></a>
 		<a href="https://github.com/luke-beep"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
 	</p>
 </div>
@@ -226,7 +226,7 @@ Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what
 
 An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
 
-Display Driver Uninstaller also known as DDU Guide can be found here [https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial).
+A Display Driver Uninstaller also known as DDU Guide can be found here [https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial).
 
 An unofficial guide for NVCleanstall can be found at [https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/](https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/).
 
