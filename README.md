@@ -1,6 +1,10 @@
 # A guide for optimizing windows 10 and 11
 
 
+[<img align="center" alt="LukeHjo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/luke-beep)
+
+This guide was made by LukeHjo#0001
+
 **Date last updated:** 12 November 2022
 
 **Winver:** 22H2 (to check winver version do WIN + R and type "winver" and press enter.)
@@ -221,9 +225,7 @@ An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com
 
 ---
 
-This guide was made by LukeHjo#0001
 
-[<img align="left" alt="LukeHjo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/luke-beep)
 
 
 
