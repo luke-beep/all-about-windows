@@ -133,6 +133,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 
 **For those who are using an Intel CPU, you can disable the following:**
+---
 1. Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
 2. Disable Intel Turbo Boost. This will disable the CPU from going into a high power state. This will increase performance.
 3. Disable Intel Hyperthreading. This will disable the CPU from using hyperthreading. This will increase performance.
@@ -151,12 +152,13 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 16. Disable Intel SMM-STORE. This will disable the CPU from using virtualization. This will increase performance.
 17. Disable Intel SMM-STORE-USER. This will disable the CPU from using virtualization. This will increase performance.
 18. Disable Intel SMM-STORE-USER-STATUS. This will disable the CPU from using virtualization. This will increase performance.
----
 **For those who are using a Ryzen CPU, you can disable the following:**
+---
 1. Disable AMD Cool'n'Quiet. This will disable the CPU from going into a low power state. This will increase performance.
 2. Disable AMD C1E. This will disable the CPU from going into a low power state. This will increase performance.
----
+
 **For those who are using an AMD GPU, you can disable the following:**
+---
 1. Disable AMD PowerPlay. This will disable the GPU from going into a low power state. This will increase performance.
 2. Disable AMD CrossFire. This will disable the GPU from using CrossFire. This will increase performance.
 3. Disable AMD Eyefinity. This will disable the GPU from using Eyefinity. This will increase performance.
@@ -166,8 +168,9 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 7. Disable AMD Radeon Image Sharpening. This will disable the GPU from using Radeon Image Sharpening. This will increase performance.
 8. Disable AMD Radeon ReLive. This will disable the GPU from using Radeon ReLive. This will increase performance.
 9. Disable AMD Radeon Software. This will disable the GPU from using Radeon Software. This will increase performance.
----
+
 **For those who are using an Nvidia GPU, you can disable the following:**
+---
 1. Disable Nvidia Adaptive V-Sync. This will disable the GPU from using Adaptive V-Sync. This will increase performance.
 2. Disable Nvidia Ansel. This will disable the GPU from using Ansel. This will increase performance.
 3. Disable Nvidia Ambient Occlusion. This will disable the GPU from using Ambient Occlusion. This will increase performance.
@@ -175,12 +178,15 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 5. Enable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. 
 
 **Only Available for the 30 series**
+
 ---
 **Miscellaneous BIOS Tweaks:**
-1. Enable XMP or DOCP. This will enable the RAM to run at a higher speed. This will increase performance.
 ---
+1. Enable XMP or DOCP. This will enable the RAM to run at a higher speed. This will increase performance.
+
 
 **Memory Tweaks:**
+---
 Memory optimizations for ASUS motherboards [https://www.asus.com/us/support/FAQ/1042256](https://www.asus.com/us/support/FAQ/1042256).
 Memory optimizations for MSI motherboards [https://www.msi.com/blog/memory-force](https://www.msi.com/blog/memory-force).
 
