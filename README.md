@@ -219,7 +219,7 @@ If you have AMD hardware you can install the AMD driver and support assistant. T
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
 
 
-### **Guides and unmentioned links**
+### **Guides and useful links**
 
 ---
 
@@ -232,10 +232,6 @@ A Display Driver Uninstaller also known as DDU Guide can be found here [https://
 An unofficial guide for NVCleanstall can be found at [https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/](https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/).
 
 An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA).
-
-### Credits
-
----
 
 
 
