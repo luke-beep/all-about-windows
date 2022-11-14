@@ -32,7 +32,7 @@
 * [**Optional Tweaks**](#optional-tweaks)
 * [**Visual Tweaks**](#visual-tweaks)
 * [**BIOS Tweaks**](#bios-tweaks)
-    * [**STDIN**](#stdin)
+    * [**STDIN**](#for-those-who-are-using-an-intel-cpu,-you-can-disable-the-following:)
 * [**Driver Tweaks**](#driver-tweaks)
 * [**Guides and Useful Links**](#guides-and-useful-links)
 
@@ -163,9 +163,9 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 
 
-**For those who are using an Intel CPU, you can disable the following:**
+#### **For those who are using an Intel CPU, you can disable the following:**
 
------
+
 
 
 1. Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
