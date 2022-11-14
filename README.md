@@ -1,9 +1,11 @@
 # A guide for optimizing windows 10 and 11
+This guide was made by LukeHjo#0001
 
 
 [<img align="center" alt="LukeHjo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/luke-beep)
+[<img align="center" alt="LukeHjo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/luke-beep)
 
-This guide was made by LukeHjo#0001
+
 
 **Date last updated:** 12 November 2022
 
