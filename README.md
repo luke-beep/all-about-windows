@@ -6,7 +6,7 @@
 	</p>
 	<br />
 	<p>
-		<a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/<github>-<Hello>-<white>?style=for-the-badge&logo=appveyor" alt="Discord server" /></a>
+		<a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-green?style=for-the-badge&logo=discord" alt="Discord server" /></a>
 		<a href="https://github.com/luke-beep"><img src="https://github.com/discordjs/discord.js/actions/workflows/test.yml/badge.svg" alt="Tests status" /></a>
 	</p>
 </div>
