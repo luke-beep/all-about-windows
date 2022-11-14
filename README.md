@@ -166,7 +166,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 7. Disable AMD Radeon Image Sharpening. This will disable the GPU from using Radeon Image Sharpening. This will increase performance.
 8. Disable AMD Radeon ReLive. This will disable the GPU from using Radeon ReLive. This will increase performance.
 9. Disable AMD Radeon Software. This will disable the GPU from using Radeon Software. This will increase performance.
-
+--
 **For those who are using an Nvidia GPU, you can disable the following:**
 1. Disable Nvidia Adaptive V-Sync. This will disable the GPU from using Adaptive V-Sync. This will increase performance.
 2. Disable Nvidia Ansel. This will disable the GPU from using Ansel. This will increase performance.
