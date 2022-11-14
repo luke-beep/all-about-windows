@@ -32,7 +32,6 @@
 * [**Optional Tweaks**](#optional-tweaks)
 * [**Visual Tweaks**](#visual-tweaks)
 * [**BIOS Tweaks**](#bios-tweaks)
-    * [**Intel CPU**](#for-those-who-are-using-an-intel-cpu,-you-can-disable-the-following:)
 * [**Driver Tweaks**](#driver-tweaks)
 * [**Guides and Useful Links**](#guides-and-useful-links)
 
