@@ -2,7 +2,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="#"><img src="win.png" width="546" alt="LukeHjo" /></a>
+		<a href="#"><img src="win.png" width="540" alt="LukeHjo" /></a>
 	</p>
 	<br />
 	<p>
