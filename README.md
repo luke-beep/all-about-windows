@@ -91,7 +91,9 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 [Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
 
+[https://www.msi.com/Landing/afterburner/graphics-cards](https://www.msi.com/Landing/afterburner/graphics-cards) is a graphics card overclocking utility.
 
+[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a graphics card driver uninstaller which you can bundle up with NVCleanstall to deblaot your graphics card drivers [https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/).
 
 
 ### **Opitional Tweaks**
@@ -189,6 +191,16 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 Memory optimizations for ASUS motherboards [https://www.asus.com/us/support/FAQ/1042256](https://www.asus.com/us/support/FAQ/1042256).
 Memory optimizations for MSI motherboards [https://www.msi.com/blog/memory-force](https://www.msi.com/blog/memory-force).
+
+### **Driver Tweaks**
+
+---
+
+If you have intel hardware you can install the intel driver and support assistant. This will allow you to update your drivers. [https://www.intel.com/content/www/us/en/support/detect.html](https://www.intel.com/content/www/us/en/support/detect.html). Only works with Intel hardware. **Recommended**
+
+If you have AMD hardware you can install the AMD driver and support assistant. This will allow you to update your drivers. [https://www.amd.com/en/support](https://www.amd.com/en/support). Only works with AMD hardware. **Recommended**
+
+If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
 
 
 ### **Guides**
