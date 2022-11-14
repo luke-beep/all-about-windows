@@ -176,15 +176,14 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 2. Disable Nvidia Ansel. This will disable the GPU from using Ansel. This will increase performance.
 3. Disable Nvidia Ambient Occlusion. This will disable the GPU from using Ambient Occlusion. This will increase performance.
 4. Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
-5. Enable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. 
+5. Enable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
 
-**Only Available for the 30 series**
 
 
 **Miscellaneous BIOS Tweaks:**
 
 1. Enable XMP or DOCP. This will enable the RAM to run at a higher speed. This will increase performance.
-2. Enable UEFI. This will enable your system to work in 64-bit speed and supports TPM. This could increase performance.
+2. Enable UEFI. This will enable your system to run at 64-bit speed and support TPM. This could increase performance.
 
 **Memory Tweaks:**
 
