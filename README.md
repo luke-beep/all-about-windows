@@ -93,7 +93,7 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 [https://www.msi.com/Landing/afterburner/graphics-cards](https://www.msi.com/Landing/afterburner/graphics-cards) is a graphics card overclocking utility.
 
-[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a graphics card driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers [https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/).
+[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers [https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/).
 
 
 ### **Opitional Tweaks**
@@ -203,13 +203,19 @@ If you have AMD hardware you can install the AMD driver and support assistant. T
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
 
 
-### **Guides**
+### **Guides and unmentioned links**
 
 ---
 
 Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
 
 An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
+
+Display Driver Uninstaller also known as DDU Guide can be found here [https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial).
+
+An unofficial guide for NVCleanstall can be found at [https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/](https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/).
+
+An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA).
 
 ### Credits
 
