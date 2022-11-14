@@ -16,14 +16,15 @@
 
 
 
-**Date last updated:** 12 November 2022
+**Date last updated:** 15 November 2022
 
 **Winver:** 22H2 (to check winver version do WIN + R and type "winver" and press enter.)
 
-**Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to [create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9).
+**Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to [create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9). If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
+**Credits:** This guide is made by me, luke-beep. If you want to use this guide, please give me credit. If you want to use this guide on your youtube channel, please link my channel in the description. If you want to use this guide on your website, please link my github profile in the description. 
 ### **Table of Contents**
 
 * [**General Tweaks**](#general-tweaks)
