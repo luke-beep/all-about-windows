@@ -26,7 +26,15 @@
 
 ### **Table of Contents**
 
-* [**Introduction**](#general-tweaks)
+* [**General Tweaks**](#general-tweaks)
+* [**Service Tweaks**](#service-tweaks)
+* [**Gaming Tweaks**](#gaming-tweaks)
+* [**Optional Tweaks**](#optional-tweaks)
+* [**Visual Tweaks**](#visual-tweaks)
+* [**BIOS Tweaks**](#bios-tweaks)
+* [**Driver Tweaks**](#driver-tweaks)
+* [**Guides and Useful Links**](#guides-and-useful-links)
+
 
 ### **General Tweaks**
 
@@ -224,7 +232,7 @@ If you have AMD hardware you can install the AMD driver and support assistant. T
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
 
 
-### **Guides and useful links**
+### **Guides and Useful Links**
 
 ---
 
