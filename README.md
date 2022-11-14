@@ -165,7 +165,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 #### **For those who are using an Intel CPU, you can disable the following:**
 
-
+-----
 
 
 1. Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
