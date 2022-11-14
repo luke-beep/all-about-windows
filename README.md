@@ -26,7 +26,7 @@
 
 ### **Table of Contents**
 
-* [**Introduction**](#introduction)
+* [**Introduction**](#general-tweaks)
 
 ### **General Tweaks**
 
