@@ -180,7 +180,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 **Only Available for the 30 series**
 
----
+----
 **Miscellaneous BIOS Tweaks:**
 
 1. Enable XMP or DOCP. This will enable the RAM to run at a higher speed. This will increase performance.
