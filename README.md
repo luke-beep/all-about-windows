@@ -221,7 +221,9 @@ An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com
 
 ---
 
-This guide was made by me, LukeHjo#0001.
+This guide was made by LukeHjo#0001
+
+[<img align="left" alt="LukeHjo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/luke-beep)
 
 
 
