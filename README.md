@@ -1,4 +1,4 @@
-# An in-depth guide on optimization for windows
+# An in-depth guide on optimizations for windows
 <div align="center">
 	<br />
 	<p>
