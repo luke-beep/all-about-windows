@@ -34,6 +34,7 @@
 * [**Visual Tweaks**](#visual-tweaks)
 * [**BIOS Tweaks**](#bios-tweaks)
 * [**Driver Tweaks**](#driver-tweaks)
+* [**Programming Tools**](#programming-tools)
 * [**Guides and Useful Links**](#guides-and-useful-links)
 
 
@@ -84,6 +85,12 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 14. WIN + R and type "msconfig". Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Then select "Number of cores" and use all of your available cores. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
 
+15. Open an elevated command prompt and type "bcdedit /set increaseuserva 3072" and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system.
+
+16. Open an elevated command prompt and type slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX. Then set a KMS server by typing slmgr /skms kms8.msguides.com. Then activate windows by typing slmgr /ato. This will activate windows and make it enable all the features and remove the ugly watermark. Run slmgr /xpr to check if it worked.
+
+
+
 ### **Service Tweaks**
 
 ---
@@ -124,8 +131,16 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 [https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers [https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/).
 
+[https://www.techpowerup.com/download/techpowerup-gpu-z/](https://www.techpowerup.com/download/techpowerup-gpu-z/) is a graphics card information utility.
 
-### **Opitional Tweaks**
+Disable hardware acceleration on everything, your browser, discord etc. This will increase performance by a lot. 
+
+Disable all ingame overlays. This will increase performance by a lot.
+
+
+
+
+### **Optional Tweaks**
 
 ---
 
@@ -144,6 +159,9 @@ A windows tool that allows you to achive maximum productivity [https://github.co
 [https://www.malwarebytes.com/solutions/rootkit-scanner](https://www.malwarebytes.com/solutions/rootkit-scanner) a rootkit scanner. **Recommended**
 
 [https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner) a malware scanner. **Recommended**
+
+[https://github.com/builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) a windows 11 tweaker, only available for windows 11. **Recommended**
+
 
 ### **Visual Tweaks**
 
@@ -246,6 +264,13 @@ If you have intel hardware you can install the intel driver and support assistan
 If you have AMD hardware you can install the AMD driver and support assistant. This will allow you to update your drivers. [https://www.amd.com/en/support](https://www.amd.com/en/support). Only works with AMD hardware. **Recommended**
 
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
+
+
+### **Programming Tools**
+
+---
+
+Chocolatey is a package manager for windows. It allows you to install programs from the command line. [https://chocolatey.org/install](https://chocolatey.org/install). **Recommended**
 
 
 ### **Guides and Useful Links**
