@@ -35,6 +35,7 @@
 * [**BIOS Tweaks**](#bios-tweaks)
 * [**Driver Tweaks**](#driver-tweaks)
 * [**Programming Tools**](#programming-tools)
+* [**Gaming Configs**](#gaming-configs)
 * [**Guides and Useful Links**](#guides-and-useful-links)
 
 
