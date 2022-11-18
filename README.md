@@ -248,8 +248,6 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 2. Enable UEFI. This will enable your system to run at 64-bit speed and support TPM. This could increase performance.
 
  **Memory Tweaks:**
- 
-
 
 Memory optimizations for ASUS motherboards [https://www.asus.com/us/support/FAQ/1042256](https://www.asus.com/us/support/FAQ/1042256).
 
@@ -272,6 +270,17 @@ If you have Nvidia hardware you can install the Nvidia drivers and geforce exper
 
 Chocolatey is a package manager for windows. It allows you to install programs from the command line. [https://chocolatey.org/install](https://chocolatey.org/install). **Recommended**
 
+Scoop is a package manager for windows. It allows you to install programs from the command line. [https://scoop.sh/](https://scoop.sh/). **Recommended**
+
+
+### **Gaming Configs**
+
+---
+
+NVIDIA Config [https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix](https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix). **Recommended**
+Modern Warfare 2 Config [https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF](https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF). **Recommended**
+Apex Legends Config [https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz) **Recommended**
+
 
 ### **Guides and Useful Links**
 
@@ -287,7 +296,5 @@ An unofficial guide for NVCleanstall can be found at [https://www.makeuseof.com/
 
 An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA).
 
-
-
-
+The author to the game configs can be found here [https://www.tiktok.com/@thesoaplobster](https://www.tiktok.com/@thesoaplobster).
 
