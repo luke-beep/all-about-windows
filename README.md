@@ -301,4 +301,3 @@ An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com
 
 The author to the game configs can be found here [https://www.tiktok.com/@thesoaplobster](https://www.tiktok.com/@thesoaplobster).
 
-StartAllBack is made by
