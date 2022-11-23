@@ -50,7 +50,7 @@ This guide is made by me, it's essentially a collection of tweaks and fixes. Som
 
 3. Download this program [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and continue following the guide.
 
-<img src="optimizer.png" alt="Optimizer" title="Optimizer">
+<img src="./assets/optimizer.png" alt="Optimizer" title="Optimizer">
 
 For example, if you would like to keep print service on then you do not tick "Disable Print Service".
 
@@ -301,3 +301,4 @@ An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com
 
 The author to the game configs can be found here [https://www.tiktok.com/@thesoaplobster](https://www.tiktok.com/@thesoaplobster).
 
+StartAllBack is made by
