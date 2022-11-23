@@ -24,7 +24,8 @@
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
-**Credits:** This guide is made by me, luke-beep. If you want to use this guide, please give me credit. If you want to use this guide on your youtube channel, please link my channel in the description. If you want to use this guide on your website, please link my github profile in the description. 
+This guide is made by me, it's essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please give me credit. 
+
 ### **Table of Contents**
 
 * [**General Tweaks**](#general-tweaks)
@@ -36,7 +37,7 @@
 * [**Driver Tweaks**](#driver-tweaks)
 * [**Programming Tools**](#programming-tools)
 * [**Gaming Configs**](#gaming-configs)
-* [**Guides and Useful Links**](#guides-and-useful-links)
+* [**Credits and Useful Links**](#credits-and-useful-links)
 
 
 ### **General Tweaks**
@@ -284,7 +285,7 @@ A config for Modern Warfare 2. [https://drive.google.com/drive/folders/1n-g10GF6
 
 A config for Apex Legends. [https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz).
 
-### **Guides and Useful Links**
+### **Credits and Useful Links**
 
 ---
 
