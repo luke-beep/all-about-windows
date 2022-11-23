@@ -2,7 +2,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="#"><img src="win.png" width="540" alt="Windows Logo" /></a>
+		<a href="#"><img src="./assets/win.png" width="540" alt="Windows Logo" /></a>
 	</p>
 	<br />
 	<p>
