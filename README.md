@@ -24,7 +24,7 @@
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
-This guide is made by me, it's essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please give me credit. 
+This guide is essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please link to this github.
 
 ### **Table of Contents**
 
