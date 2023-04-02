@@ -97,29 +97,7 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 ---
 
-1. Disable Windows Defender. WIN + R and type "services.msc", then press enter. Scroll down to Windows Defender and double click it. Change the startup type to **disabled** and press **stop**.
-
-2. Disable Windows Update. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update and double click it. Change the startup type to **disabled** and press **stop**.
-
-3. Disable Windows Update Delivery Optimization. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Delivery Optimization and double click it. Change the startup type to **disabled** and press **stop**.
-
-4. Disable Windows Update Service Host. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Service Host and double click it. Change the startup type to **disabled** and press **stop**.
-
-5. Disable Windows Update User Interface. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update User Interface and double click it. Change the startup type to **disabled** and press **stop**.
-
-6. Disable Windows Update Medic Service. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Medic Service and double click it. Change the startup type to **disabled** and press **stop**.
-
-7. Disable Windows Update Network Diagnostics. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Network Diagnostics and double click it. Change the startup type to **disabled** and press **stop**.
-
-8. Disable Windows Update Orchestrator. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Orchestrator and double click it. Change the startup type to **disabled** and press **stop**.
-
-9. Disable Windows Update Readiness. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Readiness and double click it. Change the startup type to **disabled** and press **stop**.
-
-10. Disable Windows Update Service Registration. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Service Registration and double click it. Change the startup type to **disabled** and press **stop**.
-
-11. Disable Windows Update Service Manager. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Service Manager and double click it. Change the startup type to **disabled** and press **stop**.
-
-12. Disable Windows Update Service Session Manager. WIN + R and type "services.msc", then press enter. Scroll down to Windows Update Service Session Manager and double click it. Change the startup type to **disabled** and press **stop**.
+Beta
 
 
 
@@ -190,21 +168,6 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 1. Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
 2. Disable Intel Turbo Boost. This will disable the CPU from going into a high power state. This will increase performance.
 3. Disable Intel Hyperthreading. This will disable the CPU from using hyperthreading. This will increase performance.
-4. Disable Intel C-States. This will disable the CPU from going into a low power state. This will increase performance.
-5. Disable Intel EIST. This will disable the CPU from going into a low power state. This will increase performance.
-6. Disable Intel VT-d. This will disable the CPU from using virtualization. This will increase performance.
-7. Disable Intel VT-x. This will disable the CPU from using virtualization. This will increase performance.
-8. Disable Intel TXT. This will disable the CPU from using virtualization. This will increase performance.
-9. Disable Intel SGX. This will disable the CPU from using virtualization. This will increase performance.
-10. Disable Intel AES-NI. This will disable the CPU from using virtualization. This will increase performance.
-11. Disable Intel TSX. This will disable the CPU from using virtualization. This will increase performance.
-12. Disable Intel TSX-AS. This will disable the CPU from using virtualization. This will increase performance.
-13. Disable Intel TSX-CTRL. This will disable the CPU from using virtualization. This will increase performance.
-14. Disable Intel PTT. This will disable the CPU from using virtualization. This will increase performance.
-15. Disable Intel SMM. This will disable the CPU from using virtualization. This will increase performance.
-16. Disable Intel SMM-STORE. This will disable the CPU from using virtualization. This will increase performance.
-17. Disable Intel SMM-STORE-USER. This will disable the CPU from using virtualization. This will increase performance.
-18. Disable Intel SMM-STORE-USER-STATUS. This will disable the CPU from using virtualization. This will increase performance.
 
 
  **For those who are using a Ryzen CPU, you can disable the following:**
@@ -215,20 +178,6 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 2. Disable AMD C1E. This will disable the CPU from going into a low power state. This will increase performance.
 
 
- **For those who are using an AMD GPU, you can disable the following:**
-
- 
-
-1. Disable AMD PowerPlay. This will disable the GPU from going into a low power state. This will increase performance.
-2. Disable AMD CrossFire. This will disable the GPU from using CrossFire. This will increase performance.
-3. Disable AMD Eyefinity. This will disable the GPU from using Eyefinity. This will increase performance.
-4. Disable AMD FreeSync. This will disable the GPU from using FreeSync. This will increase performance.
-5. Disable AMD Radeon Boost. This will disable the GPU from using Radeon Boost. This will increase performance.
-6. Disable AMD Radeon Chill. This will disable the GPU from using Radeon Chill. This will increase performance.
-7. Disable AMD Radeon Image Sharpening. This will disable the GPU from using Radeon Image Sharpening. This will increase performance.
-8. Disable AMD Radeon ReLive. This will disable the GPU from using Radeon ReLive. This will increase performance.
-9. Disable AMD Radeon Software. This will disable the GPU from using Radeon Software. This will increase performance.
-
 
  **For those who are using an Nvidia GPU, you can disable the following:**
 
@@ -238,7 +187,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 2. Disable Nvidia Ansel. This will disable the GPU from using Ansel. This will increase performance.
 3. Disable Nvidia Ambient Occlusion. This will disable the GPU from using Ambient Occlusion. This will increase performance.
 4. Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
-5. Enable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
+5. Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
 
 
 
