@@ -85,7 +85,7 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 13. Disable Storage Sense.
 
-14. WIN + R and type "msconfig". Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Then select "Number of cores" and use all of your available cores. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
+14. WIN + R and type "msconfig". Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
 
 15. Open an elevated command prompt and type "bcdedit /set increaseuserva 3072" and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system. **Do not do this on a 64 bit system.**
 
@@ -195,7 +195,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 
 
-1. Enable XMP or DOCP. This will enable the RAM to run at a higher speed. This will increase performance.
+1. Enable XMP or DOCP or EXPO. This will enable the RAM to run at a higher speed. This will increase performance.
 2. Enable UEFI. This will enable your system to run at 64-bit speed and support TPM. This could increase performance.
 
  **Memory Tweaks:**
