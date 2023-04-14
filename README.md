@@ -31,6 +31,7 @@ This guide is essentially a collection of tweaks and fixes. Some are by others, 
 * [**General Tweaks**](#general-tweaks)
 * [**Service Tweaks**](#service-tweaks)
 * [**Gaming Tweaks**](#gaming-tweaks)
+* [**Network Tweaks**](#network-tweaks)
 * [**Optional Tweaks**](#optional-tweaks)
 * [**Visual Tweaks**](#visual-tweaks)
 * [**BIOS Tweaks**](#bios-tweaks)
@@ -118,6 +119,8 @@ Disable hardware acceleration on everything, your browser, discord etc. This wil
 Disable all ingame overlays. This will increase performance by a lot.
 
 ### **Network Tweaks**
+
+---
 
 **Cloudflare IPv4 DNS Servers:**
 
