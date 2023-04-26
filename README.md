@@ -259,7 +259,7 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 
 1. Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
-2. Disable Intel Turbo Boost. This will disable the CPU from going into a high power state. This will increase performance.
+2. Disable Intel VT-x. This will disable the CPU from using an old Virtualization technology. This will increase performance.
 3. Disable Intel Hyperthreading. This will disable the CPU from using hyperthreading. This will increase performance.
 
 
