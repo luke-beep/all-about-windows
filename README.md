@@ -281,6 +281,8 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 5. Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
 
  **For those who are using an Intel/AMD CPU, you can disable the following:**
+ 
+ 
 Disable Intel Hyperthreading using Process Lasso. This will disable the CPU from using hyperthreading. This will increase performance.
 
 
