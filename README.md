@@ -260,8 +260,6 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 
 1. Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
 2. Disable Intel VT-x. This will disable the CPU from using an old Virtualization technology. This will increase performance.
-3. Disable Intel Hyperthreading. This will disable the CPU from using hyperthreading. This will increase performance.
-
 
  **For those who are using a Ryzen CPU, you can disable the following:**
 
@@ -281,6 +279,10 @@ A tool that allows for customization of Win32 apps. [https://github.com/MicaForE
 3. Disable Nvidia Ambient Occlusion. This will disable the GPU from using Ambient Occlusion. This will increase performance.
 4. Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
 5. Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
+
+ **For those who are using an Intel/AMD CPU, you can disable the following:**
+Disable Intel Hyperthreading using Process Lasso. This will disable the CPU from using hyperthreading. This will increase performance.
+
 
 
 
