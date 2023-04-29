@@ -76,7 +76,7 @@ When you recieve the popup to delete all the selected startup items click yes. T
 
 8. Run Windows Defragment and trimmer. WIN + R and type "dfrgui.exe", then press enter. Select your drive and press Optimize or Analyze.
 
-9. Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**.
+9. Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**. 
 
 10. Run SystemPropertiesAdvanced in WIN + R. Then hit settings for performance. Then select **Adjust for best performance**.
 
@@ -114,6 +114,12 @@ Optimizing Windows services can help improve your computer's performance by redu
 
 ---
 
+1. Disable hardware acceleration on everything, your browser, discord etc. This will increase performance by a lot. 
+
+2. Disable all ingame overlays. This will increase performance by a lot.
+
+3. 
+
 [Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
 
 [https://www.msi.com/Landing/afterburner/graphics-cards](https://www.msi.com/Landing/afterburner/graphics-cards) is a graphics card overclocking utility.
@@ -121,10 +127,6 @@ Optimizing Windows services can help improve your computer's performance by redu
 [https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers [https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/).
 
 [https://www.techpowerup.com/download/techpowerup-gpu-z/](https://www.techpowerup.com/download/techpowerup-gpu-z/) is a graphics card information utility.
-
-Disable hardware acceleration on everything, your browser, discord etc. This will increase performance by a lot. 
-
-Disable all ingame overlays. This will increase performance by a lot.
 
 ### **Network Tweaks**
 
@@ -323,7 +325,7 @@ If you have Nvidia hardware you can install the Nvidia drivers and geforce exper
 
 1. Download [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
 
-2. Download [NVCleanStall](https://www.techpowerup.com/nvcleanstall/).
+2. Download [NVCleanstall](https://www.techpowerup.com/nvcleanstall/).
 
 3. Boot into safe mode.
 
@@ -334,7 +336,7 @@ If you have Nvidia hardware you can install the Nvidia drivers and geforce exper
 6. Run NVCleanStall and build the driver using these settings;
 
 <p>
-	<img src="/assets/nvcleanstall_guide.jpg" alt="My Discord server" /></a>
+	<img src="/assets/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
 </p>
 
 7. Install the drivers from the package that NVcleanstall created.
