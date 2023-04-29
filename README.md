@@ -329,12 +329,17 @@ If you have Nvidia hardware you can install the Nvidia drivers and geforce exper
 
 4. Run DDU and uninstall the drivers.
 
-5. Run NVCleanStall and build the driver using these settings;
+5. Reboot.
+
+6. Run NVCleanStall and build the driver using these settings;
 
 <p>
 	<img src="/assets/nvcleanstall_guide.jpg" alt="My Discord server" /></a>
 </p>
 
+7. Install the drivers from the package that NVcleanstall created.
+
+8. Reboot.
 
 ### **Programming Tools**
 
