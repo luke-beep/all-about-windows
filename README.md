@@ -319,6 +319,22 @@ If you have AMD hardware you can install the AMD driver and support assistant. T
 
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
 
+**Debloat NVIDIA Drivers:**
+
+1. Download [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
+
+2. Download [NVCleanStall](https://www.techpowerup.com/nvcleanstall/).
+
+3. Boot into safe mode.
+
+4. Run DDU and uninstall the drivers.
+
+5. Run NVCleanStall and build the driver using these settings;
+
+<p>
+	<img src="/assets/nvcleanstall_guide.jpg" alt="My Discord server" /></a>
+</p>
+
 
 ### **Programming Tools**
 
@@ -343,6 +359,12 @@ A config for Apex Legends. [https://drive.google.com/drive/u/2/folders/1KvuaFTN4
 
 ---
 
+My Tech Blog can be found here [https://dev.lukehjo.tech/](https://dev.lukehjo.tech/)
+
+My forum can be found here [https://forum.lukehjo.tech/](https://forum.lukehjo.tech/)
+
+The Author of this guide can be found here [https://github.com/luke-beep](https://github.com/luke-beep)
+
 Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
 
 An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
@@ -353,13 +375,8 @@ An unofficial guide for NVCleanstall can be found at [https://www.makeuseof.com/
 
 An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA).
 
-The author to the game configs can be found here [https://www.tiktok.com/@thesoaplobster](https://www.tiktok.com/@thesoaplobster).
+The author to some of the game configs can be found here [https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech).
 
 Calypto's Latency Guide [https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit).
 
 
-### **Future Updates**
-
----
-
-Add a keywords list
