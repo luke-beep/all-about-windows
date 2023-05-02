@@ -54,6 +54,7 @@
 	- [**Debloat NVIDIA Drivers**](#debloat-nvidia-drivers)
 - [**Programming Tools**](#programming-tools)
 - [**Gaming Configs**](#gaming-configs)
+	- [**My Process Lasso Configuration**](#my-process-lasso-configuration)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
 - [**Credits and Useful Links**](#credits-and-useful-links)
 
@@ -392,7 +393,7 @@ B - byte
 - A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
 
 ### **My Process Lasso configuration**
-- **Process Lasso** is a software that allows you to control the processes running on your computer. It can be used to set priorities for certain programs, limit the number of cores they use, and more. My configuration is adapted to fit any system. My configuration file can be downloaded here: [Process Lasso configuration](/configurations/ProcessLasso_LukeHjo2611.INI)
+- **Process Lasso** is a software that allows you to control the processes running on your computer. It can be used to set priorities for certain programs, limit the number of cores they use, and more. My configuration is adapted to fit any system. My configuration file can be downloaded here: [Process Lasso Configuration](/configurations/ProcessLasso_LukeHjo2611.INI)
 
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
