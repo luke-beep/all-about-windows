@@ -44,7 +44,14 @@
 - [**Optional Tweaks**](#optional-tweaks)
 - [**Visual Tweaks**](#visual-tweaks)
 - [**BIOS Tweaks**](#bios-tweaks)
+    - [**Intel CPU**](#for-those-who-are-using-an-intel-cpu-you-can-disable-the-following)
+	- [**AMD CPU**](#for-those-who-are-using-a-amd-cpu-you-can-disable-the-following)
+	- [**NVIDIA GPU**](#for-those-who-are-using-an-nvidia-gpu-you-can-disable-the-following)
+	- [**Intel/AMD CPU**](#for-those-who-are-using-an-intelamd-cpu-you-can-disable-the-following)
+	- [**Miscellaneous BIOS Tweaks**](#miscellaneous-bios-tweaks)
+	- [**Memory Tweaks**](#memory-tweaks)
 - [**Driver Tweaks**](#driver-tweaks)
+	- [**Debloat NVIDIA Drivers**](#debloat-nvidia-drivers)
 - [**Programming Tools**](#programming-tools)
 - [**Gaming Configs**](#gaming-configs)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
@@ -216,7 +223,7 @@ pathping - Combines Ping & Tracert.
 tracert - Trace packets to a destination.
 
 
-#### **Bandwidth Measurement:**
+#### **Bandwidth Measurement**
 
 Mb - Megabit
 
