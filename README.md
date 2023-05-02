@@ -324,7 +324,7 @@ If you have AMD hardware you can install the AMD driver and support assistant. T
 
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. **[https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers)**. Only works with Nvidia hardware. **Recommended**
 
-> ### **Debloat NVIDIA Drivers**
+### **Debloat NVIDIA Drivers**
 
 -  Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
 
