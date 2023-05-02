@@ -131,7 +131,7 @@
 
 - **[https://www.msi.com/Landing/afterburner/graphics-cards](https://www.msi.com/Landing/afterburner/graphics-cards)** is a graphics card overclocking utility.
 
-- **[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/- display-driver-uninstaller-download.html)** is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers **[https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/)**.
+- **[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/-display-driver-uninstaller-download.html)** is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers **[https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/)**.
 
 - **[https://www.techpowerup.com/download/techpowerup-gpu-z/](https://www.techpowerup.com/download/techpowerup-gpu-z/)** is a graphics - card information utility.
 
