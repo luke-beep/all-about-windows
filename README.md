@@ -16,9 +16,11 @@
 
 
 
-**Date last updated:** 3 April 2023
+**Date last updated:** 3rd May 2023
 
-**Winver:** 22H2 (to check winver version do WIN + R and type "winver" and press enter.)
+Version: [Version](/version.md)
+
+**Winver:** [Winver](/winver.md) (to check winver version do WIN + R and type "winver" and press enter.)
 
 **Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
 
