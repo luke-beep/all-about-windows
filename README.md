@@ -396,12 +396,14 @@ A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC
 <img src="./assets/hone_general_1.png" alt="Optimizer" title="Optimizer">
 <br>
 <br>
+
 - **Optimizations Tab 2**
 </br>
 </br>
 <img src="./assets/hone_general_2.png" alt="Optimizer" title="Optimizer">
 <br>
 <br>
+
 - **Advanced Tab**
 </br>
 </br>
