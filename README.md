@@ -307,10 +307,7 @@ B - byte
 ### **For those who are using an Intel/AMD CPU, you can disable the following**
  
  
-- Disable Intel Hyperthreading using Process Lasso. This will disable the CPU from using hyperthreading. This will increase performance.
-
-
-
+- Disable Intel Hyper-Threading/SMT using Process Lasso. This will disable the CPU from using Hyper-Threading/SMT. This will increase performance in some CPU bound applications/games.
 
 ### **Miscellaneous BIOS Tweaks**
 
@@ -393,6 +390,9 @@ B - byte
 - A config for Fortnite **[https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link](https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link)**.
 
 - A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
+
+### **My Process Lasso configuration**
+- **Process Lasso** is a software that allows you to control the processes running on your computer. It can be used to set priorities for certain programs, limit the number of cores they use, and more. My configuration is adapted to fit any system. My configuration file can be downloaded here: [Process Lasso configuration](/configuration/ProcessLasso_LukeHjo2611.INI)
 
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
