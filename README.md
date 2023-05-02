@@ -29,10 +29,18 @@
 ### **Table of Contents**
 
 - [**General Tweaks**](#general-tweaks)
-  - [**System Tweaks**](#system-tweaks)
 - [**Service Tweaks**](#service-tweaks)
 - [**Gaming Tweaks**](#gaming-tweaks)
 - [**Network Tweaks**](#network-tweaks)
+	- [**Cloudflare IPv4 DNS Server**](#cloudflare-ipv4-dns-servers)
+	- [**Cloudflare IPv6 DNS Server**](#cloudflare-ipv6-dns-servers)
+	- [**Google IPv4 DNS Server**](#google-ipv4-dns-servers)
+	- [**Google IPv6 DNS Server**](#google-ipv6-dns-servers)
+	- [**Quad9 IPv4 DNS Server**](#quad9-ipv4-dns-servers)
+	- [**Quad9 IPv6 DNS Server**](#quad9-ipv6-dns-servers)
+	- [**Good to know IPConfig commands**](#good-to-know-ipconfig-commands)
+	- [**Generally good to know know commands**](#generally-good-to-know-commands)
+	- [**Bandwidth Measurement**](#bandwidth-measurement)
 - [**Optional Tweaks**](#optional-tweaks)
 - [**Visual Tweaks**](#visual-tweaks)
 - [**BIOS Tweaks**](#bios-tweaks)
@@ -141,31 +149,31 @@
 
 ---
 
-**Cloudflare IPv4 DNS Servers**
+#### **Cloudflare IPv4 DNS Servers**
 
 1.1.1.1 and 1.0.0.1
 
-**Cloudflare IPv6 DNS Servers**
+#### **Cloudflare IPv6 DNS Servers**
 
 2606:4700::1111 and 2606:4700:4700::1001
 
-**Google IPv4 DNS Servers**
+#### **Google IPv4 DNS Servers**
 
  8.8.8.8 and 8.8.4.4
  
-**Google IPv6 DNS Servers**
+#### **Google IPv6 DNS Servers**
 
 2001:4860:4860::8888 and 2001:4860:4860::8844
 
-**Quad9 IPv4 DNS Servers**
+#### **Quad9 IPv4 DNS Servers**
 
 9.9.9.9 and 149.112.112.112
 
-**Quad9 IPv6 DNS Servers**
+#### **Quad9 IPv6 DNS Servers**
 
 2620:fe::fe and 2620:fe::9
 
-**Good to know IPConfig commands**
+#### **Good to know IPConfig commands**
 
 ipconfig /flushdns - Flushes the DNS cache.
 
@@ -185,7 +193,7 @@ ipconfig /all - Displays all the information about all your current network adap
 
 ipconfig /? - Help for IPConfig.
 
-**Generally good to know commands**
+#### **Generally good to know commands**
 
 netsh => /? -  A powerful command for configuring network adapters.
 
@@ -208,7 +216,7 @@ pathping - Combines Ping & Tracert.
 tracert - Trace packets to a destination.
 
 
-**Bandwidth Measurement:**
+#### **Bandwidth Measurement:**
 
 Mb - Megabit
 
@@ -276,7 +284,7 @@ B - byte
 - Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
 - Disable Intel VT-x. This will disable the CPU from using an old Virtualization technology. This will increase performance.
 
-### **For those who are using a Ryzen CPU, you can disable the following**
+### **For those who are using a AMD CPU, you can disable the following**
 
 - Disable AMD Cool'n'Quiet. This will disable the CPU from going into a low power state. This will increase performance.
 - Disable AMD C1E. This will disable the CPU from going into a low power state. This will increase performance.
