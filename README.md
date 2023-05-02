@@ -387,7 +387,10 @@ A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC
 
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
-**Optimizations Tab 1:**
+
+ > **HoneCTRL** is a software designed for tweaking and optimizing your computer's performance. It allows you to adjust various system settings, such as CPU and RAM usage, power management, and network configurations, to get the most out of your computer's hardware. However, it is important to be cautious when using **HoneCTRL** and similar tweaking software, as making the wrong changes can cause serious problems and even damage your system. It's always a good idea to set a restore point before making any adjustments, so you can easily revert to a stable configuration if something goes wrong.
+
+<span style="color:blue">Optimizations Tab 1:</span>
 <img src="./assets/hone_general_1.png" alt="Optimizer" title="Optimizer">
 <br>
 <br>
