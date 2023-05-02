@@ -290,6 +290,8 @@ B - byte
 - Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
 
 ### **AMD & Intel CPU Tweaks** 
+
+---
  
 - Disable Intel Hyper-Threading/SMT using Process Lasso. This will disable the CPU from using Hyper-Threading/SMT. This will increase performance in some CPU bound applications/games.
 
