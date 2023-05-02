@@ -460,6 +460,14 @@ B - byte
 
 - "True nature of E-cores and how effective are they?" **[https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/](https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/)**.
 
+- "NVIDIA GeForce Graphics Drivers" **[https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history](https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history)**.
+
+- "AMD Radeon Graphics Drivers" **[https://www.techpowerup.com/download/amd-radeon-graphics-drivers/](https://www.techpowerup.com/download/amd-radeon-graphics-drivers/)**.
+
+- "Intel ARC Graphics Drivers" **[https://www.techpowerup.com/download/intel-arc-graphics-drivers/](https://www.techpowerup.com/download/intel-arc-graphics-drivers/)**.
+
+- "Intel iGPU Graphics Drivers" **[https://www.techpowerup.com/download/intel-integrated-graphics-drivers/](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)**.
+
 ---
 
 **<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
