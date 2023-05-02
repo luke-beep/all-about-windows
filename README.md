@@ -1,4 +1,4 @@
-# An in-depth guide on optimizations for windows
+# **An in-depth guide on optimizations for windows**
 <div align="center">
 	<br />
 	<p>
@@ -20,7 +20,7 @@
 
 **Winver:** 22H2 (to check winver version do WIN + R and type "winver" and press enter.)
 
-**Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to [create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9). If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
+**Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
@@ -28,17 +28,18 @@ This guide is essentially a collection of tweaks and fixes. Some are by others, 
 
 ### **Table of Contents**
 
-* [**General Tweaks**](#general-tweaks)
-* [**Service Tweaks**](#service-tweaks)
-* [**Gaming Tweaks**](#gaming-tweaks)
-* [**Network Tweaks**](#network-tweaks)
-* [**Optional Tweaks**](#optional-tweaks)
-* [**Visual Tweaks**](#visual-tweaks)
-* [**BIOS Tweaks**](#bios-tweaks)
-* [**Driver Tweaks**](#driver-tweaks)
-* [**Programming Tools**](#programming-tools)
-* [**Gaming Configs**](#gaming-configs)
-* [**Credits and Useful Links**](#credits-and-useful-links)
+- [**General Tweaks**](#general-tweaks)
+  - [**System Tweaks**](#system-tweaks)
+- [**Service Tweaks**](#service-tweaks)
+- [**Gaming Tweaks**](#gaming-tweaks)
+- [**Network Tweaks**](#network-tweaks)
+- [**Optional Tweaks**](#optional-tweaks)
+- [**Visual Tweaks**](#visual-tweaks)
+- [**BIOS Tweaks**](#bios-tweaks)
+- [**Driver Tweaks**](#driver-tweaks)
+- [**Programming Tools**](#programming-tools)
+- [**Gaming Configs**](#gaming-configs)
+- [**Credits and Useful Links**](#credits-and-useful-links)
 
 
 ### **General Tweaks**
@@ -49,7 +50,7 @@ This guide is essentially a collection of tweaks and fixes. Some are by others, 
 
 2. Make sure that you have the latest version of windows. As of current date it would be 22H2. 
 
-3. Download this program [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and continue following the guide.
+3. Download this program **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and continue following the guide.
 
 <img src="./assets/optimizer.png" alt="Optimizer" title="Optimizer">
 
@@ -57,7 +58,7 @@ For example, if you would like to keep print service on then you do not tick "Di
 
 4. Disable all the unnecessary startup apps. To do this you want to go and open up Task Manager. Go to the Startup tab and disable all the apps that you do not use.
 
-5. To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use [https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases) and simply go to the Startup tab and select all the apps that you do not use and delete them.
+5. To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and simply go to the Startup tab and select all the apps that you do not use and delete them.
 
 Select startup apps.
 <img src="./assets/tab1.png" alt="Optimizer" title="Optimizer">
@@ -119,13 +120,15 @@ Optimizing Windows services can help improve your computer's performance by redu
 2. Disable all ingame overlays. This will increase performance by a lot.
 
 
-[Process Lasso](https://bitsum.com/) is an advanced process priority optimization and system automation utility.
+**[Process Lasso](https://bitsum.com/)** is an advanced process priority optimization and system automation utility.
 
-[https://www.msi.com/Landing/afterburner/graphics-cards](https://www.msi.com/Landing/afterburner/graphics-cards) is a graphics card overclocking utility.
+**[https://www.msi.com/Landing/afterburner/graphics-cards](https://www.msi.com/Landing/afterburner/graphics-cards)** is a graphics card overclocking utility.
 
-[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers [https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/).
+**[https://www.guru3d.com/files-details/display-driver-uninstaller-download.html](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)** is a display driver uninstaller which you can bundle up with NVCleanstall to debloat your graphics card drivers **[https://www.techpowerup.com/nvcleanstall/](https://www.techpowerup.com/nvcleanstall/)**.
 
-[https://www.techpowerup.com/download/techpowerup-gpu-z/](https://www.techpowerup.com/download/techpowerup-gpu-z/) is a graphics card information utility.
+**[https://www.techpowerup.com/download/techpowerup-gpu-z/](https://www.techpowerup.com/download/techpowerup-gpu-z/)** is a graphics card information utility.
+
+**[https://www.techpowerup.com/download/cpu-z/](https://www.techpowerup.com/download/cpu-z/) or [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)**  is a freeware that gathers information on some of the main devices of your system.
 
 ### **Network Tweaks**
 
@@ -213,47 +216,47 @@ b - bit
 B - byte
 
 
-https://1.1.1.1/
+**https://1.1.1.1/**
 
-https://developers.google.com/speed/public-dns/docs/using
+**https://developers.google.com/speed/public-dns/docs/using**
 
-https://www.quad9.net/service/service-addresses-and-features
+**https://www.quad9.net/service/service-addresses-and-features**
 
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig
+**https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig**
 
 
 ### **Optional Tweaks**
 
 ---
 
-WPD is a privacy tool [https://wpd.app/](https://wpd.app/). It is a free and open source tool that allows you to disable telemetry and other privacy invasive features in Windows 10 and 11. It is recommended to use this tool if you are concerned about your privacy.
+WPD is a privacy tool **[https://wpd.app/](https://wpd.app/)**. It is a free and open source tool that allows you to disable telemetry and other privacy invasive features in Windows 10 and 11. It is recommended to use this tool if you are concerned about your privacy.
 
-[https://www.bleachbit.org/](https://www.bleachbit.org/) is a disk cleaner for windows. **Recommended**
+**[https://www.bleachbit.org/](https://www.bleachbit.org/)** is a disk cleaner for windows. **Recommended**
 
-[https://www.oo-software.com/en/shutup10/update](https://www.oo-software.com/en/shutup10/update) an antispy tool for windows 10 and 11.
+**[https://www.oo-software.com/en/shutup10/update](https://www.oo-software.com/en/shutup10/update)** an antispy tool for windows 10 and 11.
 
-[https://www.speedguide.net/downloads.php](https://www.speedguide.net/downloads.php). This is a tool that will help you optimize your internet connection. It's called TCP Optimizer. You would want to download version 4.0.14. It's the latest version.
+**[https://www.speedguide.net/downloads.php](https://www.speedguide.net/downloads.php)**. This is a tool that will help you optimize your internet connection. It's called TCP Optimizer. You would want to download version 4.0.14. It's the latest version.
 
-[https://github.com/auraside/HoneCtrl](https://github.com/auraside/HoneCtrl) a windows bat script. Aimed to optimize your computer for general use and gaming. 
+**[https://github.com/auraside/HoneCtrl](https://github.com/auraside/HoneCtrl)** a windows bat script. Aimed to optimize your computer for general use and gaming. 
 
-A windows tool that allows you to achive maximum productivity [https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys). **Recommended**
+A windows tool that allows you to achive maximum productivity **[https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)**. **Recommended**
 
-[https://www.malwarebytes.com/solutions/rootkit-scanner](https://www.malwarebytes.com/solutions/rootkit-scanner) a rootkit scanner. **Recommended**
+**[https://www.malwarebytes.com/solutions/rootkit-scanner](https://www.malwarebytes.com/solutions/rootkit-scanner)** a rootkit scanner. **Recommended**
 
-[https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner) a malware scanner. **Recommended**
+**[https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner)** a malware scanner. **Recommended**
 
-[https://github.com/builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) a windows 11 tweaker, only available for windows 11. **Recommended**
+**[https://github.com/builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)** a windows 11 tweaker, only available for windows 11. **Recommended**
 
 
 ### **Visual Tweaks**
 
 ---
 
-A tool that allows for customization of Win32 apps. [https://github.com/MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone). **Only Available for Windows 11**
+A tool that allows for customization of Win32 apps. **[https://github.com/MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)**. **Only Available for Windows 11**
 
-[https://www.startallback.com/](https://www.startallback.com/) a tool that allows you to change the start menu. **Only Available for Windows 11**
+**[https://www.startallback.com/](https://www.startallback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 11**
 
-[https://startisback.com/](https://startisback.com/) a tool that allows you to change the start menu. **Only Available for Windows 10**
+**[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
 
 
 ### **BIOS Tweaks**
@@ -306,31 +309,31 @@ Disable Intel Hyperthreading using Process Lasso. This will disable the CPU from
 
  **Memory Tweaks:**
 
-Memory optimizations for ASUS motherboards [https://www.asus.com/us/support/FAQ/1042256](https://www.asus.com/us/support/FAQ/1042256).
+Memory optimizations for ASUS motherboards **[https://www.asus.com/us/support/FAQ/1042256](https://www.asus.com/us/support/FAQ/1042256)**.
 
-Memory optimizations for MSI motherboards [https://www.msi.com/blog/memory-force](https://www.msi.com/blog/memory-force).
+Memory optimizations for MSI motherboards **[https://www.msi.com/blog/memory-force](https://www.msi.com/blog/memory-force)**.
 
 ### **Driver Tweaks**
 
 ---
 
-If you have intel hardware you can install the intel driver and support assistant. This will allow you to update your drivers. [https://www.intel.com/content/www/us/en/support/detect.html](https://www.intel.com/content/www/us/en/support/detect.html). Only works with Intel hardware. **Recommended**
+If you have intel hardware you can install the intel driver and support assistant. This will allow you to update your drivers. **[https://www.intel.com/content/www/us/en/support/detect.html](https://www.intel.com/content/www/us/en/support/detect.html)**. Only works with Intel hardware. **Recommended**
 
-If you have AMD hardware you can install the AMD driver and support assistant. This will allow you to update your drivers. [https://www.amd.com/en/support](https://www.amd.com/en/support). Only works with AMD hardware. **Recommended**
+If you have AMD hardware you can install the AMD driver and support assistant. This will allow you to update your drivers. **[https://www.amd.com/en/support](https://www.amd.com/en/support)**. Only works with AMD hardware. **Recommended**
 
-If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. [https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers). Only works with Nvidia hardware. **Recommended**
+If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. **[https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers)**. Only works with Nvidia hardware. **Recommended**
 
 **Debloat NVIDIA Drivers:**
 
-1. Download [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html).
+1. Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
 
-2. Download [NVCleanstall](https://www.techpowerup.com/nvcleanstall/).
+2. Download **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**.
 
 3. Boot into safe mode.
 
 4. Run DDU and uninstall the drivers.
 
-5. Reboot.
+5. **Reboot.**
 
 6. Run NVCleanStall and build the driver using these settings;
 
@@ -340,77 +343,72 @@ If you have Nvidia hardware you can install the Nvidia drivers and geforce exper
 
 7. Install the drivers from the package that NVcleanstall created.
 
-8. Reboot.
+8. **Reboot.**
 
 ### **Programming Tools**
-
+ 
 ---
 
-Chocolatey is a package manager for windows. It allows you to install programs from the command line. [https://chocolatey.org/install](https://chocolatey.org/install). **Recommended**
+Chocolatey is a package manager for windows. It allows you to install programs from the command line. **[https://chocolatey.org/install](https://chocolatey.org/install)**. **Recommended**
 
-Scoop is a package manager for windows. It allows you to install programs from the command line. [https://scoop.sh/](https://scoop.sh/). **Recommended**
+Scoop is a package manager for windows. It allows you to install programs from the command line. **[https://scoop.sh/](https://scoop.sh/)**. **Recommended**
 
 
 ### **Gaming Configs**
 
 ---
 
-An NVIDIA Config. [https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link](https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link). 
+An NVIDIA Config. **[https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link](https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link)**. 
 
-A config for Modern Warfare 2 & Warzone 2. [https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link](https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link). 
+A config for Modern Warfare 2 & Warzone 2. **[https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link](https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link)**. 
 
-A config for Apex Legends. [https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz).
+A config for Apex Legends. **[https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz)**.
 
-A config for Destiny 2 [https://drive.google.com/drive/folders/1luSpEJRd5lpyaVkgxMroVl4p4-jOO2zZ?usp=share_link](https://drive.google.com/drive/folders/1luSpEJRd5lpyaVkgxMroVl4p4-jOO2zZ?usp=share_link).
+A config for Destiny 2 **[https://drive.google.com/drive/folders/1luSpEJRd5lpyaVkgxMroVl4p4-jOO2zZ?usp=share_link](https://drive.google.com/drive/folders/1luSpEJRd5lpyaVkgxMroVl4p4-jOO2zZ?usp=share_link)**.
 
-A config for The Last Of Us Part 1 [https://drive.google.com/drive/folders/1_MCWZXv9EOfIi6f_f4qJ_qFi52Sj9wcN?usp=share_link](https://drive.google.com/drive/folders/1_MCWZXv9EOfIi6f_f4qJ_qFi52Sj9wcN?usp=share_link)
+A config for The Last Of Us Part 1 **[https://drive.google.com/drive/folders/1_MCWZXv9EOfIi6f_f4qJ_qFi52Sj9wcN?usp=share_link](https://drive.google.com/drive/folders/1_MCWZXv9EOfIi6f_f4qJ_qFi52Sj9wcN?usp=share_link)**.
 
 A config for Battlefield 2042 [https://drive.google.com/drive/folders/1sBJ3xZnZRAbON-auM0TaWSIIVrFgdwuy?usp=share_link](https://drive.google.com/drive/folders/1sBJ3xZnZRAbON-auM0TaWSIIVrFgdwuy?usp=share_link)
 
-A config for Elden Ring [https://drive.google.com/drive/folders/1uNCmr3_UttUiv9mSlMig47kJy5k_55KK?usp=share_link](https://drive.google.com/drive/folders/1uNCmr3_UttUiv9mSlMig47kJy5k_55KK?usp=share_link)
+A config for Elden Ring **[https://drive.google.com/drive/folders/1uNCmr3_UttUiv9mSlMig47kJy5k_55KK?usp=share_link](https://drive.google.com/drive/folders/1uNCmr3_UttUiv9mSlMig47kJy5k_55KK?usp=share_link)**.
 
-A config for Apex Legends (DX11 & DX12) [https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz)
+A config for Apex Legends (DX11 & DX12) **[https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz)**.
 
-A config for Halo Infinite [https://drive.google.com/drive/folders/1KxkTIaptRysTj3cSkKDf5OAh1v58fxe3?usp=share_link](https://drive.google.com/drive/folders/1KxkTIaptRysTj3cSkKDf5OAh1v58fxe3?usp=share_link)
+A config for Halo Infinite **[https://drive.google.com/drive/folders/1KxkTIaptRysTj3cSkKDf5OAh1v58fxe3?usp=share_link](https://drive.google.com/drive/folders/1KxkTIaptRysTj3cSkKDf5OAh1v58fxe3?usp=share_link)**.
 
-A config for Shatterline [https://drive.google.com/drive/folders/1dK9_n8d23-LqYlOUMG5sXbDNNdvcdAWB?usp=share_link](https://drive.google.com/drive/folders/1dK9_n8d23-LqYlOUMG5sXbDNNdvcdAWB?usp=share_link)
+A config for Shatterline **[https://drive.google.com/drive/folders/1dK9_n8d23-LqYlOUMG5sXbDNNdvcdAWB?usp=share_link](https://drive.google.com/drive/folders/1dK9_n8d23-LqYlOUMG5sXbDNNdvcdAWB?usp=share_link)**.
 
-A config for Valorant [https://drive.google.com/drive/folders/11EkV5vZnaA4JArvVrD6PnyVcYA5OkUhX?usp=share_link](https://drive.google.com/drive/folders/11EkV5vZnaA4JArvVrD6PnyVcYA5OkUhX?usp=share_link)
+A config for Valorant **[https://drive.google.com/drive/folders/11EkV5vZnaA4JArvVrD6PnyVcYA5OkUhX?usp=share_link](https://drive.google.com/drive/folders/11EkV5vZnaA4JArvVrD6PnyVcYA5OkUhX?usp=share_link)**.
 
-A config for Fortnite [https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link](https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link)
+A config for Fortnite **[https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link](https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link)**.
 
-A config for CS: GO [https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)
+A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
 
-All credit goes too [https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech).
+All credit goes too **[https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech)**.
 ### **Credits and Useful Links**
 
 ---
 
-My Tech Blog can be found here [https://dev.lukehjo.tech/](https://dev.lukehjo.tech/)
+My Tech Blog can be found here **[https://dev.lukehjo.tech/](https://dev.lukehjo.tech/)**.
 
-My forum can be found here [https://forum.lukehjo.tech/](https://forum.lukehjo.tech/)
+My forum can be found here **[https://forum.lukehjo.tech/](https://forum.lukehjo.tech/)**.
 
-The Author of this guide can be found here [https://github.com/luke-beep](https://github.com/luke-beep)
+The Author of this guide can be found here **[https://github.com/luke-beep](https://github.com/luke-beep)**.
 
-Guide to TCP Optimizer can be found here [https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474).
+Guide to TCP Optimizer can be found here **[https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474)**.
 
-An unofficial guide to Process Lasso can be found here [https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M).
+An unofficial guide to Process Lasso can be found here **[https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M)**.
 
-A Display Driver Uninstaller also known as DDU Guide can be found here [https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial).
+A Display Driver Uninstaller also known as DDU Guide can be found here **[https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial)**.
 
-An unofficial guide for NVCleanstall can be found at [https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/](https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/).
+An unofficial guide for NVCleanstall can be found at **[https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/](https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/)**.
 
-An unofficial guide for MSI Afterburner can be found at [https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA).
+An unofficial guide for MSI Afterburner can be found at **[https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA)**.
 
-The author to some of the game configs can be found here [https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech).
+The author to some of the game configs can be found here **[https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech)**.
 
-Calypto's Latency Guide [https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit).
-
+Calypto's Latency Guide **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
 
 <br></br>
-<br></br>
 
-
-<div align="center">
-LukeHjo © 2023
-</div>
+**<div align="center"> LukeHjo © 2023 </div>**
