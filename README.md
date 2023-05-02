@@ -427,6 +427,4 @@ Calypto's Latency Guide **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA
 
 ---
 
-<br>
-
 **<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
