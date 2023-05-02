@@ -432,7 +432,7 @@ B - byte
 - **Advanced Tab**
 > <img src="./assets/hone_advanced.png" alt="Optimizer" title="Optimizer">
 
-### **Credits and Useful Links**
+### **Credits and Useful Links/Downloads**
 
 ---
 
