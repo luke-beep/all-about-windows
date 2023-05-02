@@ -20,7 +20,7 @@
 
 Version: [Version](/version.md)
 
-**Winver:** [My Winver](/winver.md) | To check winver do WIN + R and type "winver" and press enter.
+**Winver:** [My Winver](/winver.md) | To check winver do WIN + R and type `winver` and press enter.
 
 **Latest Windows 11 Winver:** [Latest Windows 11 Winver](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
 
@@ -102,9 +102,9 @@ Version: [Version](/version.md)
 <img src="./assets/tab4.png" alt="Optimizer" title="Optimizer">
 <br>
 
-- Run Windows Disk Cleanup. WIN + R and type "cleanmgr.exe", then press enter. Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
+- Run Windows Disk Cleanup. WIN + R and type `cleanmgr.exe`, then press enter. Choose your drive and press **OK**. Then select what you would like to clean up and hit **OK**.
 
-- Run Windows Defragment and trimmer. WIN + R and type "dfrgui.exe", then press enter. Select your drive and press Optimize or Analyze.
+- Run Windows Defragment and trimmer. WIN + R and type `dfrgui.exe`, then press enter. Select your drive and press Optimize or Analyze.
 
 - Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**. 
 
@@ -116,11 +116,11 @@ Version: [Version](/version.md)
 
 - Disable Storage Sense.
 
-- WIN + R and type "msconfig". Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
+- WIN + R and type `msconfig`. Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
 
-- Open an elevated command prompt and type "bcdedit /set increaseuserva 3072" and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system. **Do not do this on a 64 bit system.**
+- Open an elevated command prompt and type `bcdedit /set increaseuserva 3072` and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system. **Do not do this on a 64 bit system.**
 
-- Open an elevated command prompt and type slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX. Then set a KMS server by typing slmgr /skms kms8.msguides.com. Then activate windows by typing slmgr /ato. This will activate windows and make it enable all the features and remove the ugly watermark. Run slmgr /xpr to check if it worked.
+- Open an elevated command prompt and type `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`. Then set a KMS server by typing `slmgr /skms kms8.msguides.com`. Then activate windows by typing `slmgr /ato`. This will activate windows and make it enable all the features and remove the ugly watermark. Run `slmgr /xpr` to check if it worked.
 
 
 
@@ -189,45 +189,45 @@ Version: [Version](/version.md)
 
 #### **Good to know IPConfig commands**
 
-ipconfig /flushdns - Flushes the DNS cache.
+`ipconfig /flushdns` - Flushes the DNS cache.
 
-ipconfig /Displaydns - Shows information about your current DNS server.
+`ipconfig /Displaydns` - Shows information about your current DNS server.
 
-ipconfig /Registerdns - Initiates manual dynamic registration for the DNS names and IP addresses that are configured at a computer.
+`ipconfig /Registerdns` - Initiates manual dynamic registration for the DNS names and IP addresses that are configured at a computer.
 
-ipconfig /release - Releases the IPv4 address that you are currently using.
+`ipconfig /release` - Releases the IPv4 address that you are currently using.
 
-ipconfig /release6 - Releases the IPv6 address that you are currently using.
+`ipconfig /release6` - Releases the IPv6 address that you are currently using.
 
-ipconfig /renew - Renews an IPv4 address on your device.
+`ipconfig /renew` - Renews an IPv4 address on your device.
 
-ipconfig /renew6 - Renews an IPv6 address on your device.
+`ipconfig /renew6` - Renews an IPv6 address on your device.
 
-ipconfig /all - Displays all the information about all your current network adapters.
+`ipconfig /all` - Displays all the information about all your current network adapters.
 
-ipconfig /? - Help for IPConfig.
+`ipconfig /?` - Help for IPConfig.
 
 #### **Generally good to know commands**
 
-netsh => /? -  A powerful command for configuring network adapters.
+`netsh => /?` -  A powerful command for configuring network adapters.
 
-netstat - Displaying Network Statistics.
+`netstat` - Displaying Network Statistics.
 
-net - View different parts of your network.
+`net` - View different parts of your network.
 
-nslookup - Useful for diagnosing DNS name resolution problems.
+`nslookup` - Useful for diagnosing DNS name resolution problems.
 
-hostname -  Identify your current hostname.
+`hostname` -  Identify your current hostname.
 
-arp - Modify & Display the Address Resolution Protocol cache.
+`arp` - Modify & Display the Address Resolution Protocol cache.
 
-getmac - Displays your current MAC address.
+`getmac` - Displays your current MAC address.
 
-systeminfo - Information about your device.
+`systeminfo` - Information about your device.
 
-pathping - Combines Ping & Tracert.
+`pathping` - Combines Ping & Tracert.
 
-tracert - Trace packets to a destination.
+`tracert` - Trace packets to a destination.
 
 
 #### **Bandwidth Measurement**
@@ -405,6 +405,12 @@ B - byte
 > 3. Click on "Import Configuration"
 > 4. Select the configuration file you downloaded
 
+### **My Powerplan**
+- **Powerplan** is a built in feature that allows you to control the power settings of your computer. It can be used to set the power plan to high performance, balanced, power saver or a custom one. My configuration is adapted to fit any system and most of it is taken from the already great Bitsum powerplan. My configuration file can be downloaded here: [Powerplan Configuration](/configurations/Powerplan_LukeHjo2611.pow). To import this profile you'd have to follow these 4 simple steps:
+> 1. Open CMD with elevated privileges.
+> 2. Type in `powercfg -import "C:\Users\%USERNAME%\Desktop\Powerplan_LukeHjo2611.pow"`
+> 3. Press enter
+> 4. Open the powerplan settings and select the imported powerplan or type in `powercfg -list` and then `powercfg -setactive <GUID>` where `<GUID>` is the GUID of the powerplan you want to use.
 
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
