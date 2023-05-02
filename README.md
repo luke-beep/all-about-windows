@@ -61,6 +61,7 @@ Version: [Version](/version.md)
 - [**Programming Tools**](#programming-tools)
 - [**Gaming Configs**](#gaming-configs)
 	- [**My Process Lasso Configuration**](#my-process-lasso-configuration)
+	- [**My Powerplan**](#my-powerplan)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
 - [**Credits and Useful Links**](#credits-and-useful-links)
 
