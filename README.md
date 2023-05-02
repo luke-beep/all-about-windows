@@ -409,6 +409,15 @@ The author to some of the game configs can be found here **[https://www.tiktok.c
 
 Calypto's Latency Guide **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
 
-<br></br>
+----
 
-**<div align="center"> LukeHjo © 2023 </div>**
+<footer style="background-color: #F7F7F7; border-top: 1px solid #E5E5E5; padding: 20px;">
+<a href="https://twitter.com/luckylukehjo" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" />
+</a>
+<a href="https://github.com/luke-beep" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" />
+</a>
+</footer>
+
+**<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
