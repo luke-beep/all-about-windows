@@ -48,12 +48,12 @@ Version: [Version](/version.md)
 	- [**Generally good to know know commands**](#generally-good-to-know-commands)
 	- [**Bandwidth Measurement**](#bandwidth-measurement)
 - [**Optional Tweaks**](#optional-tweaks)
+- [**NVIDIA Tweaks**](#nvidia-tweaks)
+- [**AMD & Intel CPU Tweaks**](#amd--intel-cpu-tweaks)
 - [**Visual Tweaks**](#visual-tweaks)
 - [**BIOS Tweaks**](#bios-tweaks)
     - [**Intel CPU**](#for-those-who-are-using-an-intel-cpu-you-can-disable-the-following)
 	- [**AMD CPU**](#for-those-who-are-using-a-amd-cpu-you-can-disable-the-following)
-	- [**NVIDIA GPU**](#for-those-who-are-using-an-nvidia-gpu-you-can-disable-the-following)
-	- [**Intel/AMD CPU**](#for-those-who-are-using-an-intelamd-cpu-you-can-disable-the-following)
 	- [**Miscellaneous BIOS Tweaks**](#miscellaneous-bios-tweaks)
 	- [**Memory Tweaks**](#memory-tweaks)
 - [**Driver Tweaks**](#driver-tweaks)
@@ -277,6 +277,21 @@ B - byte
 
 - **[https://github.com/builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)** a windows 11 tweaker, only available for windows 11. **Recommended**
 
+### **NVIDIA Tweaks**
+
+--- 
+
+- Disable Nvidia Adaptive V-Sync. This will disable the GPU from using Adaptive V-Sync. This will increase performance.
+
+- Disable Nvidia Ansel. This will disable the GPU from using Ansel. This will increase performance.
+
+- Disable Nvidia Ambient Occlusion. This will disable the GPU from using Ambient Occlusion. This will increase performance.
+
+- Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
+
+### **AMD & Intel CPU Tweaks** 
+ 
+- Disable Intel Hyper-Threading/SMT using Process Lasso. This will disable the CPU from using Hyper-Threading/SMT. This will increase performance in some CPU bound applications/games.
 
 ### **Visual Tweaks**
 
@@ -306,17 +321,7 @@ B - byte
 
 ### **For those who are using an Nvidia GPU, you can disable the following**
 
-- Disable Nvidia Adaptive V-Sync. This will disable the GPU from using Adaptive V-Sync. This will increase performance.
-- Disable Nvidia Ansel. This will disable the GPU from using Ansel. This will increase performance.
-- Disable Nvidia Ambient Occlusion. This will disable the GPU from using Ambient Occlusion. This will increase performance.
-- Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
 - Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
-
-### **For those who are using an Intel/AMD CPU, you can disable the following**
- 
- 
-- Disable Intel Hyper-Threading/SMT using Process Lasso. This will disable the CPU from using Hyper-Threading/SMT. This will increase performance in some CPU bound applications/games.
-
 ### **Miscellaneous BIOS Tweaks**
 
 - Enable XMP or DOCP or EXPO. This will enable the RAM to run at a higher speed. This will increase performance.
