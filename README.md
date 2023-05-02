@@ -384,6 +384,9 @@ A config for Fortnite **[https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEs
 
 A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
 
+**Safe to use HoneCTRL settings for NVIDIA:**
+
+
 All credit goes too **[https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech)**.
 ### **Credits and Useful Links**
 
@@ -410,14 +413,11 @@ The author to some of the game configs can be found here **[https://www.tiktok.c
 Calypto's Latency Guide **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
 
 ----
-
-<footer style="background-color: #F7F7F7; border-top: 1px solid #E5E5E5; padding: 20px;">
+**<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+<br>
 <a href="https://twitter.com/luckylukehjo" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" />
+  <img src="https://img.shields.io/badge/twitter-visit-blue?style=flat-square&logo=twitter" alt="My Discord server" />
 </a>
 <a href="https://github.com/luke-beep" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" />
+  <img src="https://img.shields.io/badge/github-visit-white?style=flat-square&logo=github" alt="My Github link" />
 </a>
-</footer>
-
-**<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
