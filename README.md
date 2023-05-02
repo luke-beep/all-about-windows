@@ -20,7 +20,7 @@
 
 Version: [Version](/version.md)
 
-**Winver:** [My Winver](/winver.md) (to check winver version do WIN + R and type "winver" and press enter.)
+**Winver:** [My Winver](/winver.md) | To check winver do WIN + R and type "winver" and press enter.
 
 **Latest Windows 11 Winver:** [Latest Windows 11 Winver](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
 
