@@ -324,27 +324,27 @@ If you have AMD hardware you can install the AMD driver and support assistant. T
 
 If you have Nvidia hardware you can install the Nvidia drivers and geforce experience. This will allow you to update your drivers. **[https://www.nvidia.com/en-us/drivers](https://www.nvidia.com/en-us/drivers)**. Only works with Nvidia hardware. **Recommended**
 
-**Debloat NVIDIA Drivers:**
+> ### **Debloat NVIDIA Drivers**
 
-1. Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
+-  Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
 
-2. Download **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**.
+-  Download **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**.
 
-3. Boot into safe mode.
+-  Boot into safe mode.
 
-4. Run DDU and uninstall the drivers.
+- Run DDU and uninstall the drivers.
 
-5. **Reboot.**
+- **Reboot.**
 
-6. Run NVCleanStall and build the driver using these settings;
+- Run NVCleanStall and build the driver using these settings;
 
 <p>
 	<img src="/assets/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
 </p>
 
-7. Install the drivers from the package that NVcleanstall created.
+- Install the drivers from the package that NVcleanstall created.
 
-8. **Reboot.**
+- **Reboot.**
 
 ### **Programming Tools**
  
