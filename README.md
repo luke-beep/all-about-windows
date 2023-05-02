@@ -395,7 +395,12 @@ B - byte
 - A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
 
 ### **My Process Lasso configuration**
-- **Process Lasso** is a software that allows you to control the processes running on your computer. It can be used to set priorities for certain programs, limit the number of cores they use, and more. My configuration is adapted to fit any system. My configuration file can be downloaded here: [Process Lasso Configuration](/configurations/ProcessLasso_LukeHjo2611.INI)
+- **Process Lasso** is a software that allows you to control the processes running on your computer. It can be used to set priorities for certain programs, limit the number of cores they use, and more. My configuration is adapted to fit any system. My configuration file can be downloaded here: [Process Lasso Configuration](/configurations/ProcessLasso_LukeHjo2611.INI). To import this profile you'd have to follow these 4 simple steps:
+> 1. Open Process Lasso
+> 2. Click on the "File" tab
+> 3. Click on "Import Configuration"
+> 4. Select the configuration file you downloaded
+
 
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
