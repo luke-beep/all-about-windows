@@ -71,6 +71,7 @@
 	- [**My Powerplan**](#my-powerplan)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
 - [**Credits and Useful Links/Downloads**](#credits-and-useful-linksdownloads)
+- [**Footer**](#)
 
 
 ### **General Tweaks**
@@ -495,6 +496,8 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 [**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
 
 ---
+
+###
 
 **<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
 <br>
