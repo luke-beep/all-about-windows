@@ -1,4 +1,4 @@
-# **An in-depth guide on optimizations for windows**
+# **An in-depth guide on optimizations for Windows**
 <div align="center">
 	<br />
 	<p>
@@ -29,11 +29,11 @@
 
 </div>
 
-**Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
+**Note:** This guide/collection is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
-> This guide is essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please link to this github.
+> This guide is essentially a collection of tweaks and information. Some are by others, some are by me. If you want to use this guide, please link to this github.
 
 
 ### **Table of Contents**
@@ -305,11 +305,11 @@
 
 ---
 
-- A tool that allows for customization of Win32 apps. **[https://github.com/MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)**. **Only Available for Windows 11**
+- **MicaForEveryone** -  A tool that allows for customization of Win32 apps. **[https://github.com/MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)** **Only Available for Windows 11** |  [**My MicaForEveryone config**](/configurations/MicaForEveryone.conf). 
 
-- **[https://www.startallback.com/](https://www.startallback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 11**
+- **StartAllBack** - **[https://www.startallback.com/](https://www.startallback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 11** | [**My StartAllBack config**](/configurations/StartAllBack.conf).
 
-- **[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
+- **StartAllBack** - **[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
 
 
 ### **BIOS Tweaks**
@@ -396,6 +396,8 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - Scoop is a package manager for windows. It allows you to install programs from the command line. **[https://scoop.sh/](https://scoop.sh/)**. **Recommended**
 
 
+### **Debugging Tools**
+
 ### **Gaming Configs**
 
 ---
@@ -445,10 +447,10 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
  > **HoneCTRL** is a software designed for tweaking and optimizing your computer's performance. It allows you to adjust various system settings, such as CPU and RAM usage, power management, and network configurations, to get the most out of your computer's hardware. However, it is important to be cautious when using **HoneCTRL** and similar tweaking software, as making the wrong changes can cause serious problems and even damage your system. It's always a good idea to set a restore point before making any adjustments, so you can easily revert to a stable configuration if something goes wrong.
 
-- **Optimizations Tab 1**
+- **Optimizations Page 1**
 > <img src="./assets/hone_general_1.png" alt="Optimizer" title="Optimizer">
 
-- **Optimizations Tab 2**
+- **Optimizations Page 2**
 > <img src="./assets/hone_general_2.png" alt="Optimizer" title="Optimizer">
 
 - **Advanced Tab**
