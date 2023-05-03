@@ -20,11 +20,10 @@
 
 [**Version & Date last updated**](/render/version.md)
 
-</div>
 
-**Winver:** [**My Winver**](/render/winver.md) | To check winver do WIN + R and type `winver` and press enter. 
 
-<div align="center">
+[**Winver**](/render/winver.md)
+
 
 [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) |  [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information)
 
