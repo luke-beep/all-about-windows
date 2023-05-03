@@ -16,19 +16,26 @@
 
 
 
-**Date last updated:** 3rd May 2023
+<div align="center">
 
-Version: [Version](/version.md)
+[**Version & Date last updated**](/render/version.md)
 
-**Winver:** [My Winver](/winver.md) | To check winver do WIN + R and type `winver` and press enter.
+</div>
 
-**Latest Windows 11 Winver:** [Latest Windows 11 Winver](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) | **Latest Windows 10 Winver:** [Latest Windows 10 Winver](https://learn.microsoft.com/en-us/windows/release-health/release-information)
+**Winver:** [**My Winver**](/render/winver.md) | To check winver do WIN + R and type `winver` and press enter. 
+
+<div align="center">
+
+[**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) |  [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information)
+
+</div>
 
 **Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
 > This guide is essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please link to this github.
+
 
 ### **Table of Contents**
 
@@ -70,7 +77,7 @@ Version: [Version](/version.md)
 
 - Uninstall all unnecessary apps.
 
-- Make sure that you have the latest version of windows. As of current date it would be 22H2. 
+- Make sure that you have the latest version of windows. As of current date it would be [**22H2**](/render/winver.md). 
 
 - Download this program **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and continue following the guide.
 
@@ -470,4 +477,4 @@ B - byte
 
 ---
 
-**<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+**<footer align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <footer>**
