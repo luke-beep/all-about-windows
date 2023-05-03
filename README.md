@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[**Version & Date last updated**](/render/version.md)
+[**Guide Version & Date last updated**](/render/version.md)
 
 
 
@@ -42,12 +42,12 @@
 - [**Service Tweaks**](#service-tweaks)
 - [**Gaming Tweaks**](#gaming-tweaks)
 - [**Network Tweaks**](#network-tweaks)
-	- [**Cloudflare IPv4 DNS Server**](#cloudflare-ipv4-dns-servers)
-	- [**Cloudflare IPv6 DNS Server**](#cloudflare-ipv6-dns-servers)
-	- [**Google IPv4 DNS Server**](#google-ipv4-dns-servers)
-	- [**Google IPv6 DNS Server**](#google-ipv6-dns-servers)
-	- [**Quad9 IPv4 DNS Server**](#quad9-ipv4-dns-servers)
-	- [**Quad9 IPv6 DNS Server**](#quad9-ipv6-dns-servers)
+	- [**Cloudflare IPv4 DNS Servers**](#cloudflare-ipv4-dns-servers)
+	- [**Cloudflare IPv6 DNS Servers**](#cloudflare-ipv6-dns-servers)
+	- [**Google IPv4 DNS Servers**](#google-ipv4-dns-servers)
+	- [**Google IPv6 DNS Servers**](#google-ipv6-dns-servers)
+	- [**Quad9 IPv4 DNS Servers**](#quad9-ipv4-dns-servers)
+	- [**Quad9 IPv6 DNS Servers**](#quad9-ipv6-dns-servers)
 	- [**Good to know IPConfig commands**](#good-to-know-ipconfig-commands)
 	- [**Generally good to know know commands**](#generally-good-to-know-commands)
 	- [**Bandwidth Measurement**](#bandwidth-measurement)
