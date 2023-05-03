@@ -496,6 +496,8 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - "NVIDIA Resizable BAR Firmware Update Tool
 " - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
 
+- "Thermal Design Power (TDP) in Intel® Processors" - Intel [https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html](https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html)
+
 ---
 
 **<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
