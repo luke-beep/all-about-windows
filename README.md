@@ -1,4 +1,5 @@
 # **An in-depth guide on optimizations for windows**
+
 <div align="center">
 	<br />
 	<p>
@@ -12,20 +13,13 @@
     </p>
 </div>
 
-
-
-
-
 <div align="center">
 
 [**Guide Version & Date last updated**](/render/version.md)
 
-
-
 [**Winver**](/render/winver.md)
 
-
- [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
+[**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
 
 </div>
 
@@ -35,40 +29,39 @@
 
 > This guide is essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please link to this github.
 
-
 ### **Table of Contents**
 
 - [**General Tweaks**](#general-tweaks)
 - [**Service Tweaks**](#service-tweaks)
 - [**Gaming Tweaks**](#gaming-tweaks)
 - [**Network Tweaks**](#network-tweaks)
-	- [**Cloudflare IPv4 DNS Servers**](#cloudflare-ipv4-dns-servers)
-	- [**Cloudflare IPv6 DNS Servers**](#cloudflare-ipv6-dns-servers)
-	- [**Google IPv4 DNS Servers**](#google-ipv4-dns-servers)
-	- [**Google IPv6 DNS Servers**](#google-ipv6-dns-servers)
-	- [**Quad9 IPv4 DNS Servers**](#quad9-ipv4-dns-servers)
-	- [**Quad9 IPv6 DNS Servers**](#quad9-ipv6-dns-servers)
-	- [**Good to know IPConfig commands**](#good-to-know-ipconfig-commands)
-	- [**Generally good to know know commands**](#generally-good-to-know-commands)
-	- [**Bandwidth Measurement**](#bandwidth-measurement)
+  - [**Cloudflare IPv4 DNS Servers**](#cloudflare-ipv4-dns-servers)
+  - [**Cloudflare IPv6 DNS Servers**](#cloudflare-ipv6-dns-servers)
+  - [**Google IPv4 DNS Servers**](#google-ipv4-dns-servers)
+  - [**Google IPv6 DNS Servers**](#google-ipv6-dns-servers)
+  - [**Quad9 IPv4 DNS Servers**](#quad9-ipv4-dns-servers)
+  - [**Quad9 IPv6 DNS Servers**](#quad9-ipv6-dns-servers)
+  - [**Good to know IPConfig commands**](#good-to-know-ipconfig-commands)
+  - [**Generally good to know know commands**](#generally-good-to-know-commands)
+  - [**Bandwidth Measurement**](#bandwidth-measurement)
 - [**Optional Tweaks**](#optional-tweaks)
 - [**NVIDIA Tweaks**](#nvidia-tweaks)
 - [**AMD & Intel CPU Tweaks**](#amd--intel-cpu-tweaks)
 - [**Visual Tweaks**](#visual-tweaks)
 - [**BIOS Tweaks**](#bios-tweaks)
-    - [**Intel CPU**](#for-those-who-are-using-an-intel-cpu-you-can-disable-the-following)
-	- [**AMD CPU**](#for-those-who-are-using-a-amd-cpu-you-can-disable-the-following)
-	- [**NVIDIA GPU**](#for-those-who-are-using-an-nvidia-gpu-you-can-do-the-following)
-	- [**Intel GPU**](#for-those-who-are-using-an-intel-gpu-you-can-do-the-following)
-	- [**AMD GPU & AMD CPU**](#for-those-who-are-using-an-amd-gpu--an-amd-cpu-you-can-do-the-following)
-	- [**Miscellaneous BIOS Tweaks**](#miscellaneous-bios-tweaks)
-	- [**Memory Tweaks**](#memory-tweaks)
+  - [**Intel CPU**](#for-those-who-are-using-an-intel-cpu-you-can-disable-the-following)
+  - [**AMD CPU**](#for-those-who-are-using-a-amd-cpu-you-can-disable-the-following)
+  - [**NVIDIA GPU**](#for-those-who-are-using-an-nvidia-gpu-you-can-do-the-following)
+  - [**Intel GPU**](#for-those-who-are-using-an-intel-gpu-you-can-do-the-following)
+  - [**AMD GPU & AMD CPU**](#for-those-who-are-using-an-amd-gpu--an-amd-cpu-you-can-do-the-following)
+  - [**Miscellaneous BIOS Tweaks**](#miscellaneous-bios-tweaks)
+  - [**Memory Tweaks**](#memory-tweaks)
 - [**Driver Tweaks**](#driver-tweaks)
-	- [**Debloat NVIDIA Drivers**](#debloat-nvidia-drivers)
+  - [**Debloat NVIDIA Drivers**](#debloat-nvidia-drivers)
 - [**Programming Tools**](#programming-tools)
 - [**Gaming Configs**](#gaming-configs)
-	- [**My Process Lasso Configuration**](#my-process-lasso-configuration)
-	- [**My Powerplan**](#my-powerplan)
+  - [**My Process Lasso Configuration**](#my-process-lasso-configuration)
+  - [**My Powerplan**](#my-powerplan)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
 - [**Credits and Useful Links/Downloads**](#credits-and-useful-linksdownloads)
 
@@ -78,7 +71,7 @@
 
 - Uninstall all unnecessary apps.
 
-- Make sure that you have the latest version of windows. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information). 
+- Make sure that you have the latest version of windows. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information).
 
 - Download this application => **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and continue following the guide.
 
@@ -91,20 +84,18 @@
 - To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and simply go to the Startup tab and select all the apps that you do not use and delete them.
 
 - Select the Startup tab.
-<img src="./assets/tab1.png" alt="Optimizer" title="Optimizer">
+  <img src="./assets/tab1.png" alt="Optimizer" title="Optimizer">
 
 - Select all the apps that you do not use.
 
-
 <img src="./assets/tab2.png" alt="Optimizer" title="Optimizer">
-
 
 - Click delete.
 
 <img src="./assets/tab3.png" alt="Optimizer" title="Optimizer">
 
 - When you recieve the popup to delete all the selected startup items click yes. This deletes all the registry keys for the startup apps that you do not use.
- 
+
 <br>
 <img src="./assets/tab4.png" alt="Optimizer" title="Optimizer">
 <br>
@@ -113,7 +104,7 @@
 
 - Run Windows Defragment and trimmer. WIN + R and type `dfrgui.exe`, then press enter. Select your drive and press Optimize or Analyze.
 
-- Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**. 
+- Change energy plan. Open control panel and search for power plan. Then select **show additional plans** and select **Ultimate Performance**.
 
 - Run SystemPropertiesAdvanced in WIN + R. Then hit settings for performance. Then select **Adjust for best performance**.
 
@@ -128,8 +119,6 @@
 - Open an elevated command prompt and type `bcdedit /set increaseuserva 3072` and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system. **Do not do this on a 64 bit system.**
 
 > Open an elevated command prompt and type `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`. Then set a KMS server by typing `slmgr /skms kms8.msguides.com`. Then activate windows by typing `slmgr /ato`. This will activate windows and make it enable all the features and remove the ugly watermark. Run `slmgr /xpr` to check if it worked.
-
-
 
 ### **Service Tweaks**
 
@@ -151,10 +140,9 @@
 
 ---
 
-- Disable hardware acceleration on everything, your browser, discord etc. This will increase performance by a lot. 
+- Disable hardware acceleration on everything, your browser, discord etc. This will increase performance by a lot.
 
 - Disable all ingame overlays. This will increase performance by a lot.
-
 
 - **[Process Lasso](https://bitsum.com/)** is an advanced process priority optimization and system automation utility.
 
@@ -164,7 +152,7 @@
 
 - **[https://www.techpowerup.com/download/techpowerup-gpu-z/](https://www.techpowerup.com/download/techpowerup-gpu-z/)** is a graphics - card information utility.
 
-- **[https://www.techpowerup.com/download/cpu-z/](https://www.techpowerup.com/download/cpu-z/) or [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)**  is a freeware that gathers information on some of the main devices of your system.
+- **[https://www.techpowerup.com/download/cpu-z/](https://www.techpowerup.com/download/cpu-z/) or [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)** is a freeware that gathers information on some of the main devices of your system.
 
 ### **Network Tweaks**
 
@@ -180,8 +168,8 @@
 
 #### **Google IPv4 DNS Servers**
 
- 8.8.8.8 and 8.8.4.4
- 
+8.8.8.8 and 8.8.4.4
+
 #### **Google IPv6 DNS Servers**
 
 2001:4860:4860::8888 and 2001:4860:4860::8844
@@ -216,7 +204,7 @@
 
 #### **Generally good to know commands**
 
-`netsh => /?` -  A powerful command for configuring network adapters.
+`netsh => /?` - A powerful command for configuring network adapters.
 
 `netstat` - Displaying Network Statistics.
 
@@ -224,7 +212,7 @@
 
 `nslookup` - Useful for diagnosing DNS name resolution problems.
 
-`hostname` -  Identify your current hostname.
+`hostname` - Identify your current hostname.
 
 `arp` - Modify & Display the Address Resolution Protocol cache.
 
@@ -235,7 +223,6 @@
 `pathping` - Combines Ping & Tracert.
 
 `tracert` - Trace packets to a destination.
-
 
 #### **Bandwidth Measurement**
 
@@ -251,7 +238,6 @@ b - bit
 
 B - byte
 
-
 **https://1.1.1.1/**
 
 **https://developers.google.com/speed/public-dns/docs/using**
@@ -259,7 +245,6 @@ B - byte
 **https://www.quad9.net/service/service-addresses-and-features**
 
 **https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig**
-
 
 ### **Optional Tweaks**
 
@@ -273,7 +258,7 @@ B - byte
 
 - **[https://www.speedguide.net/downloads.php](https://www.speedguide.net/downloads.php)**. This is a tool that will help you optimize your internet connection. It's called TCP Optimizer. You would want to download version 4.0.14. It's the latest version.
 
-- **[https://github.com/auraside/HoneCtrl](https://github.com/auraside/HoneCtrl)** a windows bat script. Aimed to optimize your computer for general use and gaming. 
+- **[https://github.com/auraside/HoneCtrl](https://github.com/auraside/HoneCtrl)** a windows bat script. Aimed to optimize your computer for general use and gaming.
 
 - A windows tool that allows you to achive maximum productivity **[https://github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)**. **Recommended**
 
@@ -285,7 +270,7 @@ B - byte
 
 ### **NVIDIA Tweaks**
 
---- 
+---
 
 - Disable Nvidia Adaptive V-Sync. This will disable the GPU from using Adaptive V-Sync. This will increase performance.
 
@@ -295,13 +280,13 @@ B - byte
 
 - Disable Nvidia Shadowplay. This will disable the GPU from using Shadowplay. This will increase performance.
 
-### **AMD & Intel CPU Tweaks** 
+### **AMD & Intel CPU Tweaks**
 
 ---
- 
+
 - Disable Intel Hyper-Threading/SMT using Process Lasso. This will disable the CPU from using Hyper-Threading/SMT. This will increase performance in some CPU bound applications/games.
 
-### **Visual Addons** 	
+### **Visual Addons**
 
 ---
 
@@ -311,10 +296,10 @@ B - byte
 
 - **[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
 
-
 ### **BIOS Tweaks**
 
 ---
+
 **Note: Only disable those that you do not need! If you disable something that you need, something might break.**
 
 ### **For those who are using an Intel CPU, you can do the following**
@@ -333,14 +318,14 @@ B - byte
 
 ### **For those who are using an Intel GPU, you can do the following**
 
-- Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. 
+- Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance.
 
 - Enable Above 4G Decoding. It's needed for the GPU to use Resizable bar. This will increase performance in some specific cases.
 
 ### **For those who are using an AMD GPU & an AMD CPU, you can do the following**
 
 - Enable SAM. "In conventional Windows-based PC systems, processors can only access a fraction of graphics memory (VRAM) at once, limiting system performance.
-With AMD Smart Access Memory, the data channel gets expanded to harness the full potential of GPU memory, utilizing the bandwidth of PCI Express® to remove the bottlenecks and increase performance." - [**AMD**](https://www.amd.com/en/technologies/smart-access-memory). **Only do it if you meet the following requirements**.
+  With AMD Smart Access Memory, the data channel gets expanded to harness the full potential of GPU memory, utilizing the bandwidth of PCI Express® to remove the bottlenecks and increase performance." - [**AMD**](https://www.amd.com/en/technologies/smart-access-memory). **Only do it if you meet the following requirements**.
 
 <img src="/assets/amd_amd.png">
 
@@ -367,11 +352,11 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 ### **Debloat NVIDIA Drivers**
 
--  Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
+- Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
 
--  Download **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**.
+- Download **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**.
 
--  Boot into safe mode.
+- Boot into safe mode.
 
 - Run DDU and uninstall the drivers.
 
@@ -388,21 +373,20 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - **Reboot.**
 
 ### **Programming Tools**
- 
+
 ---
 
 - Chocolatey is a package manager for windows. It allows you to install programs from the command line. **[https://chocolatey.org/install](https://chocolatey.org/install)**. **Recommended**
 
 - Scoop is a package manager for windows. It allows you to install programs from the command line. **[https://scoop.sh/](https://scoop.sh/)**. **Recommended**
 
-
 ### **Gaming Configs**
 
 ---
 
-- An NVIDIA Config. **[https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link](https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link)**. 
+- An NVIDIA Config. **[https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link](https://drive.google.com/drive/folders/16mqXNV5ToHmhZIO5R8RfnD9YhVZ5Ueix?usp=share_link)**.
 
-- A config for Modern Warfare 2 & Warzone 2. **[https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link](https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link)**. 
+- A config for Modern Warfare 2 & Warzone 2. **[https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link](https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link)**.
 
 - A config for Apex Legends. **[https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz)**.
 
@@ -427,32 +411,37 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
 
 ### **My Process Lasso configuration**
+
 - **Process Lasso** is a software that allows you to control the processes running on your computer. It can be used to set priorities for certain programs, limit the number of cores they use, and more. My configuration is adapted to fit any system. My configuration file can be downloaded here: [Process Lasso Configuration](/configurations/ProcessLasso_LukeHjo2611.INI). To import this profile you'd have to follow these 4 simple steps:
-> 1. Open Process Lasso
-> 2. Click on the "File" tab
-> 3. Click on "Import Configuration"
-> 4. Select the configuration file you downloaded
+  > 1. Open Process Lasso
+  > 2. Click on the "File" tab
+  > 3. Click on "Import Configuration"
+  > 4. Select the configuration file you downloaded
 
 ### **My Powerplan**
+
 - **Powerplan** is a built in feature that allows you to control the power settings of your computer. It can be used to set the power plan to high performance, balanced, power saver or a custom one. My configuration is adapted to fit any system and most of it is taken from the already great Bitsum powerplan. My configuration file can be downloaded here: [Powerplan Configuration](/configurations/Powerplan_LukeHjo2611.pow). To import this profile you'd have to follow these 4 simple steps:
-> 1. Open CMD with elevated privileges.
-> 2. Type in `powercfg -import "C:\Users\%USERNAME%\Desktop\Powerplan_LukeHjo2611.pow"`
-> 3. Press enter
-> 4. Open the powerplan settings and select the imported powerplan or type in `powercfg -list` and then `powercfg -setactive <GUID>` where `<GUID>` is the GUID of the powerplan you want to use.
+  > 1. Open CMD with elevated privileges.
+  > 2. Type in `powercfg -import "C:\Users\%USERNAME%\Desktop\Powerplan_LukeHjo2611.pow"`
+  > 3. Press enter
+  > 4. Open the powerplan settings and select the imported powerplan or type in `powercfg -list` and then `powercfg -setactive <GUID>` where `<GUID>` is the GUID of the powerplan you want to use.
 
 ### **Safe to use HoneCTRL settings for NVIDIA**
-----
 
- > **HoneCTRL** is a software designed for tweaking and optimizing your computer's performance. It allows you to adjust various system settings, such as CPU and RAM usage, power management, and network configurations, to get the most out of your computer's hardware. However, it is important to be cautious when using **HoneCTRL** and similar tweaking software, as making the wrong changes can cause serious problems and even damage your system. It's always a good idea to set a restore point before making any adjustments, so you can easily revert to a stable configuration if something goes wrong.
+---
+
+> **HoneCTRL** is a software designed for tweaking and optimizing your computer's performance. It allows you to adjust various system settings, such as CPU and RAM usage, power management, and network configurations, to get the most out of your computer's hardware. However, it is important to be cautious when using **HoneCTRL** and similar tweaking software, as making the wrong changes can cause serious problems and even damage your system. It's always a good idea to set a restore point before making any adjustments, so you can easily revert to a stable configuration if something goes wrong.
 
 - **Optimizations Tab 1**
-> <img src="./assets/hone_general_1.png" alt="Optimizer" title="Optimizer">
+
+  > <img src="./assets/hone_general_1.png" alt="Optimizer" title="Optimizer">
 
 - **Optimizations Tab 2**
-> <img src="./assets/hone_general_2.png" alt="Optimizer" title="Optimizer">
+
+  > <img src="./assets/hone_general_2.png" alt="Optimizer" title="Optimizer">
 
 - **Advanced Tab**
-> <img src="./assets/hone_advanced.png" alt="Optimizer" title="Optimizer">
+  > <img src="./assets/hone_advanced.png" alt="Optimizer" title="Optimizer">
 
 ### **Credits and Useful Links/Downloads**
 
@@ -487,14 +476,14 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - My Mica For Everyone configuration **[MicaForEveryone.conf](/configurations/MicaForEveryone.conf)**.
 
 - "What Is Resizable BAR and How Do I Enable It?" - Intel
-[**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
+  [**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
 
 - "AMD Smart Access Memory" - AMD [**https://www.amd.com/en/technologies/smart-access-memory**](https://www.amd.com/en/technologies/smart-access-memory)
 
 - "GeForce RTX 30 Series Performance Accelerates With Resizable BAR Support" - NVIDIA [**https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/**](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/)
 
 - "NVIDIA Resizable BAR Firmware Update Tool
-" - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
+  " - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
 
 ---
 

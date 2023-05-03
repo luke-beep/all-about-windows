@@ -2,4 +2,4 @@
 
 <img src="/assets/winver.png">
 
-> WIN + R and type `winver` and press enter. 
+> WIN + R and type `winver` and press enter.
