@@ -494,13 +494,8 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - "What Is Resizable BAR and How Do I Enable It?"
 [**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
 
-
 ---
 
 **<footer align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <footer>**
 
-
-
-
-[(Back to top)](#table-of-contents) 
-
+<div align="right"><a href="#">(Back to top)</a></div>
