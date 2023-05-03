@@ -501,9 +501,6 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 
 
-<br>
-<div align="right">
 
- [(Back to top)](#table-of-contents) 
+[(Back to top)](#table-of-contents) 
 
-</div>
