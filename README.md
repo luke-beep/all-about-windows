@@ -16,13 +16,18 @@
 
 
 
-**Date last updated:** 3rd May 2023
+<div align="center">
 
-Version: [Version](/version.md)
+[**Guide Version & Date last updated**](/render/version.md)
 
-**Winver:** [My Winver](/winver.md) | To check winver do WIN + R and type `winver` and press enter.
 
-**Latest Windows 11 Winver:** [Latest Windows 11 Winver](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) | **Latest Windows 10 Winver:** [Latest Windows 10 Winver](https://learn.microsoft.com/en-us/windows/release-health/release-information)
+
+[**Winver**](/render/winver.md)
+
+
+ [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
+
+</div>
 
 **Note:** This guide is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a pull request or open an issue.
 
@@ -30,18 +35,19 @@ Version: [Version](/version.md)
 
 > This guide is essentially a collection of tweaks and fixes. Some are by others, some are by me. If you want to use this guide, please link to this github.
 
+
 ### **Table of Contents**
 
 - [**General Tweaks**](#general-tweaks)
 - [**Service Tweaks**](#service-tweaks)
 - [**Gaming Tweaks**](#gaming-tweaks)
 - [**Network Tweaks**](#network-tweaks)
-	- [**Cloudflare IPv4 DNS Server**](#cloudflare-ipv4-dns-servers)
-	- [**Cloudflare IPv6 DNS Server**](#cloudflare-ipv6-dns-servers)
-	- [**Google IPv4 DNS Server**](#google-ipv4-dns-servers)
-	- [**Google IPv6 DNS Server**](#google-ipv6-dns-servers)
-	- [**Quad9 IPv4 DNS Server**](#quad9-ipv4-dns-servers)
-	- [**Quad9 IPv6 DNS Server**](#quad9-ipv6-dns-servers)
+	- [**Cloudflare IPv4 DNS Servers**](#cloudflare-ipv4-dns-servers)
+	- [**Cloudflare IPv6 DNS Servers**](#cloudflare-ipv6-dns-servers)
+	- [**Google IPv4 DNS Servers**](#google-ipv4-dns-servers)
+	- [**Google IPv6 DNS Servers**](#google-ipv6-dns-servers)
+	- [**Quad9 IPv4 DNS Servers**](#quad9-ipv4-dns-servers)
+	- [**Quad9 IPv6 DNS Servers**](#quad9-ipv6-dns-servers)
 	- [**Good to know IPConfig commands**](#good-to-know-ipconfig-commands)
 	- [**Generally good to know know commands**](#generally-good-to-know-commands)
 	- [**Bandwidth Measurement**](#bandwidth-measurement)
@@ -52,6 +58,9 @@ Version: [Version](/version.md)
 - [**BIOS Tweaks**](#bios-tweaks)
     - [**Intel CPU**](#for-those-who-are-using-an-intel-cpu-you-can-disable-the-following)
 	- [**AMD CPU**](#for-those-who-are-using-a-amd-cpu-you-can-disable-the-following)
+	- [**NVIDIA GPU**](#for-those-who-are-using-an-nvidia-gpu-you-can-do-the-following)
+	- [**Intel GPU**](#for-those-who-are-using-an-intel-gpu-you-can-do-the-following)
+	- [**AMD GPU & AMD CPU**](#for-those-who-are-using-an-amd-gpu--an-amd-cpu-you-can-do-the-following)
 	- [**Miscellaneous BIOS Tweaks**](#miscellaneous-bios-tweaks)
 	- [**Memory Tweaks**](#memory-tweaks)
 - [**Driver Tweaks**](#driver-tweaks)
@@ -61,8 +70,7 @@ Version: [Version](/version.md)
 	- [**My Process Lasso Configuration**](#my-process-lasso-configuration)
 	- [**My Powerplan**](#my-powerplan)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
-- [**Credits and Useful Links**](#credits-and-useful-links)
-
+- [**Credits and Useful Links/Downloads**](#credits-and-useful-linksdownloads)
 
 ### **General Tweaks**
 
@@ -70,19 +78,19 @@ Version: [Version](/version.md)
 
 - Uninstall all unnecessary apps.
 
-- Make sure that you have the latest version of windows. As of current date it would be 22H2. 
+- Make sure that you have the latest version of windows. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information). 
 
-- Download this program **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and continue following the guide.
+- Download this application => **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and continue following the guide.
 
 <img src="./assets/optimizer.png" alt="Optimizer" title="Optimizer">
 
-> For example, if you would like to keep print service on then you do not tick "Disable Print Service".
+> For example, if you would like to keep print service on then wouldn't tick "Disable Print Service".
 
 - Disable all the unnecessary startup apps. To do this you want to go and open up Task Manager. Go to the Startup tab and disable all the apps that you do not use.
 
 - To complete this process you may need to go into regedit and the delete some startup keys from there, or you could use **[https://github.com/hellzerg/optimizer/releases](https://github.com/hellzerg/optimizer/releases)** and simply go to the Startup tab and select all the apps that you do not use and delete them.
 
-- Select startup apps.
+- Select the Startup tab.
 <img src="./assets/tab1.png" alt="Optimizer" title="Optimizer">
 
 - Select all the apps that you do not use.
@@ -115,11 +123,11 @@ Version: [Version](/version.md)
 
 - Disable Storage Sense.
 
-- WIN + R and type `msconfig`. Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop.
+- WIN + R and type `msconfig`. Then go to the Services tab and disable all the services that you do not use. Then go to the Boot tab and open up advanced options for your boot drive. Go back to the Boot tab and change your timeout to 5 seconds for a mid-high end computer. 10 seconds for a low-mid end computer. And 20 seconds for a laptop. **Do not change anything else in there**.
 
 - Open an elevated command prompt and type `bcdedit /set increaseuserva 3072` and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system. **Do not do this on a 64 bit system.**
 
-- Open an elevated command prompt and type `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`. Then set a KMS server by typing `slmgr /skms kms8.msguides.com`. Then activate windows by typing `slmgr /ato`. This will activate windows and make it enable all the features and remove the ugly watermark. Run `slmgr /xpr` to check if it worked.
+> Open an elevated command prompt and type `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`. Then set a KMS server by typing `slmgr /skms kms8.msguides.com`. Then activate windows by typing `slmgr /ato`. This will activate windows and make it enable all the features and remove the ugly watermark. Run `slmgr /xpr` to check if it worked.
 
 
 
@@ -293,7 +301,7 @@ B - byte
  
 - Disable Intel Hyper-Threading/SMT using Process Lasso. This will disable the CPU from using Hyper-Threading/SMT. This will increase performance in some CPU bound applications/games.
 
-### **Visual Tweaks**
+### **Visual Addons** 	
 
 ---
 
@@ -309,19 +317,33 @@ B - byte
 ---
 **Note: Only disable those that you do not need! If you disable something that you need, something might break.**
 
-### **For those who are using an Intel CPU, you can disable the following**
+### **For those who are using an Intel CPU, you can do the following**
 
 - Disable Intel SpeedStep. This will disable the CPU from going into a low power state. This will increase performance.
-- Disable Intel VT-x. This will disable the CPU from using an old Virtualization technology. This will increase performance.
+- Disable Intel VT-d. This will disable the CPU from using an old Virtualization technology and improve security when using a VM in some cases. This will increase performance.
 
-### **For those who are using a AMD CPU, you can disable the following**
+### **For those who are using a AMD CPU, you can do the following**
 
 - Disable AMD Cool'n'Quiet. This will disable the CPU from going into a low power state. This will increase performance.
 - Disable AMD C1E. This will disable the CPU from going into a low power state. This will increase performance.
 
-### **For those who are using an Nvidia GPU, you can disable the following**
+### **For those who are using an NVIDIA GPU, you can do the following**
 
-- Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series**
+- Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. **Only Available for the 30 series and up**
+
+### **For those who are using an Intel GPU, you can do the following**
+
+- Enable/Disable Resizable bar. This will enable the GPU from using Resizable bar. This will increase performance. 
+
+- Enable Above 4G Decoding. It's needed for the GPU to use Resizable bar. This will increase performance in some specific cases.
+
+### **For those who are using an AMD GPU & an AMD CPU, you can do the following**
+
+- Enable SAM. "In conventional Windows-based PC systems, processors can only access a fraction of graphics memory (VRAM) at once, limiting system performance.
+With AMD Smart Access Memory, the data channel gets expanded to harness the full potential of GPU memory, utilizing the bandwidth of PCI Express® to remove the bottlenecks and increase performance." - [**AMD**](https://www.amd.com/en/technologies/smart-access-memory). **Only do it if you meet the following requirements**.
+
+<img src="/assets/amd_amd.png">
+
 ### **Miscellaneous BIOS Tweaks**
 
 - Enable XMP or DOCP or EXPO. This will enable the RAM to run at a higher speed. This will increase performance.
@@ -442,32 +464,41 @@ B - byte
 
 - The Author of this guide can be found here **[https://github.com/luke-beep](https://github.com/luke-beep)**.
 
-- Guide to TCP Optimizer can be found here **[https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474)**.
+- "Another guide to TCP Optimizer can be found here" - Speedguide **[https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474)**.
 
-- An unofficial guide to Process Lasso can be found here **[https://www.youtube.com/watch?v=m7Ki5DYME9M](https://www.youtube.com/watch?v=m7Ki5DYME9M)**.
-
-- A Display Driver Uninstaller also known as DDU Guide can be found here **[https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial)**.
-
-- An unofficial guide for NVCleanstall can be found at **[https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/](https://www.makeuseof.com/customize-nvidia-driver-installation-with-cleanstall/)**.
+- Display Driver Uninstaller also known as DDU Guide can be found here **[https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial)**.
 
 - An unofficial guide for MSI Afterburner can be found at **[https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA)**.
 
 - The author to some of the game configs can be found here **[https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech)**.
 
-- Calypto's Latency Guide **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
+- "Calypto's Latency Guide" - Calypto **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
 
-- "True nature of E-cores and how effective are they?" **[https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/](https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/)**.
+- "True nature of E-cores and how effective are they?" - Techpowerup **[https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/](https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/)**.
 
-- "NVIDIA GeForce Graphics Drivers" **[https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history](https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history)**.
+- "NVIDIA GeForce Graphics Drivers" - Techpowerup **[https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history](https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history)**.
 
-- "AMD Radeon Graphics Drivers" **[https://www.techpowerup.com/download/amd-radeon-graphics-drivers/](https://www.techpowerup.com/download/amd-radeon-graphics-drivers/)**.
+- "AMD Radeon Graphics Drivers" - Techpowerup **[https://www.techpowerup.com/download/amd-radeon-graphics-drivers/](https://www.techpowerup.com/download/amd-radeon-graphics-drivers/)**.
 
-- "Intel ARC Graphics Drivers" **[https://www.techpowerup.com/download/intel-arc-graphics-drivers/](https://www.techpowerup.com/download/intel-arc-graphics-drivers/)**.
+- "Intel ARC Graphics Drivers" - Techpowerup **[https://www.techpowerup.com/download/intel-arc-graphics-drivers/](https://www.techpowerup.com/download/intel-arc-graphics-drivers/)**.
 
-- "Intel iGPU Graphics Drivers" **[https://www.techpowerup.com/download/intel-integrated-graphics-drivers/](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)**.
+- "Intel iGPU Graphics Drivers" - Techpowerup **[https://www.techpowerup.com/download/intel-integrated-graphics-drivers/](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)**.
 
 - My Mica For Everyone configuration **[MicaForEveryone.conf](/configurations/MicaForEveryone.conf)**.
 
+- "What Is Resizable BAR and How Do I Enable It?" - Intel
+[**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
+
+- "AMD Smart Access Memory" - AMD [**https://www.amd.com/en/technologies/smart-access-memory**](https://www.amd.com/en/technologies/smart-access-memory)
+
+- "GeForce RTX 30 Series Performance Accelerates With Resizable BAR Support" - NVIDIA [**https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/**](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/)
+
+- "NVIDIA Resizable BAR Firmware Update Tool
+" - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
+
 ---
 
-**<div align="center"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+<br>
+
+<div align="right"><a href="#">(Back to top)</a></div>
