@@ -312,6 +312,17 @@
 - **StartAllBack** - **[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
 
 
+### **UXTheme Patcher**
+**Warning**: This will modify system files. This can cause issues with your system. **Use at your own risk!**
+
+- Download the latest version of **[UXTheme Patcher](https://uxthemepatcher.com/)**. This will allow you to use custom themes on Windows 10 and 11.
+
+- Once you have downloaded the latest version of **UXTheme Patcher**, you will need to extract it using the password **uxthemepatcher.com** and run the installer. Once you have run the installer, you will need to reboot your system.
+
+<img align="center" src="/assets/uxthemepatcher11.png"></img>
+
+
+
 ### **BIOS Tweaks**
 
 ---
