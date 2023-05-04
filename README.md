@@ -76,7 +76,7 @@
 
 ---
 
-- Uninstall all unnecessary apps.
+- Uninstall all unnecessary apps by using `appwiz.cpl` in Run (WIN + R).
 
 - Make sure that you have the latest version of windows. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information). 
 
@@ -310,16 +310,6 @@
 - **StartAllBack** - **[https://www.startallback.com/](https://www.startallback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 11** | [**My StartAllBack config**](/configurations/StartAllBack.conf).
 
 - **StartAllBack** - **[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
-
-
-### **UXTheme Patcher**
-**Warning**: This will modify system files. This can cause issues with your system. **Use at your own risk!**
-
-- Download the latest version of **[UXTheme Patcher](https://uxthemepatcher.com/)**. This will allow you to use custom themes on Windows 10 and 11.
-
-- Once you have downloaded the latest version of **UXTheme Patcher**, you will need to extract it using the password **uxthemepatcher.com** and run the installer. Once you have run the installer, you will need to reboot your system.
-
-<img align="center" src="/assets/uxthemepatcher11.png"></img>
 
 
 
