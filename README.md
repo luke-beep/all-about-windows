@@ -504,8 +504,6 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - "PC-Tuning" - Amit **[https://github.com/amitxv/PC-Tuning/tree/main](https://github.com/amitxv/PC-Tuning/tree/main)**
 
-- "Handbook" - Sieger **[https://github.com/sieger/handbook](https://github.com/sieger/handbook)**
-
 - "GamingPCSetup" - DJDallmann **[https://github.com/djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup)**
 
 - "Calypto's Latency Guide" - Calypto **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
