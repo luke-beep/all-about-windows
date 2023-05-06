@@ -71,7 +71,7 @@
 	- [**My Powerplan**](#my-powerplan)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
 - [**Useful Links/Downloads**](#useful-linksdownloads)
-- [**Dive deeper into optimization**](#div-deeper-into-optimization)
+- [**Dive deeper into optimization**](#dive-deeper-into-optimization)
 - [**Credits**](#credits)
 
 
