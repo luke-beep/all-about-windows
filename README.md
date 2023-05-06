@@ -484,21 +484,21 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - My Mica For Everyone configuration **[MicaForEveryone.conf](/configurations/MicaForEveryone.conf)**.
 
-- "What Is Resizable BAR and How Do I Enable It?" - Intel
-[**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
+- "What Is Resizable BAR and How Do I Enable It?" - Intel [**https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html**](https://www.intel.com/content/www/us/en/support/articles/000090831/graphics.html).
 
 - "AMD Smart Access Memory" - AMD [**https://www.amd.com/en/technologies/smart-access-memory**](https://www.amd.com/en/technologies/smart-access-memory)
 
 - "GeForce RTX 30 Series Performance Accelerates With Resizable BAR Support" - NVIDIA [**https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/**](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/)
 
-- "NVIDIA Resizable BAR Firmware Update Tool
-" - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
+- "NVIDIA Resizable BAR Firmware Update Tool" - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
 
 - "Thermal Design Power (TDP) in Intel® Processors" - Intel [**https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html**](https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html)
 
 - "Process count doesnt matter" - Zusier [**https://zusier.xyz/blog/posts/process-count-doesnt-matter/**](https://zusier.xyz/blog/posts/process-count-doesnt-matter/)
 
 ### Dive deeper into optimization
+
+---
 
 - "PC-Tuning" - Amit **[https://github.com/amitxv/PC-Tuning/tree/main](https://github.com/amitxv/PC-Tuning/tree/main)**
 
@@ -513,6 +513,8 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - My forum can be found here **[https://forum.lukehjo.tech/](https://forum.lukehjo.tech/)**.
 
 ### Credits
+
+---
 
 - **nikø#7787**
 
