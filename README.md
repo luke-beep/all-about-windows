@@ -70,7 +70,10 @@
 	- [**My Process Lasso Configuration**](#my-process-lasso-configuration)
 	- [**My Powerplan**](#my-powerplan)
 - [**Safe to use HoneCTRL settings for NVIDIA**](#safe-to-use-honectrl-settings-for-nvidia)
-- [**Credits and Useful Links/Downloads**](#credits-and-useful-linksdownloads)
+- [**Useful Links/Downloads**](#useful-linksdownloads)
+- [**Dive deeper into optimization**](#div-deeper-into-optimization)
+- [**Credits**](#credits)
+
 
 ### **General Tweaks**
 
@@ -446,7 +449,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
 
- > **HoneCTRL** is a software designed for tweaking and optimizing your computer's performance. It allows you to adjust various system settings, such as CPU and RAM usage, power management, and network configurations, to get the most out of your computer's hardware. However, it is important to be cautious when using **HoneCTRL** and similar tweaking software, as making the wrong changes can cause serious problems and even damage your system. It's always a good idea to set a restore point before making any adjustments, so you can easily revert to a stable configuration if something goes wrong.
+ > **HoneCTRL** is a software designed for tweaking and optimizing your computer's performance. It allows you to adjust various system settings, such as CPU and RAM usage, power management, and network configurations, to get the most out of your computer's hardware. However, it is important to be cautious when using **HoneCTRL** and similar tweaking software, as making the wrong changes can cause serious problems and even damage your system. It's always a good idea to set a restore point before making any adjustments, so you can easily revert to a stable version if something goes wrong.
 
 - **Optimizations Page 1**
 > <img src="./assets/hone_general_1.png" alt="Optimizer" title="Optimizer">
@@ -457,13 +460,9 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - **Advanced Tab**
 > <img src="./assets/hone_advanced.png" alt="Optimizer" title="Optimizer">
 
-### **Credits and Useful Links/Downloads**
+### **Useful Links/Downloads**
 
 ---
-
-- My Tech Blog can be found here **[https://dev.lukehjo.tech/](https://dev.lukehjo.tech/)**.
-
-- My forum can be found here **[https://forum.lukehjo.tech/](https://forum.lukehjo.tech/)**.
 
 - The Author of this guide can be found here **[https://github.com/luke-beep](https://github.com/luke-beep)**.
 
@@ -472,10 +471,6 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - Display Driver Uninstaller also known as DDU Guide can be found here **[https://www.wagnardsoft.com/content/DDU-Guide-Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial)**.
 
 - An unofficial guide for MSI Afterburner can be found at **[https://www.youtube.com/watch?v=qiKXUG64neA](https://www.youtube.com/watch?v=qiKXUG64neA)**.
-
-- The author to some of the game configs can be found here **[https://www.tiktok.com/@thesoaptech](https://www.tiktok.com/@thesoaptech)**.
-
-- "Calypto's Latency Guide" - Calypto **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
 
 - "True nature of E-cores and how effective are they?" - Techpowerup **[https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/](https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/)**.
 
@@ -499,7 +494,35 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - "NVIDIA Resizable BAR Firmware Update Tool
 " - NVIDIA [**https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool**](https://nvidia.custhelp.com/app/answers/detail/a_id/5165/~/nvidia-resizable-bar-firmware-update-tool)
 
-- "Thermal Design Power (TDP) in Intel® Processors" - Intel [https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html](https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html)
+- "Thermal Design Power (TDP) in Intel® Processors" - Intel [**https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html**](https://www.intel.com/content/www/us/en/support/articles/000055611/processors.html)
+
+- "Process count doesnt matter" - Zusier [**https://zusier.xyz/blog/posts/process-count-doesnt-matter/**](https://zusier.xyz/blog/posts/process-count-doesnt-matter/)
+
+### Dive deeper into optimization
+
+- "PC-Tuning" - Amit **[https://github.com/amitxv/PC-Tuning/tree/main](https://github.com/amitxv/PC-Tuning/tree/main)**
+
+- "Handbook" - Sieger **[https://github.com/sieger/handbook](https://github.com/sieger/handbook)**
+
+- "GamingPCSetup" - DJDallmann **[https://github.com/djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup)**
+
+- "Calypto's Latency Guide" - Calypto **[https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)**.
+
+- My Tech Blog can be found here **[https://dev.lukehjo.tech/](https://dev.lukehjo.tech/)**.
+
+- My forum can be found here **[https://forum.lukehjo.tech/](https://forum.lukehjo.tech/)**.
+
+### Credits
+
+- **nikø#7787**
+
+- **xetanyl#7777**
+
+- [**Auraside**](https://github.com/auraside)
+
+- [**Hellzerg**](https://github.com/hellzerg)
+
+- [**TheSoapTech**](https://www.tiktok.com/@thesoaptech)
 
 ---
 
