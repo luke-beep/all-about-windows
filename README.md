@@ -496,6 +496,8 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - "Process count doesnt matter" - Zusier [**https://zusier.xyz/blog/posts/process-count-doesnt-matter/**](https://zusier.xyz/blog/posts/process-count-doesnt-matter/)
 
+- "DDR4 OC Guide" - Integralfx [**https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md**](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
+
 ### Dive deeper into optimization
 
 ---
