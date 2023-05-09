@@ -381,7 +381,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - **Reboot.**
 
-- Run NVCleanStall and build the driver using these settings;
+- Run NVCleanStall and build the driver using these settings - This step is optional, the latest debloated drivers can be found here: **[LukeHjo_531.79.exe](/drivers/LukeHjo_531.79.exe)**.
 
 <p>
 	<img src="/assets/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
