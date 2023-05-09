@@ -11,10 +11,10 @@ If you are unsure about any steps in the guide or are uncomfortable making chang
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Windows 11 2H22   | :white_check_mark: |
-| Windows 10 2H22   | :white_check_mark: |
-| Windows 11 2H21   | :white_check_mark: |
-| Windows 10 2H21   | :white_check_mark: |
+| Windows 11 22H2   | :white_check_mark: |
+| Windows 10 22H2   | :white_check_mark: |
+| Windows 11 21H2   | :white_check_mark: |
+| Windows 10 21H2   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
