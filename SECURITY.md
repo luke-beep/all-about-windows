@@ -4,7 +4,7 @@ This guide is designed to help users optimize their Windows operating system, an
 - Only download software from reputable sources, and ensure that you are downloading the correct version for your operating system.
 - Keep your operating system and software up-to-date with the latest security updates and patches.
 - Regularly backup your data and store backups securely.
-- 
+
 If you are unsure about any steps in the guide or are uncomfortable making changes to your system, open an issue and we'll figure it out.
 
 ## Supported Versions
