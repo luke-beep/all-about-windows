@@ -271,7 +271,7 @@
 
 - WPD is a privacy tool **[https://wpd.app/](https://wpd.app/)**. It is a free and open source tool that allows you to disable telemetry and other privacy invasive features in Windows 10 and 11. It is recommended to use this tool if you are concerned about your privacy.
 
-- **[https://www.bleachbit.org/](https://www.bleachbit.org/)** is a disk cleaner for windows. **Recommended**
+- **[https://www.diskanalyzer.com/](https://www.diskanalyzer.com/)** is a disk cleaner for windows. **Recommended**
 
 - **[https://www.oo-software.com/en/shutup10/update](https://www.oo-software.com/en/shutup10/update)** an antispy tool for windows 10 and 11.
 
