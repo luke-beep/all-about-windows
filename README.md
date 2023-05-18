@@ -75,6 +75,7 @@
 - [**Dive deeper into optimization**](#dive-deeper-into-optimization)
 - [**Credits**](#credits)
 
+> Before we proceed, if you'd like to skip downloading every single file used in this guide you can use this script to automatically download everyting [here](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/scripts/install.bat)
 
 ### **General Tweaks**
 
