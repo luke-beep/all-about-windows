@@ -1,0 +1,134 @@
+{
+    "WindowsVersion": 11,
+    "PostAction": {
+        "Restart": true,
+        "RestartType": "Normal"
+    },
+    "Cleaner": {
+        "TempFiles": true,
+        "BsodDumps": true,
+        "ErrorReports": true,
+        "RecycleBin": true,
+        "InternetExplorer": true,
+        "GoogleChrome": {
+            "Cache": true,
+            "Cookies": null,
+            "History": true,
+            "Session": true,
+            "Passwords": null
+        },
+        "MozillaFirefox": {
+            "Cache": true,
+            "Cookies": null,
+            "History": true
+        },
+        "MicrosoftEdge": {
+            "Cache": true,
+            "Cookies": null,
+            "History": true,
+            "Session": true
+        },
+        "BraveBrowser": {
+            "Cache": true,
+            "Cookies": null,
+            "History": true,
+            "Session": true,
+            "Passwords": null
+        }
+    },
+    "Pinger": {
+        "SetDNS": "Cloudflare",
+        "FlushDNSCache": true
+    },
+    "ProcessControl": {
+        "Prevent": [],
+        "Allow": []
+    },
+    "HostsEditor": {
+        "Block": [],
+        "Add": []
+    },
+    "RegistryFix": {
+        "TaskManager": null,
+        "CommandPrompt": null,
+        "ControlPanel": null,
+        "FolderOptions": null,
+        "RunDialog": null,
+        "RightClickMenu": null,
+        "WindowsFirewall": null,
+        "RegistryEditor": null
+    },
+    "Integrator": {
+        "TakeOwnership": true,
+        "OpenWithCMD": true
+    },
+    "AdvancedTweaks": {
+        "UnlockAllCores": null,
+        "DisableHPET": true,
+        "EnableLoginVerbose": null,
+        "SvchostProcessSplitting": {
+            "Disable": null,
+            "RAM": null
+        }
+    },
+    "Tweaks": {
+        "EnablePerformanceTweaks": true,
+        "DisableNetworkThrottling": true,
+        "DisableWindowsDefender": null,
+        "DisableSystemRestore": null,
+        "DisablePrintService": true,
+        "DisableMediaPlayerSharing": true,
+        "DisableErrorReporting": true,
+        "DisableHomeGroup": true,
+        "DisableSuperfetch": true,
+        "DisableTelemetryTasks": true,
+        "DisableOffice2016Telemetry": true,
+        "DisableCompatibilityAssistant": null,
+        "DisableHibernation": true,
+        "DisableSMB1": true,
+        "DisableSMB2": true,
+        "DisableNTFSTimeStamp": true,
+        "DisableFaxService": true,
+        "DisableSmartScreen": true,
+        "DisableStickyKeys": true,
+        "DisableCloudClipboard": true,
+        "EnableLegacyVolumeSlider": true,
+        "DisableQuickAccessHistory": true,
+        "DisableStartMenuAds": true,
+        "UninstallOneDrive": true,
+        "DisableMyPeople": true,
+        "DisableAutomaticUpdates": null,
+        "ExcludeDrivers": null,
+        "DisableTelemetryServices": true,
+        "DisablePrivacyOptions": true,
+        "DisableCortana": true,
+        "DisableSensorServices": true,
+        "DisableWindowsInk": true,
+        "DisableSpellingTyping": true,
+        "DisableXboxLive": null,
+        "DisableGameBar": true,
+        "DisableInsiderService": null,
+        "DisableStoreUpdates": null,
+        "EnableLongPaths": true,
+        "RemoveCastToDevice": true,
+        "EnableGamingMode": true,
+        "TaskbarToLeft": null,
+        "DisableSnapAssist": null,
+        "DisableWidgets": true,
+        "DisableChat": true,
+        "TaskbarSmaller": null,
+        "DisableStickers": true,
+        "ClassicRibbon": true,
+        "ClassicMenu": true,
+        "DisableTPMCheck": true,
+        "CompactMode": false,
+        "DisableVirtualizationBasedTechnology": null,
+        "DisableVisualStudioTelemetry": true,
+        "DisableFirefoxTemeletry": true,
+        "DisableChromeTelemetry": true,
+        "DisableNVIDIATelemetry": true,
+        "DisableSearch": null,
+        "DisableEdgeDiscoverBar": true,
+        "DisableEdgeTelemetry": true
+    }
+}
