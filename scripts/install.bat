@@ -1,4 +1,10 @@
 @echo off
+net session >nul 2>&1
+if %errorlevel% equ 0 (
+    echo Please don't run this script as an administrator.
+    pause
+    exit /b
+)
 
 REM Create folders
 mkdir %SYSTEMDRIVE%\LukeHjo >nul 2>&1
@@ -50,6 +56,8 @@ if %errorlevel%==0 (
     curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Applications\CPU-Z-Setup.exe" "https://download.cpuid.com/cpu-z/cpu-z_2.05-en.exe"
     echo Downloading WPD.zip
     curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Applications\WPD.zip" "https://wpd.app/get/latest.zip"
+    echo Downloading MicaForEveryone-x64-Release.exe
+    curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Applications\Windows-11\MicaForEveryone-x64-Release.exe" "https://github.com/MicaForEveryone/MicaForEveryone/releases/latest/download/MicaForEveryone-x64-Release-Installer.exe"
     echo Downloading wiztree_4_13_portable.zip
     curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Applications\wiztree_4_13_portable.zip" "https://antibodysoftware-17031.kxcdn.com/files/20230315/wiztree_4_13_portable.zip"
     echo Downloading wiztree_4_13_setup.exe
