@@ -1,9 +1,13 @@
 @echo off
 net session >nul 2>&1
 if %errorlevel% equ 0 (
-    echo Please don't run this script as an administrator.
+    echo WARNING: Running this script as an administrator is not recommended.
+    choice /c YN /M "Do you want to continue?"
+    if errorlevel 2 (
+    echo Exiting...
     pause
     exit /b
+)
 )
 
 REM Create folders
