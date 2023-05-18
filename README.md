@@ -1,4 +1,5 @@
 # **An in-depth guide on optimizations for Windows**
+
 <div align="center">
 	<br />
 	<p>
