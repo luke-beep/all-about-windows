@@ -285,7 +285,7 @@
 
 - **[https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner)** a malware scanner. **Recommended**
 
-- **[https://github.com/builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)** a windows 11 tweaker, only available for windows 11. **Recommended**
+- **[https://github.com/builtbybel/BloatsyNosy](https://github.com/builtbybel/BloatyNosy)** a windows 11 tweaker, only available for windows 11. **Recommended**
 
 ### **NVIDIA Tweaks**
 
