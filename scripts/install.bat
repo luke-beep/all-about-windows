@@ -104,7 +104,7 @@ if %errorlevel%==0 (
     curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Configurations\Powerplan_LukeHjo2611.pow" "https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/configurations/Powerplan_LukeHjo2611.pow"
     echo Downloading ProcessLasso_LukeHjo2611.INI
     curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Configurations\ProcessLasso_LukeHjo2611.INI" "https://raw.githubusercontent.com/luke-beep/guide-to-optimizing-windows/main/configurations/ProcessLasso_LukeHjo2611.INI"
-    echo Downloading LukeHjo_531.79.exe
+    echo Downloading LukeHjo_531.79.exe. WARNING: this might take a while.
     curl -g -L -# -o "%SYSTEMDRIVE%\LukeHjo\Drivers\NVIDIA\LukeHjo_531.79.exe" "https://media.githubusercontent.com/media/luke-beep/guide-to-optimizing-windows/main/drivers/LukeHjo_531.79.exe"
     echo Downloading amd-software-adrenalin-edition-23.4.3-minimalsetup-230427_web.exe
     echo Skipping, the file is corrupted and cannot be downloaded.
