@@ -1,0 +1,134 @@
+{
+    "WindowsVersion": 11,
+    "PostAction": {
+        "Restart": true,
+        "RestartType": "Normal"
+    },
+    "Cleaner": {
+        "TempFiles": null,
+        "BsodDumps": null,
+        "ErrorReports": null,
+        "RecycleBin": null,
+        "InternetExplorer": null,
+        "GoogleChrome": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null,
+            "Session": null,
+            "Passwords": null
+        },
+        "MozillaFirefox": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null
+        },
+        "MicrosoftEdge": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null,
+            "Session": null
+        },
+        "BraveBrowser": {
+            "Cache": null,
+            "Cookies": null,
+            "History": null,
+            "Session": null,
+            "Passwords": null
+        }
+    },
+    "Pinger": {
+        "SetDNS": "Cloudflare",
+        "FlushDNSCache": true
+    },
+    "ProcessControl": {
+        "Prevent": [],
+        "Allow": []
+    },
+    "HostsEditor": {
+        "Block": [],
+        "Add": []
+    },
+    "RegistryFix": {
+        "TaskManager": true,
+        "CommandPrompt": true,
+        "ControlPanel": true,
+        "FolderOptions": true,
+        "RunDialog": true,
+        "RightClickMenu": true,
+        "WindowsFirewall": true,
+        "RegistryEditor": true
+    },
+    "Integrator": {
+        "TakeOwnership": false,
+        "OpenWithCMD": false
+    },
+    "AdvancedTweaks": {
+        "UnlockAllCores": null,
+        "DisableHPET": false,
+        "EnableLoginVerbose": null,
+        "SvchostProcessSplitting": {
+            "Disable": null,
+            "RAM": null
+        }
+    },
+    "Tweaks": {
+        "EnablePerformanceTweaks": false,
+        "DisableNetworkThrottling": false,
+        "DisableWindowsDefender": false,
+        "DisableSystemRestore": false,
+        "DisablePrintService": false,
+        "DisableMediaPlayerSharing": false,
+        "DisableErrorReporting": false,
+        "DisableHomeGroup": false,
+        "DisableSuperfetch": false,
+        "DisableTelemetryTasks": false,
+        "DisableOffice2016Telemetry": false,
+        "DisableCompatibilityAssistant": false,
+        "DisableHibernation": false,
+        "DisableSMB1": false,
+        "DisableSMB2": false,
+        "DisableNTFSTimeStamp": false,
+        "DisableFaxService": false,
+        "DisableSmartScreen": false,
+        "DisableStickyKeys": false,
+        "DisableCloudClipboard": false,
+        "EnableLegacyVolumeSlider": false,
+        "DisableQuickAccessHistory": false,
+        "DisableStartMenuAds": false,
+        "UninstallOneDrive": false,
+        "DisableMyPeople": false,
+        "DisableAutomaticUpdates": false,
+        "ExcludeDrivers": false,
+        "DisableTelemetryServices": false,
+        "DisablePrivacyOptions": false,
+        "DisableCortana": false,
+        "DisableSensorServices": false,
+        "DisableWindowsInk": false,
+        "DisableSpellingTyping": false,
+        "DisableXboxLive": false,
+        "DisableGameBar": false,
+        "DisableInsiderService": false,
+        "DisableStoreUpdates": false,
+        "EnableLongPaths": false,
+        "RemoveCastToDevice": false,
+        "EnableGamingMode": false,
+        "TaskbarToLeft": false,
+        "DisableSnapAssist": false,
+        "DisableWidgets": false,
+        "DisableChat": false,
+        "TaskbarSmaller": false,
+        "DisableStickers": false,
+        "ClassicRibbon": false,
+        "ClassicMenu": false,
+        "DisableTPMCheck": false,
+        "CompactMode": false,
+        "DisableVirtualizationBasedTechnology": false,
+        "DisableVisualStudioTelemetry": false,
+        "DisableFirefoxTemeletry": false,
+        "DisableChromeTelemetry": false,
+        "DisableNVIDIATelemetry": false,
+        "DisableSearch": false,
+        "DisableEdgeDiscoverBar": false,
+        "DisableEdgeTelemetry": false
+    }
+}
