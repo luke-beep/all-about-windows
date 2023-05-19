@@ -27,5 +27,4 @@ If you have any questions or concerns about the security of this guide, please c
 
 ----- 
 
-Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved.
 
