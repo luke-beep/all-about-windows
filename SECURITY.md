@@ -6,7 +6,7 @@ This guide is designed to help users optimize their Windows operating system, an
 - Keep your operating system and software up-to-date with the latest security updates and patches.
 - Regularly backup your data and store backups securely.
 
-If you are unsure about any steps in the guide or are uncomfortable making changes to your system, open an issue and we'll figure it out.
+If you are unsure about any steps in this guide or are uncomfortable making changes to your system, open an issue and we'll figure it out.
 
 ### Supported Versions
 
@@ -23,7 +23,7 @@ If you are unsure about any steps in the guide or are uncomfortable making chang
 
 ----- 
 
-If you have any questions or concerns about the security of this guide, please contact me by opening an issue on this GitHub repository. I take security very seriously and I'll do our best to address any concerns in a timely manner.
+If you have any questions or concerns about the security of this guide, please contact me by opening an issue on this GitHub repository. I take security very seriously and I'll do my best to address any concerns in a timely manner.
 
 
 
