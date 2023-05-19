@@ -1,7 +1,5 @@
 # Security Policy
 
------ 
-
 This guide is designed to help users optimize their Windows operating system, and as such, it does not contain any software that could introduce security vulnerabilities. However, there are still a few best things to be wary about.
 
 - Only download software from reputable sources, and ensure that you are downloading the correct version for your operating system.
@@ -10,7 +8,7 @@ This guide is designed to help users optimize their Windows operating system, an
 
 If you are unsure about any steps in the guide or are uncomfortable making changes to your system, open an issue and we'll figure it out.
 
-## Supported Versions
+### Supported Versions
 
 ----- 
 
@@ -21,7 +19,7 @@ If you are unsure about any steps in the guide or are uncomfortable making chang
 | Windows 11 21H2   | :white_check_mark: |
 | Windows 10 21H2   | :white_check_mark: |
 
-## Reporting a Vulnerability
+### Reporting a Vulnerability
 
 ----- 
 
