@@ -12,7 +12,7 @@
 > <img src="../assets/hone_advanced.png" alt="Optimizer" title="Optimizer">
 
 
-## **Settings Explained**
+### **Settings Explained**
 
 --- 
 
