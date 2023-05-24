@@ -3,7 +3,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="#"><img src="./assets/win.png" width="540" alt="Windows Logo" /></a>
+		<a href="#"><img src="./assets/Windows/win.png" width="540" alt="Windows Logo" /></a>
 	</p>
 	<br />
 	<p>
@@ -297,7 +297,7 @@
 - Enable SAM. "In conventional Windows-based PC systems, processors can only access a fraction of graphics memory (VRAM) at once, limiting system performance.
 With AMD Smart Access Memory, the data channel gets expanded to harness the full potential of GPU memory, utilizing the bandwidth of PCI Express® to remove the bottlenecks and increase performance." - [**AMD**](https://www.amd.com/en/technologies/smart-access-memory). **Only do it if you meet the following requirements**.
 
-<img src="/assets/amd_amd.png">
+<img src="/assets/AMD/amd_amd.png">
 
 ### **Miscellaneous BIOS Tweaks**
 
@@ -335,7 +335,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - Run NVCleanStall and build the driver using these settings - This step is optional, the latest debloated drivers can be found here: **[LukeHjo_531.79.exe](/drivers/LukeHjo_531.79.exe)**.
 
 <p>
-	<img src="/assets/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
+	<img src="/assets/NVIDIA/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
 </p>
 
 - Install the drivers from the package that NVcleanstall created.
