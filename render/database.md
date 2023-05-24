@@ -20,6 +20,8 @@
 | [luke-beep](https://github.com/luke-beep) | Hello, this is me the author of this guide. I included myself as I've spent a lot of time researching everything from latency to kernels. | 
 | [Techpowerup - True nature of E-cores and how effective are they?](https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/) | Explains E-cores and their purpose. |
 | [A bit about TCP Optimizer](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474) | Explains what TCP Optimizer is and the optimal settings to use. |
+| [Microsoft - Message Signal Interrupt](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-message-signaled-interrupts) | Explains what MSI is and how it works. |
+
 
 ---
 

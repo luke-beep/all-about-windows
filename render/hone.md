@@ -26,6 +26,8 @@
     - As mentioned in the name, this will set the CSRSS process to high priority. This will could potentially increase performance but could increase latency as well. It's best to benchmark this setting to see if it's worth it.
 - Timer Resolution 
     - This will set the timer resolution to 0.5ms using the [SetTimerResolutionService](/Applications/SetTimerResolutionService.exe) service. It is the same as running the normal Timer Resolution application but this one will run as a service. 
+- MSI Mode
+    - Enables MSI Support for all of the supported PnP devices. 
 
 
 ---

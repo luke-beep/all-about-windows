@@ -21,7 +21,7 @@
 
 [**Guide Version & Date last updated**](/render/version.md)
 
-
+[**License**](/LICENSE)
 
 [**Winver**](/render/winver.md)
 
@@ -34,7 +34,6 @@
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
-> This guide is essentially a collection of tweaks and information. Some are by others, some are by me. If you want to use this guide, please link to this github.
 
 
 ### **Table of Contents**
@@ -74,8 +73,6 @@
 - [**Useful Links/Downloads**](#useful-linksdownloads)
 - [**Dive deeper into optimization**](#dive-deeper-into-optimization)
 - [**Credits**](#credits)
-
-> Before we proceed, if you'd like to skip downloading every single file used in this guide you can use this script to automatically download everything [here](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/scripts/install.bat)
 
 ### **General Tweaks**
 
