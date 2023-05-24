@@ -432,10 +432,6 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 ---
 
-- **nikø#7787**
-
-- **xetanyl#7777**
-
 - [**Auraside**](https://github.com/auraside)
 
 - [**Hellzerg**](https://github.com/hellzerg)
