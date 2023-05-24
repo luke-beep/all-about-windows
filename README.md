@@ -19,11 +19,11 @@
 
 <div align="center">
 
-[**Guide version & date last updated**](/render/VERSION.md) 
+[**Guide version & date last updated**](/docs/VERSION.md) 
 
- [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) | [**My Winver**](/render/WINVER.md)
+ [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) | [**My Winver**](/docs/WINVER.md)
 
- [**License**](/LICENSE) | [**Contributing**](/render/CONTRIBUTING.md) | [**Security**](/SECURITY.md) | [**Database**](/render/DATABASE.md) | [**Issues**](https://github.com/luke-beep/guide-to-optimizing-windows/issues) | [**Security**](https://github.com/luke-beep/guide-to-optimizing-windows/security) | [**Roadmap**](https://github.com/users/luke-beep/projects/2)
+ [**License**](/LICENSE) | [**Contributing**](.github/CONTRIBUTING.md) | [**Security**](.github/SECURITY.md) | [**Database**](/docs/DATABASE.md) | [**Issues**](https://github.com/luke-beep/guide-to-optimizing-windows/issues) | [**Security**](.github/SECURITY.md) | [**Roadmap**](https://github.com/users/luke-beep/projects/2) | [**Pull Requests**](.github/PULL_REQUEST_TEMPLATE.md)
 
 </div>
 
@@ -400,7 +400,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
 
-> [Settings](/render/HONE.md)
+> [Settings](/docs/HONE.md)
 
 ### **Useful Links/Downloads**
 
@@ -425,7 +425,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 ---
 
-> For more information & guides, check out the [**database**](/render/DATABASE.md).
+> For more information & guides, check out the [**database**](/docs/DATABASE.md).
 
 
 ### Credits
@@ -442,7 +442,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - [**TheSoapTech**](https://www.tiktok.com/@thesoaptech)
 
-> More credits can be found in the [**database**](/render/DATABASE.md).
+> More credits can be found in the [**database**](/docs/DATABASE.md).
 
 ---
 
