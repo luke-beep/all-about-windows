@@ -445,3 +445,9 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 > More credits can be found in the [**database**](/render/DATABASE.md).
 
 ---
+
+
+**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+<br>
+
+<div align="right"><a href="#">(Back to top)</a></div>
