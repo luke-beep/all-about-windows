@@ -442,6 +442,6 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - [**TheSoapTech**](https://www.tiktok.com/@thesoaptech)
 
-> More credits can be found in the [**database**](/DATABASE.md).
+> More credits can be found in the [**database**](/render/DATABASE.md).
 
 ---
