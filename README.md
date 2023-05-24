@@ -475,8 +475,3 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 - [**TheSoapTech**](https://www.tiktok.com/@thesoaptech)
 
 ---
-
-**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
-<br>
-
-<div align="right"><a href="#">(Back to top)</a></div>
