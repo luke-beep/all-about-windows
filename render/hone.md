@@ -19,13 +19,13 @@
 ### **Optimizations Page 1**
 
 - Power Plan
- - Don't enable this if you have a laptop. [Hone power plan](/configurations/Hone/HoneV2.pow) will enable Processor idle disable power setting. This will disable the CPU from going into idle state. This will increase performance but will also increase power consumption and heat. All of the power plan settings can be found [here](https://bitsum.com/known-windows-power-guids/). If you want to view your own power plan settings you can do so by running `powercfg /Q` in command prompt.
+    - Don't enable this if you have a laptop. [Hone power plan](/configurations/Hone/HoneV2.pow) will enable Processor idle disable power setting. This will disable the CPU from going into idle state. This will increase performance but will also increase power consumption and heat. All of the power plan settings can be found [here](https://bitsum.com/known-windows-power-guids/). If you want to view your own power plan settings you can do so by running `powercfg /Q` in command prompt.
 - SvcHostSplitThreshold
- - This setting will split the SvcHost process into multiple processes. This will increase transparency by allowing you to view every single service individually. It'll allow you to fix any issues with a specific service. 
+    - This setting will split the SvcHost process into multiple processes. This will increase transparency by allowing you to view every single service individually. It'll allow you to fix any issues with a specific service. 
 - CSRSS High Priority
- - As mentioned in the name, this will set the CSRSS process to high priority. This will could potentially increase performance but could increase latency as well. It's best to benchmark this setting to see if it's worth it.
+    - As mentioned in the name, this will set the CSRSS process to high priority. This will could potentially increase performance but could increase latency as well. It's best to benchmark this setting to see if it's worth it.
 - Timer Resolution 
- - This will set the timer resolution to 0.5ms using the [SetTimerResolutionService](/Applications/SetTimerResolutionService.exe) service. It is the same as running the normal Timer Resolution application but this one will run as a service. 
+    - This will set the timer resolution to 0.5ms using the [SetTimerResolutionService](/Applications/SetTimerResolutionService.exe) service. It is the same as running the normal Timer Resolution application but this one will run as a service. 
 
 
 ---
