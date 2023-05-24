@@ -11,7 +11,6 @@
 		<a href="https://github.com/luke-beep"><img src="https://img.shields.io/badge/github-view-blue?style=flat-square&logo=github" alt="My Github profile" /></a>
         <a href="https://www.youtube.com/channel/UC_-YAH9OBLVVWom_wV4HHxw"><img src="https://img.shields.io/badge/youtube-view-blue?style=flat-square&logo=youtube" alt="My Youtub Channel"></a>
 		<a href="https://github.com/sponsors/luke-beep"><img src="https://img.shields.io/github/sponsors/luke-beep?style=flat-square" alt="Github Sponsor"/></a>
-
 </div>
 
 
@@ -20,14 +19,11 @@
 
 <div align="center">
 
-[**Guide Version & Date last updated**](/render/version.md)
+[**Guide version & date last updated**](/render/VERSION.md) 
 
-[**License**](/LICENSE)
+ [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) | [**My Winver**](/render/WINVER.md)
 
-[**Winver**](/render/winver.md)
-
-
- [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
+ [**License**](/LICENSE) | [**Contributing**](/render/CONTRIBUTING.md) | [**Security**](/SECURITY.md) | [**Database**](/render/DATABASE.md) | [**Issues**](https://github.com/luke-beep/guide-to-optimizing-windows/issues) | [**Security**](https://github.com/luke-beep/guide-to-optimizing-windows/security) | [**Roadmap**](https://github.com/users/luke-beep/projects/2)
 
 </div>
 
@@ -404,7 +400,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 ### **Safe to use HoneCTRL settings for NVIDIA**
 ----
 
-> [Settings](/render/hone.md)
+> [Settings](/render/HONE.md)
 
 ### **Useful Links/Downloads**
 
@@ -429,7 +425,7 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 ---
 
-> For more information & guides, check out the [**database**](/render/database.md).
+> For more information & guides, check out the [**database**](/render/DATABASE.md).
 
 
 ### Credits
@@ -446,6 +442,6 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - [**TheSoapTech**](https://www.tiktok.com/@thesoaptech)
 
-> More credits can be found in the [**database**](/database.md).
+> More credits can be found in the [**database**](/DATABASE.md).
 
 ---
