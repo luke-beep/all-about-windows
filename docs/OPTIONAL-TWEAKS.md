@@ -19,3 +19,11 @@
 - **[https://www.malwarebytes.com/solutions/malware-scanner](https://www.malwarebytes.com/solutions/malware-scanner)** a malware scanner. **Recommended**
 
 - **[https://github.com/builtbybel/BloatsyNosy](https://github.com/builtbybel/BloatyNosy)** a windows 11 tweaker, only available for windows 11. **Recommended**
+
+---
+
+
+**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+<br>
+
+<div align="right"><a href="#">(Back to top)</a></div>
