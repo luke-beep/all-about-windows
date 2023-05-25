@@ -24,6 +24,11 @@
 | [Microsoft - Plug and Play](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-plug-and-play) | Explains PnP in great detail. |
 | nikø#7787 - Overclocking | Experienced with RAM overclocking, RDNA2 overclocking, Zen 3 overclocking. And a great PC Builder. |
 | xetanyl#7777 | Introduced me to the greatness of Arctic & SeaSonic. And a great PC Builder. |
+| [Wagnardsoft - DDU Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial) | A tutorial on how to use DDU. Included it because it's a helpful resource for beginners. |
+|[Techpowerup - Latest NVIDIA driver](https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history)| Easy endpoint to the latest NVIDIA drivers and all of the changes. | 
+|[Techpowerup - Latest AMD driver](https://www.techpowerup.com/download/amd-radeon-graphics-drivers/)| Easy endpoint to the latest AMD drivers and all of the changes. |
+|[Techpowerup - Latest Intel driver](https://www.techpowerup.com/download/intel-arc-graphics-drivers/)| Easy endpoint to the latest Intel ARC drivers and all of the changes. |
+
 
 ---
 
