@@ -27,7 +27,7 @@
 
 </div>
 
-**Note:** This guide/collection is for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a [pull request or open an issue](/SECURITY.md#reporting-a-vulnerability).
+**Note:** This guide/collection is not **finished**, it's in very early beta and I'd appreciate some feedback. This guide is made for windows 10 64-bit and 11 64-bit. If you are using windows 7 or 8, you can use this guide but some of the steps may not work. It is advised to make a backup of your computer before doing any of the steps in this guide. Here is a guide on how to **[create a system restore point](https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)**. If you feel like anything is missing or needs to be changed, feel free to make a [pull request or open an issue](/SECURITY.md#reporting-a-vulnerability).
 
 **Disclaimer:** I am not responsible for any damage done to your computer. This guide is for educational purposes only.
 
@@ -35,7 +35,6 @@
 
 ### **Table of Contents**
 
-- [**General Tweaks**](#general-tweaks)
 - [**Service Tweaks**](#service-tweaks)
 - [**Gaming Tweaks**](#gaming-tweaks)
 - [**Network Tweaks**](#network-tweaks)
@@ -80,10 +79,6 @@
 - Uninstall all unnecessary apps by using `appwiz.cpl` in Run (WIN + R).
 
 - Make sure that you have the latest version of windows. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information). 
-
-- Open an elevated command prompt and type `bcdedit /set increaseuserva 3072` and press enter. This will increase the amount of virtual memory that your computer can use. This will help with performance and crashes if you have a 32 bit system. **Do not do this on a 64 bit system.**
-
-> Open an elevated command prompt and type `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`. Then set a KMS server by typing `slmgr /skms kms8.msguides.com`. Then activate windows by typing `slmgr /ato`. This will activate windows and make it enable all the features and remove the ugly watermark. Run `slmgr /xpr` to check if it worked.
 
 
 
