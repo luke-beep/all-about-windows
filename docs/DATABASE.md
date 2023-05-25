@@ -28,6 +28,7 @@
 |[Techpowerup - Latest NVIDIA driver](https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history)| Easy endpoint to the latest NVIDIA drivers and all of the changes. | 
 |[Techpowerup - Latest AMD driver](https://www.techpowerup.com/download/amd-radeon-graphics-drivers/)| Easy endpoint to the latest AMD drivers and all of the changes. |
 |[Techpowerup - Latest Intel driver](https://www.techpowerup.com/download/intel-arc-graphics-drivers/)| Easy endpoint to the latest Intel ARC drivers and all of the changes. |
+| [TheSoapTech](https://www.tiktok.com/@thesoaptech) | Tech Enthusiast who provides a lot of useful tech news. |
 
 
 ---

@@ -71,21 +71,9 @@
 - [**32-bit Tweaks**](/docs/32BIT.md)
 - [**FAQ**](/docs/FAQ.md)
 - [**Dive deeper into optimization**](/docs/DATABASE.md)
-- [**Credits**](#credits)
+- [**Credits**](/docs/DATABASE.md)
 
 > This guide is based on my own personal research and experience, although I do use external sources & guides as an inspiration. It isn't my intent to replicate their content. All of the references and sources are linked in the [database](/docs/DATABASE.md). 
-
-### Credits
-
----
-
-- [**Auraside**](https://github.com/auraside)
-
-- [**Hellzerg**](https://github.com/hellzerg)
-
-- [**TheSoapTech**](https://www.tiktok.com/@thesoaptech)
-
-> More credits can be found in the [**database**](/docs/DATABASE.md).
 
 ---
 
