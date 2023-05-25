@@ -9,3 +9,10 @@
 - **StartAllBack** - **[https://startisback.com/](https://startisback.com/)** a tool that allows you to change the start menu. **Only Available for Windows 10**
 
 
+---
+
+
+**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+<br>
+
+<div align="right"><a href="#">(Back to top)</a></div>

@@ -41,3 +41,10 @@ With AMD Smart Access Memory, the data channel gets expanded to harness the full
 
 - Memory optimizations for MSI motherboards **[https://www.msi.com/blog/memory-force](https://www.msi.com/blog/memory-force)**.
  
+ ---
+
+
+**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
+<br>
+
+<div align="right"><a href="#">(Back to top)</a></div>

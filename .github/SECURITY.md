@@ -25,5 +25,3 @@ If you are unsure about any steps in this guide or are uncomfortable making chan
 
 If you have any questions or concerns about the security of this guide, please contact me by opening an issue on this GitHub repository. I take security very seriously and I'll do my best to address any concerns in a timely manner.
 
-
-
