@@ -37,10 +37,3 @@
 
 <div align="right"><a href="#">(Back to top)</a></div>
 
----
-
-
-**<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
-<br>
-
-<div align="right"><a href="#">(Back to top)</a></div>
