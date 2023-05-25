@@ -72,13 +72,7 @@
 
 > This guide is based on my own personal research and experience, although I do use external sources & guides as an inspiration. It isn't my intent to replicate their content. All of the references and sources are linked in the [database](/docs/DATABASE.md). 
 
-### **General Tweaks**
-
----
-
-- Uninstall all unnecessary apps by using `appwiz.cpl` in Run (WIN + R).
-
-- Make sure that you have the latest version of windows. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information). 
+- Make sure that you have the latest version of before Windows following this guide. As of current date it would be [**Windows 10**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Windows 11**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
 
 
 
@@ -90,7 +84,7 @@
 
 1. To begin with this section, you have to open up services.msc. To do this you can either WIN + R and type "services.msc" or you can open up task manager and go to the services tab and click on "Open Services" at the bottom of the window. Or by simply searching for services in the start menu.
 
-2. Identify the unnecessary services: Look through the list of services and identify those that you don't need. You can use google to identify services that's unnecessary and that can be safely disabled.
+2. Identify the unnecessary services: Look through the list of services and identify those that you don't need. You can use [this](/docs/SERVICES.md) list to identify services that's unnecessary and that can be safely disabled.
 
 3. Disable unnecessary services, to disable a service, right-click on it and select "Properties". In the "Startup type" drop-down menu, select "Disabled". Click "Apply" and then "OK" to save your changes. Repeat this step for any other unnecessary services.
 
