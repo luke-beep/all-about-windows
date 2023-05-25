@@ -71,7 +71,7 @@
 - [**Dive deeper into optimization**](#dive-deeper-into-optimization)
 - [**Credits**](#credits)
 
-> This guide is based on my own personal research and experience, although I did use external sources & guides as an inspiration. It isn't my intent to replicate their information. All of the references and sources are linked in the [database](/docs/DATABASE.md). 
+> This guide is based on my own personal research and experience, although I do use external sources & guides as an inspiration. It isn't my intent to replicate their content. All of the references and sources are linked in the [database](/docs/DATABASE.md). 
 
 ### **General Tweaks**
 
