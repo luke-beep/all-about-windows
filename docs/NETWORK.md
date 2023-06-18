@@ -8,7 +8,7 @@
 
 #### **Cloudflare IPv6 DNS Servers**
 
-2606:4700::1111 and 2606:4700:4700::1001
+2606:4700:4700::1111 and 2606:4700:4700::1001
 
 #### **Google IPv4 DNS Servers**
 
