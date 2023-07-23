@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>**Tools**</summary>
+**<summary>Tools</summary>**
 
 - Chocolatey is a package manager for windows. It allows you to install programs from the command line. **[https://chocolatey.org/install](https://chocolatey.org/install)**.
 
@@ -46,7 +46,7 @@
 
 <details>
 
-<summary>**Windows images**</summary>
+**<summary>Windows images</summary>**
 
 - **[Windows 10 image](https://www.microsoft.com/en-us/software-download/windows10ISO)**
 
@@ -56,7 +56,7 @@
 
 <details>
 
-<summary>**Configurations**</summary>
+**<summary>Configurations</summary>**
 
 - An NVIDIA Config. **[https://drive.google.com/drive/folders/1QQU0wbxucc6602ighxTK0iZMbZmQWGP0?usp=drive_link](https://drive.google.com/drive/folders/1QQU0wbxucc6602ighxTK0iZMbZmQWGP0?usp=drive_link)**. 
 
@@ -88,8 +88,8 @@
 
 <details>
 
-<summary>**Winver**</summary>
-
+**<summary>Winver</summary>
+**
 WIN + R and type `winver` and press enter. This will open a window that shows you your current Windows version.
 
 <p>
@@ -100,9 +100,7 @@ WIN + R and type `winver` and press enter. This will open a window that shows yo
 
 <details>
 
-<summary>**Debloat NVIDIA Drivers**</summary>
-
-### **Debloat NVIDIA Drivers**
+**<summary>Debloat NVIDIA Drivers</summary>**
 
 -  Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
 
@@ -128,7 +126,7 @@ WIN + R and type `winver` and press enter. This will open a window that shows yo
 
 <details>
 
-<summary>**Powerplan**</summary>
+**<summary>Powerplan</summary>**
 
 - **Powerplan** is a built in feature that allows you to control the power settings of your computer. It can be used to set the power plan to high performance, balanced, power saver or a custom one. My configuration is adapted to fit any system and most of it is taken from the already great Bitsum powerplan. My configuration file can be downloaded here: [Powerplan Configuration](https://raw.githubusercontent.com/luke-beep/guide-to-optimizing-windows/main/configurations/Powerplan_LukeHjo2611.pow). To import this profile you'd have to follow these 4 simple steps:
 > 1. Open CMD with elevated privileges.
