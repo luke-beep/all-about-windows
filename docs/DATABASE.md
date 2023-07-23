@@ -44,13 +44,15 @@
 
 </details>
 
+<details>
+
 <summary>Windows images</summary>
 
 - [Windows 10 image](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 - [Windows 11 image](https://www.microsoft.com/en-us/software-download/windows11)
 
-<details>
+</details>
 
 
 
