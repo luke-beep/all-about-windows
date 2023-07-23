@@ -31,6 +31,20 @@
 | [TheSoapTech](https://www.tiktok.com/@thesoaptech) | Tech Enthusiast who provides a lot of useful tech news. |
 | [TweakHound - Timer Tweak Benchmarked](https://www.tweakhound.com/2014/01/30/timer-tweaks-benchmarked/) | Sheds some light on BCD tweaks. |
 | [MSI Mode - Intel Corporation](https://www.kernel.org/doc/html/latest/PCI/msi-howto.html) | This guide describes the basics of Message Signaled Interrupts (MSIs), the advantages of using MSI over traditional interrupt mechanisms. |
+
+---
+
+<details>
+
+<summary>Tools</summary>
+
+- Chocolatey is a package manager for windows. It allows you to install programs from the command line. **[https://chocolatey.org/install](https://chocolatey.org/install)**.
+
+- Scoop is a package manager for windows. It allows you to install programs from the command line. **[https://scoop.sh/](https://scoop.sh/)**.
+
+</details>
+
+
 ---
 
 **<div align="center" id="footer"> Contact me at lukehjo@gmail.com | © 2023 LukeHjo. All rights reserved. <div>**
