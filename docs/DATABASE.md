@@ -64,9 +64,8 @@
 
 <summary>Winver</summary>
 
-> WIN + R and type `winver` and press enter. This will open a window that shows you your current Windows version.
+WIN + R and type `winver` and press enter. This will open a window that shows you your current Windows version.
 
-Example:
 <p>
  <img src="/assets/Windows/winver.png" alt="winver" /></a>
 </p>
