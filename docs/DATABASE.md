@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>Tools</summary>
+<summary>**Tools**</summary>
 
 - Chocolatey is a package manager for windows. It allows you to install programs from the command line. **[https://chocolatey.org/install](https://chocolatey.org/install)**.
 
@@ -46,17 +46,17 @@
 
 <details>
 
-<summary>Windows images</summary>
+<summary>**Windows images**</summary>
 
-- [Windows 10 image](https://www.microsoft.com/en-us/software-download/windows10ISO)
+- **[Windows 10 image](https://www.microsoft.com/en-us/software-download/windows10ISO)**
 
-- [Windows 11 image](https://www.microsoft.com/en-us/software-download/windows11)
+- **[Windows 11 image](https://www.microsoft.com/en-us/software-download/windows11)**
 
 </details>
 
 <details>
 
-<summary>Configurations</summary>
+<summary>**Configurations**</summary>
 
 - An NVIDIA Config. **[https://drive.google.com/drive/folders/1QQU0wbxucc6602ighxTK0iZMbZmQWGP0?usp=drive_link](https://drive.google.com/drive/folders/1QQU0wbxucc6602ighxTK0iZMbZmQWGP0?usp=drive_link)**. 
 
@@ -88,7 +88,7 @@
 
 <details>
 
-<summary>Winver</summary>
+<summary>**Winver**</summary>
 
 WIN + R and type `winver` and press enter. This will open a window that shows you your current Windows version.
 
@@ -97,6 +97,48 @@ WIN + R and type `winver` and press enter. This will open a window that shows yo
 </p>
 
 </details>
+
+<details>
+
+<summary>**Debloat NVIDIA Drivers**</summary>
+
+### **Debloat NVIDIA Drivers**
+
+-  Download **[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)**.
+
+-  Download **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**.
+
+-  Boot into safe mode.
+
+- Run DDU and uninstall the drivers.
+
+- **Reboot.**
+
+- Run NVCleanStall and build the driver using these settings - This step is optional, the latest debloated drivers can be found here: **[LukeHjo_531.79.exe](/drivers/LukeHjo_531.79.exe)**.
+
+<p>
+	<img src="/assets/NVIDIA/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
+</p>
+
+- Install the drivers from the package that NVcleanstall created.
+
+- **Reboot.**
+
+</details>
+
+<details>
+
+<summary>**Powerplan**</summary>
+
+- **Powerplan** is a built in feature that allows you to control the power settings of your computer. It can be used to set the power plan to high performance, balanced, power saver or a custom one. My configuration is adapted to fit any system and most of it is taken from the already great Bitsum powerplan. My configuration file can be downloaded here: [Powerplan Configuration](https://raw.githubusercontent.com/luke-beep/guide-to-optimizing-windows/main/configurations/Powerplan_LukeHjo2611.pow). To import this profile you'd have to follow these 4 simple steps:
+> 1. Open CMD with elevated privileges.
+> 2. Type in `powercfg -import "C:\Users\%USERNAME%\Desktop\Powerplan_LukeHjo2611.pow"`
+> 3. Press enter
+> 4. Open the powerplan settings and select the imported powerplan or type in `powercfg -list` and then `powercfg -setactive <GUID>` where `<GUID>` is the GUID of the powerplan you want to use.
+
+</details>
+
+
 
 ---
 
