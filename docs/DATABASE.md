@@ -31,6 +31,18 @@
 | [TheSoapTech](https://www.tiktok.com/@thesoaptech) | Tech Enthusiast who provides a lot of useful tech news. |
 | [TweakHound - Timer Tweak Benchmarked](https://www.tweakhound.com/2014/01/30/timer-tweaks-benchmarked/) | Sheds some light on BCD tweaks. |
 | [MSI Mode - Intel Corporation](https://www.kernel.org/doc/html/latest/PCI/msi-howto.html) | This guide describes the basics of Message Signaled Interrupts (MSIs), the advantages of using MSI over traditional interrupt mechanisms. |
+| [Windows 11 vs Windows 10 Gaming Performance](https://www.youtube.com/watch?v=L9J9I1pCBtw) | A comparative analysis of Windows 11 and Windows 10 in terms of gaming performance. |
+| [Windows 11 vs Windows 10 Performance Review](https://www.youtube.com/watch?v=XBFTSej-yIs) | This video provides a performance comparison between Windows 11 and Windows 10. |
+| [Windows 11 Gaming Performance vs Windows 10](https://www.youtube.com/watch?v=av7D5YPpbow) | Another comparison of Windows 11 and Windows 10 performance focused on gaming. |
+| [Windows 11 Gaming Review](https://www.youtube.com/watch?v=5DnCPRaABnc) | An in-depth review of gaming performance in Windows 11. |
+| [Windows 11 Performance Test](https://www.youtube.com/watch?v=oWNHU3JuqeU) | This video showcases a performance test conducted on Windows 11. |
+| [Windows 11 Performance: Hit or Miss?](https://www.techspot.com/article/2349-windows-11-performance/) | This article from Techspot provides detailed insights into the performance of Windows 11. |
+| [Why Windows 11 will run better than Windows 10 on many PCs](https://www.windowscentral.com/why-windows-11-will-run-better-windows-10-many-pcs) | Windows Central's analysis of why Windows 11 may outperform Windows 10 on many systems. |
+| [Windows 11: Is it faster?](https://www.youtube.com/watch?v=YtML5uOGdXY) | A video exploring the performance enhancements in Windows 11. |
+| [Windows 11 APIs for Audio Processing Objects](https://learn.microsoft.com/en-us/windows-hardware/drivers/audio/windows-11-apis-for-audio-processing-objects) | Documentation from Microsoft highlighting new APIs for Audio Processing in Windows 11. |
+| [What's New in Windows 11 - Build 22000](https://learn.microsoft.com/en-us/windows/apps/whats-new/windows-11-build-22000) | Official documentation from Microsoft outlining new features in Windows 11. |
+| [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/) | Documentation from Microsoft on Windows Subsystem for Linux (WSL) in Windows 11. |
+| [Windows 11: First Look](https://www.youtube.com/watch?v=kC3eWRPzeWw) | A first look at Windows 11, highlighting new features and improvements over Windows 10. |
 
 ---
 
