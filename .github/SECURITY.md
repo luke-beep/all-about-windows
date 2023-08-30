@@ -1,6 +1,6 @@
 # Security Policy
 
-This guide is designed to help users optimize their Windows operating system, and as such, it does not contain any software that could introduce security vulnerabilities. However, there are still a few best things to be wary about.
+This repository is designed to store information about the Windows operating system, and as such, it does not contain any software that could introduce security vulnerabilities. However, there are still a few best things to be wary about.
 
 - Only download software from reputable sources, and ensure that you are downloading the correct version for your operating system.
 - Keep your operating system and software up-to-date with the latest security updates and patches.
