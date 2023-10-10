@@ -43,6 +43,7 @@
 | [What's New in Windows 11 - Build 22000](https://learn.microsoft.com/en-us/windows/apps/whats-new/windows-11-build-22000) | Official documentation from Microsoft outlining new features in Windows 11. |
 | [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/) | Documentation from Microsoft on Windows Subsystem for Linux (WSL) in Windows 11. |
 | [Windows 11: First Look](https://www.youtube.com/watch?v=kC3eWRPzeWw) | A first look at Windows 11, highlighting new features and improvements over Windows 10. |
+| [Fix your PIN](https://www.kapilarya.com/fix-pin-not-working-in-windows-10) | A tutorial on how to fix your pin. |
 
 ---
 
