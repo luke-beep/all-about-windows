@@ -2,7 +2,6 @@
 
 | Source  | Reason |
 | ------------- | ------------- |
-| [Amit - Research](https://github.com/amitxv/PC-Tuning/blob/main/docs/research.md)  | Contains a lot of useful information that I myself have used, DSCP QoS Policy, TscSyncPolicy, RSS Queues, Win32PrioritySeparation & more. Thank you [Amit](https://github.com/amitxv) for this very helpful source of information. |
 | [Windows Timer Resolution Service](https://forums.guru3d.com/threads/windows-timer-resolution-tool-in-form-of-system-service.376458/)  | Explains a bit more in depth about the SetTimerResolutionSerivce.exe application. |
 | [Bitsum - Power Plan](https://bitsum.com/known-windows-power-guids/)  | Contains a list of all the power plan settings. |
 | [Bitsum - PSA: Beware of ‘Foreground boost’ cons](https://bitsum.com/tips-and-tweaks/psa-beware-of-foreground-boost-cons/)  | A little more in depth about Foreground boosting. |
@@ -17,13 +16,10 @@
 | [DJDallmann - GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) | Contains a lot of useful information about Windows 10 optimizations. |
 | [Amit - PC-Tuning](https://github.com/amitxv/PC-Tuning/tree/main) | Contains a lot of useful information about Windows optimizations. Including research and dual booting. |
 | [Calypto - Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit) | A document that contains a lot of useful information about latency & hardware. |
-| [luke-beep](https://github.com/luke-beep) | Hello, this is me the author of this guide. I included myself as I've spent a lot of time researching everything from latency to kernels. |
 | [Techpowerup - True nature of E-cores and how effective are they?](https://www.techpowerup.com/forums/threads/true-nature-of-e-cores-and-how-effective-are-they.298321/) | Explains E-cores and their purpose. |
 | [A bit about TCP Optimizer](https://www.speedguide.net/faq/35-what-are-the-best-tcp-optimizer-settings-for-474) | Explains what TCP Optimizer is and the optimal settings to use. |
 | [Microsoft - Message Signal Interrupt](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-message-signaled-interrupts) | Explains what MSI is and how it works. |
 | [Microsoft - Plug and Play](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-plug-and-play) | Explains PnP in great detail. |
-| nikø#7787 - Overclocking | Experienced with RAM overclocking, RDNA2 overclocking, Zen 3 overclocking. And a great PC Builder. |
-| xetanyl#7777 | Introduced me to the greatness of Arctic & SeaSonic. And a great PC Builder. |
 | [Wagnardsoft - DDU Tutorial](https://www.wagnardsoft.com/content/DDU-Guide-Tutorial) | A tutorial on how to use DDU. Included it because it's a helpful resource for beginners. |
 |[Techpowerup - Latest NVIDIA driver](https://www.techpowerup.com/download/nvidia-geforce-graphics-drivers/#history)| Easy endpoint to the latest NVIDIA drivers and all of the changes. |
 |[Techpowerup - Latest AMD driver](https://www.techpowerup.com/download/amd-radeon-graphics-drivers/)| Easy endpoint to the latest AMD drivers and all of the changes. |
@@ -40,22 +36,32 @@
 | [Why Windows 11 will run better than Windows 10 on many PCs](https://www.windowscentral.com/why-windows-11-will-run-better-windows-10-many-pcs) | Windows Central's analysis of why Windows 11 may outperform Windows 10 on many systems. |
 | [Windows 11: Is it faster?](https://www.youtube.com/watch?v=YtML5uOGdXY) | A video exploring the performance enhancements in Windows 11. |
 | [Windows 11 APIs for Audio Processing Objects](https://learn.microsoft.com/en-us/windows-hardware/drivers/audio/windows-11-apis-for-audio-processing-objects) | Documentation from Microsoft highlighting new APIs for Audio Processing in Windows 11. |
+| [Amit - Research](https://github.com/amitxv/PC-Tuning/blob/main/docs/research.md)  | Contains a lot of useful information that I myself have used, DSCP QoS Policy, TscSyncPolicy, RSS Queues, Win32PrioritySeparation & more. |
 | [What's New in Windows 11 - Build 22000](https://learn.microsoft.com/en-us/windows/apps/whats-new/windows-11-build-22000) | Official documentation from Microsoft outlining new features in Windows 11. |
 | [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/) | Documentation from Microsoft on Windows Subsystem for Linux (WSL) in Windows 11. |
 | [Windows 11: First Look](https://www.youtube.com/watch?v=kC3eWRPzeWw) | A first look at Windows 11, highlighting new features and improvements over Windows 10. |
 | [Fix your PIN](https://www.kapilarya.com/fix-pin-not-working-in-windows-10) | A tutorial on how to fix your pin. |
+| [Google DNS](https://developers.google.com/speed/public-dns/docs/using)| Configure your network settings to use Google Public DNS. |
+| [Wiztree](https://www.diskanalyzer.com/) | A very in-depth disk cleaner for Windows. |
+| [WPD](https://wpd.app/) | It is a free tool that allows you to disable telemetry and other privacy invasive features in Windows 10 and 11.  |
+| [O&O ShutUp10](https://www.oo-software.com/en/shutup10/update) | An antispy tool for Windows 10 and 11. |
+| [TCP Optimizer](https://www.speedguide.net/downloads.php) | A tool that will help you optimize your internet connection. |
+| [HoneCtrl](https://github.com/auraside/HoneCtrl/releases/tag/2.7) | A tool for automation of Windows 10 and 11 optimizations. |
+| [PowerToys](https://github.com/Microsoft/PowerToys) | A tool that allows you to achieve maximum productivity. |
+| [Malwarebytes - Malware Scanner](https://www.malwarebytes.com/solutions/malware-scanner) | A malware scanner. |
+| [JunkCTRL](https://github.com/builtbybel/JunkCtrl) | Decluttering bot. |
+| [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) | Graphics Card information utility. |
+| [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | A freeware that gathers information on some of the main devices of your system. |
+| [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | A graphics card overclocking utility. |
+| [NVCleanstall](https://www.techpowerup.com/nvcleanstall/) | A tool that allows you to debloat your NVIDIA drivers. |
+| [Chocolatey](https://chocolatey.org/install) | Chocolatey is a package manager for windows. It allows you to install programs from the command line. |
+| [Scoop](https://scoop.sh) | Scoop is a package manager for windows. It allows you to install programs from the command line. |
+| [Guides, optimizations for different games and more by thesoaptech.](https://drive.google.com/drive/folders/1u4NslwJn89M1Qx5V2ue5ncELKDcAbHv2?usp=drive_link) | Various configurations and guides provided by [thesoaptech](https://linktr.ee/thesoaptech). |
+| [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) | A tool that allows for customization of Win32 apps. **Only Available for Windows 11** |
+| [StartAllBack](https://www.startallback.com/) | A tool that allows you to change the start menu. **Only Available for Windows 11** |
+| [StartIsBack](https://startisback.com/) | A tool that allows you to change the start menu. **Only Available for Windows 10** |
 
 ---
-
-<details>
-
-**<summary>Tools</summary>**
-
-- Chocolatey is a package manager for windows. It allows you to install programs from the command line. **[https://chocolatey.org/install](https://chocolatey.org/install)**.
-
-- Scoop is a package manager for windows. It allows you to install programs from the command line. **[https://scoop.sh/](https://scoop.sh/)**.
-
-</details>
 
 <details>
 
@@ -69,40 +75,7 @@
 
 <details>
 
-**<summary>Configurations</summary>**
-
-- An NVIDIA Config. **[https://drive.google.com/drive/folders/1QQU0wbxucc6602ighxTK0iZMbZmQWGP0?usp=drive_link](https://drive.google.com/drive/folders/1QQU0wbxucc6602ighxTK0iZMbZmQWGP0?usp=drive_link)**. 
-
-- A config for Modern Warfare 2 & Warzone 2. **[https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link](https://drive.google.com/drive/folders/1n-g10GF6DOOOBxRMTeDA31wT2pQIMozF?usp=share_link)**. 
-
-- A config for Apex Legends. **[https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz)**.
-
-- A config for Destiny 2 **[https://drive.google.com/drive/folders/1luSpEJRd5lpyaVkgxMroVl4p4-jOO2zZ?usp=share_link](https://drive.google.com/drive/folders/1luSpEJRd5lpyaVkgxMroVl4p4-jOO2zZ?usp=share_link)**.
-
-- A config for The Last Of Us Part 1 **[https://drive.google.com/drive/folders/1_MCWZXv9EOfIi6f_f4qJ_qFi52Sj9wcN?usp=share_link](https://drive.google.com/drive/folders/1_MCWZXv9EOfIi6f_f4qJ_qFi52Sj9wcN?usp=share_link)**.
-
-- A config for Battlefield 2042 **[https://drive.google.com/drive/folders/1sBJ3xZnZRAbON-auM0TaWSIIVrFgdwuy?usp=share_link](https://drive.google.com/drive/folders/1sBJ3xZnZRAbON-auM0TaWSIIVrFgdwuy?usp=share_link)**.
-
-- A config for Elden Ring **[https://drive.google.com/drive/folders/1uNCmr3_UttUiv9mSlMig47kJy5k_55KK?usp=share_link](https://drive.google.com/drive/folders/1uNCmr3_UttUiv9mSlMig47kJy5k_55KK?usp=share_link)**.
-
-- A config for Apex Legends (DX11 & DX12) **[https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz](https://drive.google.com/drive/u/2/folders/1KvuaFTN4XeMtVdv1FwknZhE9L0Ac1aNz)**.
-
-- A config for Halo Infinite **[https://drive.google.com/drive/folders/1KxkTIaptRysTj3cSkKDf5OAh1v58fxe3?usp=share_link](https://drive.google.com/drive/folders/1KxkTIaptRysTj3cSkKDf5OAh1v58fxe3?usp=share_link)**.
-
-- A config for Shatterline **[https://drive.google.com/drive/folders/1dK9_n8d23-LqYlOUMG5sXbDNNdvcdAWB?usp=share_link](https://drive.google.com/drive/folders/1dK9_n8d23-LqYlOUMG5sXbDNNdvcdAWB?usp=share_link)**.
-
-- A config for Valorant **[https://drive.google.com/drive/folders/11EkV5vZnaA4JArvVrD6PnyVcYA5OkUhX?usp=share_link](https://drive.google.com/drive/folders/11EkV5vZnaA4JArvVrD6PnyVcYA5OkUhX?usp=share_link)**.
-
-- A config for Fortnite **[https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link](https://drive.google.com/drive/folders/1zYUWd3FQ5fBkaEse-3uCh1JpY_afq-uD?usp=share_link)**.
-
-- A config for CS: GO **[https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing](https://drive.google.com/drive/folders/1Z1M2krDzhzyGwkJoC1kDJVvj_BtJkRS-?usp=sharing)**.
-
-</details>
-
-<details>
-
-**<summary>Winver</summary>
-**
+**<summary>Winver</summary>**
 WIN + R and type `winver` and press enter. This will open a window that shows you your current Windows version.
 
 <p>
@@ -125,13 +98,13 @@ WIN + R and type `winver` and press enter. This will open a window that shows yo
 
 - **Reboot.**
 
-- Run NVCleanStall and build the driver using these settings - This step is optional, the latest debloated drivers can be found here: **[LukeHjo_531.79.exe](/drivers/LukeHjo_531.79.exe)**.
+- Run NVCleanStall and build the driver using these settings or do it yourself **[Amitxv - Configure NVIDIA](https://github.com/amitxv/PC-Tuning/blob/516ad5a2b956a70cc22b0b4da15e5c599cb034f2/docs/configure-nvidia.md)**.
 
 <p>
-	<img src="/assets/NVIDIA/nvcleanstall_guide.jpg" alt="NVCleanstall" /></a>
+	<img src="/assets/Configurations/nvcleanstall_guide.png" alt="NVCleanstall" /></a>
 </p>
 
-- Install the drivers from the package that NVcleanstall created.
+- Install the drivers from the package that NVCleanstall or you created.
 
 - **Reboot.**
 
@@ -141,17 +114,93 @@ WIN + R and type `winver` and press enter. This will open a window that shows yo
 
 **<summary>Powerplan</summary>**
 
-- **Powerplan** is a built in feature that allows you to control the power settings of your computer. It can be used to set the power plan to high performance, balanced, power saver or a custom one. My configuration is adapted to fit any system and most of it is taken from the already great Bitsum powerplan. My configuration file can be downloaded here: [Powerplan Configuration](https://raw.githubusercontent.com/luke-beep/guide-to-optimizing-windows/main/configurations/Powerplan_LukeHjo2611.pow). To import this profile you'd have to follow these 4 simple steps:
-> 1. Open CMD with elevated privileges.
-> 2. Type in `powercfg -import "C:\Users\%USERNAME%\Desktop\Powerplan_LukeHjo2611.pow"`
-> 3. Press enter
-> 4. Open the powerplan settings and select the imported powerplan or type in `powercfg -list` and then `powercfg -setactive <GUID>` where `<GUID>` is the GUID of the powerplan you want to use.
+- **Powerplan** is a built in feature that allows you to control the power settings of your computer. It can be used to set the power plan to high performance, balanced, power saver or a custom one. Bitsum has one available @ **[Process Lasso](https://bitsum.com/get-lasso-pro/)**.
 
 </details>
 
+<details>
+
+**<summary>Network</summary>**
+
+#### **Cloudflare IPv4 DNS Servers**
+
+1.1.1.1 and 1.0.0.1
+
+#### **Cloudflare IPv6 DNS Servers**
+
+2606:4700:4700::1111 and 2606:4700:4700::1001
+
+#### **Google IPv4 DNS Servers**
+
+ 8.8.8.8 and 8.8.4.4
+ 
+#### **Google IPv6 DNS Servers**
+
+2001:4860:4860::8888 and 2001:4860:4860::8844
+
+#### **Quad9 IPv4 DNS Servers**
+
+9.9.9.9 and 149.112.112.112
+
+#### **Quad9 IPv6 DNS Servers**
+
+2620:fe::fe and 2620:fe::9
+
+#### **Good to know IPConfig commands**
+
+`ipconfig /flushdns` - Flushes the DNS cache.
+
+`ipconfig /Displaydns` - Shows information about your current DNS server.
+
+`ipconfig /Registerdns` - Initiates manual dynamic registration for the DNS names and IP addresses that are configured at a computer.
+
+`ipconfig /release` - Releases the IPv4 address that you are currently using.
+
+`ipconfig /release6` - Releases the IPv6 address that you are currently using.
+
+`ipconfig /renew` - Renews an IPv4 address on your device.
+
+`ipconfig /renew6` - Renews an IPv6 address on your device.
+
+`ipconfig /all` - Displays all the information about all your current network adapters.
+
+`ipconfig /?` - Help for IPConfig.
+
+#### **Generally good to know commands**
+
+`netsh => /?` -  A powerful command for configuring network adapters.
+
+`netstat` - Displaying Network Statistics.
+
+`net` - View different parts of your network.
+
+`nslookup` - Useful for diagnosing DNS name resolution problems.
+
+`hostname` -  Identify your current hostname.
+
+`arp` - Modify & Display the Address Resolution Protocol cache.
+
+`getmac` - Displays your current MAC address.
+
+`systeminfo` - Information about your device.
+
+`pathping` - Combines Ping & Tracert.
+
+`tracert` - Trace packets to a destination.
 
 
----
+#### **Bandwidth Measurement**
 
-**<div align="center" id="footer"> Contact me at <lukehjo@gmail.com> | © 2023 LukeHjo. All rights reserved. <div>**
-<br>
+**Mb** - Megabit
+
+**MB** - Megabyte
+
+**Mbps** - Megabit per second.
+
+**MBps** - Megabyte per second.
+
+**b** - bit
+
+**B** - byte
+
+</details>

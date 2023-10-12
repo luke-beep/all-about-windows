@@ -7,7 +7,6 @@
 	</p>
 	<br />
 	<p>
-		<a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" /></a>
 		<a href="https://github.com/luke-beep"><img src="https://img.shields.io/badge/github-view-blue?style=flat-square&logo=github" alt="My Github profile" /></a>
         <a href="https://www.youtube.com/channel/UC_-YAH9OBLVVWom_wV4HHxw"><img src="https://img.shields.io/badge/youtube-view-blue?style=flat-square&logo=youtube" alt="My Youtub Channel"></a>
 		<a href="https://github.com/sponsors/luke-beep"><img src="https://img.shields.io/github/sponsors/luke-beep?style=flat-square" alt="Github Sponsor"/></a>
@@ -17,9 +16,9 @@
 
 [**Repository version & date last updated**](/docs/VERSION.md) 
 
- [**Latest Windows 10 Winver**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Winver**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
+[**Latest Windows 10 Versionm**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Version**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
 
- [**License**](/LICENSE) | [**Contributing**](.github/CONTRIBUTING.md) | [**Security**](.github/SECURITY.md) | [**Database**](/docs/DATABASE.md) | [**Issues**](https://github.com/luke-beep/guide-to-optimizing-windows/issues) | [**Security**](.github/SECURITY.md) | [**Roadmap**](https://github.com/users/luke-beep/projects/2) | [**Pull Requests**](.github/PULL_REQUEST_TEMPLATE.md)
+[**License**](/LICENSE) | [**Contributing**](.github/CONTRIBUTING.md) | [**Security**](.github/SECURITY.md) | [**Database**](/docs/DATABASE.md) | [**Issues**](https://github.com/luke-beep/guide-to-optimizing-windows/issues) | [**Security**](.github/SECURITY.md) | [**Pull Requests**](.github/PULL_REQUEST_TEMPLATE.md)
 
 </div>
 
