@@ -16,7 +16,7 @@
 
 [**Repository version & date last updated**](/docs/VERSION.md) 
 
-[**Latest Windows 10 Versionm**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Version**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
+[**Latest Windows 10 Version**](https://learn.microsoft.com/en-us/windows/release-health/release-information) | [**Latest Windows 11 Version**](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information)
 
 [**License**](/LICENSE) | [**Contributing**](.github/CONTRIBUTING.md) | [**Security**](.github/SECURITY.md) | [**Database**](/docs/DATABASE.md) | [**Issues**](https://github.com/luke-beep/guide-to-optimizing-windows/issues) | [**Security**](.github/SECURITY.md) | [**Pull Requests**](.github/PULL_REQUEST_TEMPLATE.md)
 
