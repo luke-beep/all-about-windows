@@ -62,6 +62,7 @@
 | [StartIsBack](https://startisback.com/) | A tool that allows you to change the start menu. **Only Available for Windows 10** |
 | [Deferred Procedure Call - Wikipedia](https://en.wikipedia.org/wiki/Deferred_Procedure_Call) | Introduction to DPCs. |
 | [Introduction to DPC Obejcts - Windows drivers](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-dpc-objects) | Introduction to DPCs. |
+| [Brave's Privacy Glossary](https://brave.com/glossary/) | Online privacy can be confusing. What’s fingerprinting? Why are trackers bad? In this easy-to-read list you’ll find short definitions of essential privacy terms. | 
 
 
 ---
